@@ -23,3 +23,6 @@ Don't forget to load .ttf font and set typeface.
     button.setTypeface(font);
 
 For better font loading techniques check out this link: https://code.google.com/p/android/issues/detail?id=9904#c7
+
+[FontAwesome][1]
+  [1]: http://fortawesome.github.io/Font-Awesome/
