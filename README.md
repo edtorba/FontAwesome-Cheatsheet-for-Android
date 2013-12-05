@@ -10,7 +10,7 @@ The complete Font Awesome 4.0.3 icon reference for Android.
     <Button
     android:id="@+id/button1"
     ...
-    android:text="@fontawesome/fa-glass"
+    android:text="@fontawesome/fa_glass"
     ... />
 
 **PS.**
