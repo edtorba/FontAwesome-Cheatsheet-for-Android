@@ -1,7 +1,7 @@
 FontAwesome-Cheatsheet-for-Android
 ==================================
 
-The complete Font Awesome 4.1.0 icon reference for Android.
+The complete Font Awesome 4.2.0 icon reference for Android.
 
 **Upload fontawesome.xml to "res/values" folder**
 
