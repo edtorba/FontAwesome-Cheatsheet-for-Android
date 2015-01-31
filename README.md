@@ -23,6 +23,6 @@ button.setTypeface(font);
 Better font loading techniques for android [here](https://code.google.com/p/android/issues/detail?id=9904#c7)
 
 
-[Font Awesome](http://fontawesome.io/)
+[Font Awesome](http://fontawesome.io/) or [Font Awesome on GitHub](https://github.com/FortAwesome/Font-Awesome)
 
 Thanks to [@sergiopantoja](https://github.com/sergiopantoja) for updating to 4.3.0 version.
