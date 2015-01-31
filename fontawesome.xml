@@ -48,6 +48,7 @@
     <item name="fa_bar_chart_o" type="fontawesome">&#xf080;</item>
     <item name="fa_barcode" type="fontawesome">&#xf02a;</item>
     <item name="fa_bars" type="fontawesome">&#xf0c9;</item>
+    <item name="fa_bed" type="fontawesome">&#xf236;</item>
     <item name="fa_beer" type="fontawesome">&#xf0fc;</item>
     <item name="fa_behance" type="fontawesome">&#xf1b4;</item>
     <item name="fa_behance_square" type="fontawesome">&#xf1b5;</item>
@@ -75,6 +76,7 @@
     <item name="fa_bullhorn" type="fontawesome">&#xf0a1;</item>
     <item name="fa_bullseye" type="fontawesome">&#xf140;</item>
     <item name="fa_bus" type="fontawesome">&#xf207;</item>
+    <item name="fa_buysellads" type="fontawesome">&#xf20d;</item>
     <item name="fa_cab" type="fontawesome">&#xf1ba;</item>
     <item name="fa_calculator" type="fontawesome">&#xf1ec;</item>
     <item name="fa_calendar" type="fontawesome">&#xf073;</item>
@@ -90,6 +92,8 @@
     <item name="fa_caret_square_o_right" type="fontawesome">&#xf152;</item>
     <item name="fa_caret_square_o_up" type="fontawesome">&#xf151;</item>
     <item name="fa_caret_up" type="fontawesome">&#xf0d8;</item>
+    <item name="fa_cart_arrow_down" type="fontawesome">&#xf218;</item>
+    <item name="fa_cart_plus" type="fontawesome">&#xf217;</item>
     <item name="fa_cc" type="fontawesome">&#xf20a;</item>
     <item name="fa_cc_amex" type="fontawesome">&#xf1f3;</item>
     <item name="fa_cc_discover" type="fontawesome">&#xf1f2;</item>
@@ -138,6 +142,7 @@
     <item name="fa_comments_o" type="fontawesome">&#xf0e6;</item>
     <item name="fa_compass" type="fontawesome">&#xf14e;</item>
     <item name="fa_compress" type="fontawesome">&#xf066;</item>
+    <item name="fa_connectdevelop" type="fontawesome">&#xf20e;</item>
     <item name="fa_copy" type="fontawesome">&#xf0c5;</item>
     <item name="fa_copyright" type="fontawesome">&#xf1f9;</item>
     <item name="fa_credit_card" type="fontawesome">&#xf09d;</item>
@@ -149,11 +154,13 @@
     <item name="fa_cut" type="fontawesome">&#xf0c4;</item>
     <item name="fa_cutlery" type="fontawesome">&#xf0f5;</item>
     <item name="fa_dashboard" type="fontawesome">&#xf0e4;</item>
+    <item name="fa_dashcube" type="fontawesome">&#xf210;</item>
     <item name="fa_database" type="fontawesome">&#xf1c0;</item>
     <item name="fa_dedent" type="fontawesome">&#xf03b;</item>
     <item name="fa_delicious" type="fontawesome">&#xf1a5;</item>
     <item name="fa_desktop" type="fontawesome">&#xf108;</item>
     <item name="fa_deviantart" type="fontawesome">&#xf1bd;</item>
+    <item name="fa_diamond" type="fontawesome">&#xf219;</item>
     <item name="fa_digg" type="fontawesome">&#xf1a6;</item>
     <item name="fa_dollar" type="fontawesome">&#xf155;</item>
     <item name="fa_dot_circle_o" type="fontawesome">&#xf192;</item>
@@ -183,6 +190,8 @@
     <item name="fa_eye_slash" type="fontawesome">&#xf070;</item>
     <item name="fa_eyedropper" type="fontawesome">&#xf1fb;</item>
     <item name="fa_facebook" type="fontawesome">&#xf09a;</item>
+    <item name="fa_facebook_f" type="fontawesome">&#xf09a;</item>
+    <item name="fa_facebook_official" type="fontawesome">&#xf230;</item>
     <item name="fa_facebook_square" type="fontawesome">&#xf082;</item>
     <item name="fa_fast_backward" type="fontawesome">&#xf049;</item>
     <item name="fa_fast_forward" type="fontawesome">&#xf050;</item>
@@ -224,6 +233,7 @@
     <item name="fa_folder_open" type="fontawesome">&#xf07c;</item>
     <item name="fa_folder_open_o" type="fontawesome">&#xf115;</item>
     <item name="fa_font" type="fontawesome">&#xf031;</item>
+    <item name="fa_forumbee" type="fontawesome">&#xf211;</item>
     <item name="fa_forward" type="fontawesome">&#xf04e;</item>
     <item name="fa_foursquare" type="fontawesome">&#xf180;</item>
     <item name="fa_frown_o" type="fontawesome">&#xf119;</item>
@@ -234,6 +244,7 @@
     <item name="fa_ge" type="fontawesome">&#xf1d1;</item>
     <item name="fa_gear" type="fontawesome">&#xf013;</item>
     <item name="fa_gears" type="fontawesome">&#xf085;</item>
+    <item name="fa_genderless" type="fontawesome">&#xf1db;</item>
     <item name="fa_gift" type="fontawesome">&#xf06b;</item>
     <item name="fa_git" type="fontawesome">&#xf1d3;</item>
     <item name="fa_git_square" type="fontawesome">&#xf1d2;</item>
@@ -248,6 +259,7 @@
     <item name="fa_google_plus_square" type="fontawesome">&#xf0d4;</item>
     <item name="fa_google_wallet" type="fontawesome">&#xf1ee;</item>
     <item name="fa_graduation_cap" type="fontawesome">&#xf19d;</item>
+    <item name="fa_gratipay" type="fontawesome">&#xf184;</item>
     <item name="fa_group" type="fontawesome">&#xf0c0;</item>
     <item name="fa_h_square" type="fontawesome">&#xf0fd;</item>
     <item name="fa_hacker_news" type="fontawesome">&#xf1d4;</item>
@@ -260,9 +272,11 @@
     <item name="fa_headphones" type="fontawesome">&#xf025;</item>
     <item name="fa_heart" type="fontawesome">&#xf004;</item>
     <item name="fa_heart_o" type="fontawesome">&#xf08a;</item>
+    <item name="fa_heartbeat" type="fontawesome">&#xf21e;</item>
     <item name="fa_history" type="fontawesome">&#xf1da;</item>
     <item name="fa_home" type="fontawesome">&#xf015;</item>
     <item name="fa_hospital_o" type="fontawesome">&#xf0f8;</item>
+    <item name="fa_hotel" type="fontawesome">&#xf236;</item>
     <item name="fa_html5" type="fontawesome">&#xf13b;</item>
     <item name="fa_ils" type="fontawesome">&#xf20b;</item>
     <item name="fa_image" type="fontawesome">&#xf03e;</item>
@@ -286,6 +300,7 @@
     <item name="fa_lastfm" type="fontawesome">&#xf202;</item>
     <item name="fa_lastfm_square" type="fontawesome">&#xf203;</item>
     <item name="fa_leaf" type="fontawesome">&#xf06c;</item>
+    <item name="fa_leanpub" type="fontawesome">&#xf212;</item>
     <item name="fa_legal" type="fontawesome">&#xf0e3;</item>
     <item name="fa_lemon_o" type="fontawesome">&#xf094;</item>
     <item name="fa_level_down" type="fontawesome">&#xf149;</item>
@@ -317,10 +332,17 @@
     <item name="fa_mail_reply_all" type="fontawesome">&#xf122;</item>
     <item name="fa_male" type="fontawesome">&#xf183;</item>
     <item name="fa_map_marker" type="fontawesome">&#xf041;</item>
+    <item name="fa_mars" type="fontawesome">&#xf222;</item>
+    <item name="fa_mars_double" type="fontawesome">&#xf227;</item>
+    <item name="fa_mars_stroke" type="fontawesome">&#xf229;</item>
+    <item name="fa_mars_stroke_h" type="fontawesome">&#xf22b;</item>
+    <item name="fa_mars_stroke_v" type="fontawesome">&#xf22a;</item>
     <item name="fa_maxcdn" type="fontawesome">&#xf136;</item>
     <item name="fa_meanpath" type="fontawesome">&#xf20c;</item>
+    <item name="fa_medium" type="fontawesome">&#xf23a;</item>
     <item name="fa_medkit" type="fontawesome">&#xf0fa;</item>
     <item name="fa_meh_o" type="fontawesome">&#xf11a;</item>
+    <item name="fa_mercury" type="fontawesome">&#xf223;</item>
     <item name="fa_microphone" type="fontawesome">&#xf130;</item>
     <item name="fa_microphone_slash" type="fontawesome">&#xf131;</item>
     <item name="fa_minus" type="fontawesome">&#xf068;</item>
@@ -332,8 +354,10 @@
     <item name="fa_money" type="fontawesome">&#xf0d6;</item>
     <item name="fa_moon_o" type="fontawesome">&#xf186;</item>
     <item name="fa_mortar_board" type="fontawesome">&#xf19d;</item>
+    <item name="fa_motorcycle" type="fontawesome">&#xf21c;</item>
     <item name="fa_music" type="fontawesome">&#xf001;</item>
     <item name="fa_navicon" type="fontawesome">&#xf0c9;</item>
+    <item name="fa_neuter" type="fontawesome">&#xf22c;</item>
     <item name="fa_newspaper_o" type="fontawesome">&#xf1ea;</item>
     <item name="fa_openid" type="fontawesome">&#xf19b;</item>
     <item name="fa_outdent" type="fontawesome">&#xf03b;</item>
@@ -358,6 +382,7 @@
     <item name="fa_pied_piper" type="fontawesome">&#xf1a7;</item>
     <item name="fa_pied_piper_alt" type="fontawesome">&#xf1a8;</item>
     <item name="fa_pinterest" type="fontawesome">&#xf0d2;</item>
+    <item name="fa_pinterest_p" type="fontawesome">&#xf231;</item>
     <item name="fa_pinterest_square" type="fontawesome">&#xf0d3;</item>
     <item name="fa_plane" type="fontawesome">&#xf072;</item>
     <item name="fa_play" type="fontawesome">&#xf04b;</item>
@@ -407,8 +432,10 @@
     <item name="fa_search" type="fontawesome">&#xf002;</item>
     <item name="fa_search_minus" type="fontawesome">&#xf010;</item>
     <item name="fa_search_plus" type="fontawesome">&#xf00e;</item>
+    <item name="fa_sellsy" type="fontawesome">&#xf213;</item>
     <item name="fa_send" type="fontawesome">&#xf1d8;</item>
     <item name="fa_send_o" type="fontawesome">&#xf1d9;</item>
+    <item name="fa_server" type="fontawesome">&#xf233;</item>
     <item name="fa_share" type="fontawesome">&#xf064;</item>
     <item name="fa_share_alt" type="fontawesome">&#xf1e0;</item>
     <item name="fa_share_alt_square" type="fontawesome">&#xf1e1;</item>
@@ -417,11 +444,15 @@
     <item name="fa_shekel" type="fontawesome">&#xf20b;</item>
     <item name="fa_sheqel" type="fontawesome">&#xf20b;</item>
     <item name="fa_shield" type="fontawesome">&#xf132;</item>
+    <item name="fa_ship" type="fontawesome">&#xf21a;</item>
+    <item name="fa_shirtsinbulk" type="fontawesome">&#xf214;</item>
     <item name="fa_shopping_cart" type="fontawesome">&#xf07a;</item>
     <item name="fa_sign_in" type="fontawesome">&#xf090;</item>
     <item name="fa_sign_out" type="fontawesome">&#xf08b;</item>
     <item name="fa_signal" type="fontawesome">&#xf012;</item>
+    <item name="fa_simplybuilt" type="fontawesome">&#xf215;</item>
     <item name="fa_sitemap" type="fontawesome">&#xf0e8;</item>
+    <item name="fa_skyatlas" type="fontawesome">&#xf216;</item>
     <item name="fa_skype" type="fontawesome">&#xf17e;</item>
     <item name="fa_slack" type="fontawesome">&#xf198;</item>
     <item name="fa_sliders" type="fontawesome">&#xf1de;</item>
@@ -460,10 +491,12 @@
     <item name="fa_step_forward" type="fontawesome">&#xf051;</item>
     <item name="fa_stethoscope" type="fontawesome">&#xf0f1;</item>
     <item name="fa_stop" type="fontawesome">&#xf04d;</item>
+    <item name="fa_street_view" type="fontawesome">&#xf21d;</item>
     <item name="fa_strikethrough" type="fontawesome">&#xf0cc;</item>
     <item name="fa_stumbleupon" type="fontawesome">&#xf1a4;</item>
     <item name="fa_stumbleupon_circle" type="fontawesome">&#xf1a3;</item>
     <item name="fa_subscript" type="fontawesome">&#xf12c;</item>
+    <item name="fa_subway" type="fontawesome">&#xf239;</item>
     <item name="fa_suitcase" type="fontawesome">&#xf0f2;</item>
     <item name="fa_sun_o" type="fontawesome">&#xf185;</item>
     <item name="fa_superscript" type="fontawesome">&#xf12b;</item>
@@ -498,6 +531,9 @@
     <item name="fa_toggle_on" type="fontawesome">&#xf205;</item>
     <item name="fa_toggle_right" type="fontawesome">&#xf152;</item>
     <item name="fa_toggle_up" type="fontawesome">&#xf151;</item>
+    <item name="fa_train" type="fontawesome">&#xf238;</item>
+    <item name="fa_transgender" type="fontawesome">&#xf224;</item>
+    <item name="fa_transgender_alt" type="fontawesome">&#xf225;</item>
     <item name="fa_trash" type="fontawesome">&#xf1f8;</item>
     <item name="fa_trash_o" type="fontawesome">&#xf014;</item>
     <item name="fa_tree" type="fontawesome">&#xf1bb;</item>
@@ -524,7 +560,14 @@
     <item name="fa_usd" type="fontawesome">&#xf155;</item>
     <item name="fa_user" type="fontawesome">&#xf007;</item>
     <item name="fa_user_md" type="fontawesome">&#xf0f0;</item>
+    <item name="fa_user_plus" type="fontawesome">&#xf234;</item>
+    <item name="fa_user_secret" type="fontawesome">&#xf21b;</item>
+    <item name="fa_user_times" type="fontawesome">&#xf235;</item>
     <item name="fa_users" type="fontawesome">&#xf0c0;</item>
+    <item name="fa_venus" type="fontawesome">&#xf221;</item>
+    <item name="fa_venus_double" type="fontawesome">&#xf226;</item>
+    <item name="fa_venus_mars" type="fontawesome">&#xf228;</item>
+    <item name="fa_viacoin" type="fontawesome">&#xf237;</item>
     <item name="fa_video_camera" type="fontawesome">&#xf03d;</item>
     <item name="fa_vimeo_square" type="fontawesome">&#xf194;</item>
     <item name="fa_vine" type="fontawesome">&#xf1ca;</item>
@@ -536,6 +579,7 @@
     <item name="fa_wechat" type="fontawesome">&#xf1d7;</item>
     <item name="fa_weibo" type="fontawesome">&#xf18a;</item>
     <item name="fa_weixin" type="fontawesome">&#xf1d7;</item>
+    <item name="fa_whatsapp" type="fontawesome">&#xf232;</item>
     <item name="fa_wheelchair" type="fontawesome">&#xf193;</item>
     <item name="fa_wifi" type="fontawesome">&#xf1eb;</item>
     <item name="fa_windows" type="fontawesome">&#xf17a;</item>
