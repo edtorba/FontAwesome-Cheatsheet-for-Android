@@ -1,598 +1,598 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <item name="fa_adjust" type="fontawesome">&#xf042;</item>
-    <item name="fa_adn" type="fontawesome">&#xf170;</item>
-    <item name="fa_align_center" type="fontawesome">&#xf037;</item>
-    <item name="fa_align_justify" type="fontawesome">&#xf039;</item>
-    <item name="fa_align_left" type="fontawesome">&#xf036;</item>
-    <item name="fa_align_right" type="fontawesome">&#xf038;</item>
-    <item name="fa_ambulance" type="fontawesome">&#xf0f9;</item>
-    <item name="fa_anchor" type="fontawesome">&#xf13d;</item>
-    <item name="fa_android" type="fontawesome">&#xf17b;</item>
-    <item name="fa_angellist" type="fontawesome">&#xf209;</item>
-    <item name="fa_angle_double_down" type="fontawesome">&#xf103;</item>
-    <item name="fa_angle_double_left" type="fontawesome">&#xf100;</item>
-    <item name="fa_angle_double_right" type="fontawesome">&#xf101;</item>
-    <item name="fa_angle_double_up" type="fontawesome">&#xf102;</item>
-    <item name="fa_angle_down" type="fontawesome">&#xf107;</item>
-    <item name="fa_angle_left" type="fontawesome">&#xf104;</item>
-    <item name="fa_angle_right" type="fontawesome">&#xf105;</item>
-    <item name="fa_angle_up" type="fontawesome">&#xf106;</item>
-    <item name="fa_apple" type="fontawesome">&#xf179;</item>
-    <item name="fa_archive" type="fontawesome">&#xf187;</item>
-    <item name="fa_area_chart" type="fontawesome">&#xf1fe;</item>
-    <item name="fa_arrow_circle_down" type="fontawesome">&#xf0ab;</item>
-    <item name="fa_arrow_circle_left" type="fontawesome">&#xf0a8;</item>
-    <item name="fa_arrow_circle_o_down" type="fontawesome">&#xf01a;</item>
-    <item name="fa_arrow_circle_o_left" type="fontawesome">&#xf190;</item>
-    <item name="fa_arrow_circle_o_right" type="fontawesome">&#xf18e;</item>
-    <item name="fa_arrow_circle_o_up" type="fontawesome">&#xf01b;</item>
-    <item name="fa_arrow_circle_right" type="fontawesome">&#xf0a9;</item>
-    <item name="fa_arrow_circle_up" type="fontawesome">&#xf0aa;</item>
-    <item name="fa_arrow_down" type="fontawesome">&#xf063;</item>
-    <item name="fa_arrow_left" type="fontawesome">&#xf060;</item>
-    <item name="fa_arrow_right" type="fontawesome">&#xf061;</item>
-    <item name="fa_arrow_up" type="fontawesome">&#xf062;</item>
-    <item name="fa_arrows" type="fontawesome">&#xf047;</item>
-    <item name="fa_arrows_alt" type="fontawesome">&#xf0b2;</item>
-    <item name="fa_arrows_h" type="fontawesome">&#xf07e;</item>
-    <item name="fa_arrows_v" type="fontawesome">&#xf07d;</item>
-    <item name="fa_asterisk" type="fontawesome">&#xf069;</item>
-    <item name="fa_at" type="fontawesome">&#xf1fa;</item>
-    <item name="fa_automobile" type="fontawesome">&#xf1b9;</item>
-    <item name="fa_backward" type="fontawesome">&#xf04a;</item>
-    <item name="fa_ban" type="fontawesome">&#xf05e;</item>
-    <item name="fa_bank" type="fontawesome">&#xf19c;</item>
-    <item name="fa_bar_chart" type="fontawesome">&#xf080;</item>
-    <item name="fa_bar_chart_o" type="fontawesome">&#xf080;</item>
-    <item name="fa_barcode" type="fontawesome">&#xf02a;</item>
-    <item name="fa_bars" type="fontawesome">&#xf0c9;</item>
-    <item name="fa_bed" type="fontawesome">&#xf236;</item>
-    <item name="fa_beer" type="fontawesome">&#xf0fc;</item>
-    <item name="fa_behance" type="fontawesome">&#xf1b4;</item>
-    <item name="fa_behance_square" type="fontawesome">&#xf1b5;</item>
-    <item name="fa_bell" type="fontawesome">&#xf0f3;</item>
-    <item name="fa_bell_o" type="fontawesome">&#xf0a2;</item>
-    <item name="fa_bell_slash" type="fontawesome">&#xf1f6;</item>
-    <item name="fa_bell_slash_o" type="fontawesome">&#xf1f7;</item>
-    <item name="fa_bicycle" type="fontawesome">&#xf206;</item>
-    <item name="fa_binoculars" type="fontawesome">&#xf1e5;</item>
-    <item name="fa_birthday_cake" type="fontawesome">&#xf1fd;</item>
-    <item name="fa_bitbucket" type="fontawesome">&#xf171;</item>
-    <item name="fa_bitbucket_square" type="fontawesome">&#xf172;</item>
-    <item name="fa_bitcoin" type="fontawesome">&#xf15a;</item>
-    <item name="fa_bold" type="fontawesome">&#xf032;</item>
-    <item name="fa_bolt" type="fontawesome">&#xf0e7;</item>
-    <item name="fa_bomb" type="fontawesome">&#xf1e2;</item>
-    <item name="fa_book" type="fontawesome">&#xf02d;</item>
-    <item name="fa_bookmark" type="fontawesome">&#xf02e;</item>
-    <item name="fa_bookmark_o" type="fontawesome">&#xf097;</item>
-    <item name="fa_briefcase" type="fontawesome">&#xf0b1;</item>
-    <item name="fa_btc" type="fontawesome">&#xf15a;</item>
-    <item name="fa_bug" type="fontawesome">&#xf188;</item>
-    <item name="fa_building" type="fontawesome">&#xf1ad;</item>
-    <item name="fa_building_o" type="fontawesome">&#xf0f7;</item>
-    <item name="fa_bullhorn" type="fontawesome">&#xf0a1;</item>
-    <item name="fa_bullseye" type="fontawesome">&#xf140;</item>
-    <item name="fa_bus" type="fontawesome">&#xf207;</item>
-    <item name="fa_buysellads" type="fontawesome">&#xf20d;</item>
-    <item name="fa_cab" type="fontawesome">&#xf1ba;</item>
-    <item name="fa_calculator" type="fontawesome">&#xf1ec;</item>
-    <item name="fa_calendar" type="fontawesome">&#xf073;</item>
-    <item name="fa_calendar_o" type="fontawesome">&#xf133;</item>
-    <item name="fa_camera" type="fontawesome">&#xf030;</item>
-    <item name="fa_camera_retro" type="fontawesome">&#xf083;</item>
-    <item name="fa_car" type="fontawesome">&#xf1b9;</item>
-    <item name="fa_caret_down" type="fontawesome">&#xf0d7;</item>
-    <item name="fa_caret_left" type="fontawesome">&#xf0d9;</item>
-    <item name="fa_caret_right" type="fontawesome">&#xf0da;</item>
-    <item name="fa_caret_square_o_down" type="fontawesome">&#xf150;</item>
-    <item name="fa_caret_square_o_left" type="fontawesome">&#xf191;</item>
-    <item name="fa_caret_square_o_right" type="fontawesome">&#xf152;</item>
-    <item name="fa_caret_square_o_up" type="fontawesome">&#xf151;</item>
-    <item name="fa_caret_up" type="fontawesome">&#xf0d8;</item>
-    <item name="fa_cart_arrow_down" type="fontawesome">&#xf218;</item>
-    <item name="fa_cart_plus" type="fontawesome">&#xf217;</item>
-    <item name="fa_cc" type="fontawesome">&#xf20a;</item>
-    <item name="fa_cc_amex" type="fontawesome">&#xf1f3;</item>
-    <item name="fa_cc_discover" type="fontawesome">&#xf1f2;</item>
-    <item name="fa_cc_mastercard" type="fontawesome">&#xf1f1;</item>
-    <item name="fa_cc_paypal" type="fontawesome">&#xf1f4;</item>
-    <item name="fa_cc_stripe" type="fontawesome">&#xf1f5;</item>
-    <item name="fa_cc_visa" type="fontawesome">&#xf1f0;</item>
-    <item name="fa_certificate" type="fontawesome">&#xf0a3;</item>
-    <item name="fa_chain" type="fontawesome">&#xf0c1;</item>
-    <item name="fa_chain_broken" type="fontawesome">&#xf127;</item>
-    <item name="fa_check" type="fontawesome">&#xf00c;</item>
-    <item name="fa_check_circle" type="fontawesome">&#xf058;</item>
-    <item name="fa_check_circle_o" type="fontawesome">&#xf05d;</item>
-    <item name="fa_check_square" type="fontawesome">&#xf14a;</item>
-    <item name="fa_check_square_o" type="fontawesome">&#xf046;</item>
-    <item name="fa_chevron_circle_down" type="fontawesome">&#xf13a;</item>
-    <item name="fa_chevron_circle_left" type="fontawesome">&#xf137;</item>
-    <item name="fa_chevron_circle_right" type="fontawesome">&#xf138;</item>
-    <item name="fa_chevron_circle_up" type="fontawesome">&#xf139;</item>
-    <item name="fa_chevron_down" type="fontawesome">&#xf078;</item>
-    <item name="fa_chevron_left" type="fontawesome">&#xf053;</item>
-    <item name="fa_chevron_right" type="fontawesome">&#xf054;</item>
-    <item name="fa_chevron_up" type="fontawesome">&#xf077;</item>
-    <item name="fa_child" type="fontawesome">&#xf1ae;</item>
-    <item name="fa_circle" type="fontawesome">&#xf111;</item>
-    <item name="fa_circle_o" type="fontawesome">&#xf10c;</item>
-    <item name="fa_circle_o_notch" type="fontawesome">&#xf1ce;</item>
-    <item name="fa_circle_thin" type="fontawesome">&#xf1db;</item>
-    <item name="fa_clipboard" type="fontawesome">&#xf0ea;</item>
-    <item name="fa_clock_o" type="fontawesome">&#xf017;</item>
-    <item name="fa_close" type="fontawesome">&#xf00d;</item>
-    <item name="fa_cloud" type="fontawesome">&#xf0c2;</item>
-    <item name="fa_cloud_download" type="fontawesome">&#xf0ed;</item>
-    <item name="fa_cloud_upload" type="fontawesome">&#xf0ee;</item>
-    <item name="fa_cny" type="fontawesome">&#xf157;</item>
-    <item name="fa_code" type="fontawesome">&#xf121;</item>
-    <item name="fa_code_fork" type="fontawesome">&#xf126;</item>
-    <item name="fa_codepen" type="fontawesome">&#xf1cb;</item>
-    <item name="fa_coffee" type="fontawesome">&#xf0f4;</item>
-    <item name="fa_cog" type="fontawesome">&#xf013;</item>
-    <item name="fa_cogs" type="fontawesome">&#xf085;</item>
-    <item name="fa_columns" type="fontawesome">&#xf0db;</item>
-    <item name="fa_comment" type="fontawesome">&#xf075;</item>
-    <item name="fa_comment_o" type="fontawesome">&#xf0e5;</item>
-    <item name="fa_comments" type="fontawesome">&#xf086;</item>
-    <item name="fa_comments_o" type="fontawesome">&#xf0e6;</item>
-    <item name="fa_compass" type="fontawesome">&#xf14e;</item>
-    <item name="fa_compress" type="fontawesome">&#xf066;</item>
-    <item name="fa_connectdevelop" type="fontawesome">&#xf20e;</item>
-    <item name="fa_copy" type="fontawesome">&#xf0c5;</item>
-    <item name="fa_copyright" type="fontawesome">&#xf1f9;</item>
-    <item name="fa_credit_card" type="fontawesome">&#xf09d;</item>
-    <item name="fa_crop" type="fontawesome">&#xf125;</item>
-    <item name="fa_crosshairs" type="fontawesome">&#xf05b;</item>
-    <item name="fa_css3" type="fontawesome">&#xf13c;</item>
-    <item name="fa_cube" type="fontawesome">&#xf1b2;</item>
-    <item name="fa_cubes" type="fontawesome">&#xf1b3;</item>
-    <item name="fa_cut" type="fontawesome">&#xf0c4;</item>
-    <item name="fa_cutlery" type="fontawesome">&#xf0f5;</item>
-    <item name="fa_dashboard" type="fontawesome">&#xf0e4;</item>
-    <item name="fa_dashcube" type="fontawesome">&#xf210;</item>
-    <item name="fa_database" type="fontawesome">&#xf1c0;</item>
-    <item name="fa_dedent" type="fontawesome">&#xf03b;</item>
-    <item name="fa_delicious" type="fontawesome">&#xf1a5;</item>
-    <item name="fa_desktop" type="fontawesome">&#xf108;</item>
-    <item name="fa_deviantart" type="fontawesome">&#xf1bd;</item>
-    <item name="fa_diamond" type="fontawesome">&#xf219;</item>
-    <item name="fa_digg" type="fontawesome">&#xf1a6;</item>
-    <item name="fa_dollar" type="fontawesome">&#xf155;</item>
-    <item name="fa_dot_circle_o" type="fontawesome">&#xf192;</item>
-    <item name="fa_download" type="fontawesome">&#xf019;</item>
-    <item name="fa_dribbble" type="fontawesome">&#xf17d;</item>
-    <item name="fa_dropbox" type="fontawesome">&#xf16b;</item>
-    <item name="fa_drupal" type="fontawesome">&#xf1a9;</item>
-    <item name="fa_edit" type="fontawesome">&#xf044;</item>
-    <item name="fa_eject" type="fontawesome">&#xf052;</item>
-    <item name="fa_ellipsis_h" type="fontawesome">&#xf141;</item>
-    <item name="fa_ellipsis_v" type="fontawesome">&#xf142;</item>
-    <item name="fa_empire" type="fontawesome">&#xf1d1;</item>
-    <item name="fa_envelope" type="fontawesome">&#xf0e0;</item>
-    <item name="fa_envelope_o" type="fontawesome">&#xf003;</item>
-    <item name="fa_envelope_square" type="fontawesome">&#xf199;</item>
-    <item name="fa_eraser" type="fontawesome">&#xf12d;</item>
-    <item name="fa_eur" type="fontawesome">&#xf153;</item>
-    <item name="fa_euro" type="fontawesome">&#xf153;</item>
-    <item name="fa_exchange" type="fontawesome">&#xf0ec;</item>
-    <item name="fa_exclamation" type="fontawesome">&#xf12a;</item>
-    <item name="fa_exclamation_circle" type="fontawesome">&#xf06a;</item>
-    <item name="fa_exclamation_triangle" type="fontawesome">&#xf071;</item>
-    <item name="fa_expand" type="fontawesome">&#xf065;</item>
-    <item name="fa_external_link" type="fontawesome">&#xf08e;</item>
-    <item name="fa_external_link_square" type="fontawesome">&#xf14c;</item>
-    <item name="fa_eye" type="fontawesome">&#xf06e;</item>
-    <item name="fa_eye_slash" type="fontawesome">&#xf070;</item>
-    <item name="fa_eyedropper" type="fontawesome">&#xf1fb;</item>
-    <item name="fa_facebook" type="fontawesome">&#xf09a;</item>
-    <item name="fa_facebook_f" type="fontawesome">&#xf09a;</item>
-    <item name="fa_facebook_official" type="fontawesome">&#xf230;</item>
-    <item name="fa_facebook_square" type="fontawesome">&#xf082;</item>
-    <item name="fa_fast_backward" type="fontawesome">&#xf049;</item>
-    <item name="fa_fast_forward" type="fontawesome">&#xf050;</item>
-    <item name="fa_fax" type="fontawesome">&#xf1ac;</item>
-    <item name="fa_female" type="fontawesome">&#xf182;</item>
-    <item name="fa_fighter_jet" type="fontawesome">&#xf0fb;</item>
-    <item name="fa_file" type="fontawesome">&#xf15b;</item>
-    <item name="fa_file_archive_o" type="fontawesome">&#xf1c6;</item>
-    <item name="fa_file_audio_o" type="fontawesome">&#xf1c7;</item>
-    <item name="fa_file_code_o" type="fontawesome">&#xf1c9;</item>
-    <item name="fa_file_excel_o" type="fontawesome">&#xf1c3;</item>
-    <item name="fa_file_image_o" type="fontawesome">&#xf1c5;</item>
-    <item name="fa_file_movie_o" type="fontawesome">&#xf1c8;</item>
-    <item name="fa_file_o" type="fontawesome">&#xf016;</item>
-    <item name="fa_file_pdf_o" type="fontawesome">&#xf1c1;</item>
-    <item name="fa_file_photo_o" type="fontawesome">&#xf1c5;</item>
-    <item name="fa_file_picture_o" type="fontawesome">&#xf1c5;</item>
-    <item name="fa_file_powerpoint_o" type="fontawesome">&#xf1c4;</item>
-    <item name="fa_file_sound_o" type="fontawesome">&#xf1c7;</item>
-    <item name="fa_file_text" type="fontawesome">&#xf15c;</item>
-    <item name="fa_file_text_o" type="fontawesome">&#xf0f6;</item>
-    <item name="fa_file_video_o" type="fontawesome">&#xf1c8;</item>
-    <item name="fa_file_word_o" type="fontawesome">&#xf1c2;</item>
-    <item name="fa_file_zip_o" type="fontawesome">&#xf1c6;</item>
-    <item name="fa_files_o" type="fontawesome">&#xf0c5;</item>
-    <item name="fa_film" type="fontawesome">&#xf008;</item>
-    <item name="fa_filter" type="fontawesome">&#xf0b0;</item>
-    <item name="fa_fire" type="fontawesome">&#xf06d;</item>
-    <item name="fa_fire_extinguisher" type="fontawesome">&#xf134;</item>
-    <item name="fa_flag" type="fontawesome">&#xf024;</item>
-    <item name="fa_flag_checkered" type="fontawesome">&#xf11e;</item>
-    <item name="fa_flag_o" type="fontawesome">&#xf11d;</item>
-    <item name="fa_flash" type="fontawesome">&#xf0e7;</item>
-    <item name="fa_flask" type="fontawesome">&#xf0c3;</item>
-    <item name="fa_flickr" type="fontawesome">&#xf16e;</item>
-    <item name="fa_floppy_o" type="fontawesome">&#xf0c7;</item>
-    <item name="fa_folder" type="fontawesome">&#xf07b;</item>
-    <item name="fa_folder_o" type="fontawesome">&#xf114;</item>
-    <item name="fa_folder_open" type="fontawesome">&#xf07c;</item>
-    <item name="fa_folder_open_o" type="fontawesome">&#xf115;</item>
-    <item name="fa_font" type="fontawesome">&#xf031;</item>
-    <item name="fa_forumbee" type="fontawesome">&#xf211;</item>
-    <item name="fa_forward" type="fontawesome">&#xf04e;</item>
-    <item name="fa_foursquare" type="fontawesome">&#xf180;</item>
-    <item name="fa_frown_o" type="fontawesome">&#xf119;</item>
-    <item name="fa_futbol_o" type="fontawesome">&#xf1e3;</item>
-    <item name="fa_gamepad" type="fontawesome">&#xf11b;</item>
-    <item name="fa_gavel" type="fontawesome">&#xf0e3;</item>
-    <item name="fa_gbp" type="fontawesome">&#xf154;</item>
-    <item name="fa_ge" type="fontawesome">&#xf1d1;</item>
-    <item name="fa_gear" type="fontawesome">&#xf013;</item>
-    <item name="fa_gears" type="fontawesome">&#xf085;</item>
-    <item name="fa_genderless" type="fontawesome">&#xf1db;</item>
-    <item name="fa_gift" type="fontawesome">&#xf06b;</item>
-    <item name="fa_git" type="fontawesome">&#xf1d3;</item>
-    <item name="fa_git_square" type="fontawesome">&#xf1d2;</item>
-    <item name="fa_github" type="fontawesome">&#xf09b;</item>
-    <item name="fa_github_alt" type="fontawesome">&#xf113;</item>
-    <item name="fa_github_square" type="fontawesome">&#xf092;</item>
-    <item name="fa_gittip" type="fontawesome">&#xf184;</item>
-    <item name="fa_glass" type="fontawesome">&#xf000;</item>
-    <item name="fa_globe" type="fontawesome">&#xf0ac;</item>
-    <item name="fa_google" type="fontawesome">&#xf1a0;</item>
-    <item name="fa_google_plus" type="fontawesome">&#xf0d5;</item>
-    <item name="fa_google_plus_square" type="fontawesome">&#xf0d4;</item>
-    <item name="fa_google_wallet" type="fontawesome">&#xf1ee;</item>
-    <item name="fa_graduation_cap" type="fontawesome">&#xf19d;</item>
-    <item name="fa_gratipay" type="fontawesome">&#xf184;</item>
-    <item name="fa_group" type="fontawesome">&#xf0c0;</item>
-    <item name="fa_h_square" type="fontawesome">&#xf0fd;</item>
-    <item name="fa_hacker_news" type="fontawesome">&#xf1d4;</item>
-    <item name="fa_hand_o_down" type="fontawesome">&#xf0a7;</item>
-    <item name="fa_hand_o_left" type="fontawesome">&#xf0a5;</item>
-    <item name="fa_hand_o_right" type="fontawesome">&#xf0a4;</item>
-    <item name="fa_hand_o_up" type="fontawesome">&#xf0a6;</item>
-    <item name="fa_hdd_o" type="fontawesome">&#xf0a0;</item>
-    <item name="fa_header" type="fontawesome">&#xf1dc;</item>
-    <item name="fa_headphones" type="fontawesome">&#xf025;</item>
-    <item name="fa_heart" type="fontawesome">&#xf004;</item>
-    <item name="fa_heart_o" type="fontawesome">&#xf08a;</item>
-    <item name="fa_heartbeat" type="fontawesome">&#xf21e;</item>
-    <item name="fa_history" type="fontawesome">&#xf1da;</item>
-    <item name="fa_home" type="fontawesome">&#xf015;</item>
-    <item name="fa_hospital_o" type="fontawesome">&#xf0f8;</item>
-    <item name="fa_hotel" type="fontawesome">&#xf236;</item>
-    <item name="fa_html5" type="fontawesome">&#xf13b;</item>
-    <item name="fa_ils" type="fontawesome">&#xf20b;</item>
-    <item name="fa_image" type="fontawesome">&#xf03e;</item>
-    <item name="fa_inbox" type="fontawesome">&#xf01c;</item>
-    <item name="fa_indent" type="fontawesome">&#xf03c;</item>
-    <item name="fa_info" type="fontawesome">&#xf129;</item>
-    <item name="fa_info_circle" type="fontawesome">&#xf05a;</item>
-    <item name="fa_inr" type="fontawesome">&#xf156;</item>
-    <item name="fa_instagram" type="fontawesome">&#xf16d;</item>
-    <item name="fa_institution" type="fontawesome">&#xf19c;</item>
-    <item name="fa_ioxhost" type="fontawesome">&#xf208;</item>
-    <item name="fa_italic" type="fontawesome">&#xf033;</item>
-    <item name="fa_joomla" type="fontawesome">&#xf1aa;</item>
-    <item name="fa_jpy" type="fontawesome">&#xf157;</item>
-    <item name="fa_jsfiddle" type="fontawesome">&#xf1cc;</item>
-    <item name="fa_key" type="fontawesome">&#xf084;</item>
-    <item name="fa_keyboard_o" type="fontawesome">&#xf11c;</item>
-    <item name="fa_krw" type="fontawesome">&#xf159;</item>
-    <item name="fa_language" type="fontawesome">&#xf1ab;</item>
-    <item name="fa_laptop" type="fontawesome">&#xf109;</item>
-    <item name="fa_lastfm" type="fontawesome">&#xf202;</item>
-    <item name="fa_lastfm_square" type="fontawesome">&#xf203;</item>
-    <item name="fa_leaf" type="fontawesome">&#xf06c;</item>
-    <item name="fa_leanpub" type="fontawesome">&#xf212;</item>
-    <item name="fa_legal" type="fontawesome">&#xf0e3;</item>
-    <item name="fa_lemon_o" type="fontawesome">&#xf094;</item>
-    <item name="fa_level_down" type="fontawesome">&#xf149;</item>
-    <item name="fa_level_up" type="fontawesome">&#xf148;</item>
-    <item name="fa_life_bouy" type="fontawesome">&#xf1cd;</item>
-    <item name="fa_life_buoy" type="fontawesome">&#xf1cd;</item>
-    <item name="fa_life_ring" type="fontawesome">&#xf1cd;</item>
-    <item name="fa_life_saver" type="fontawesome">&#xf1cd;</item>
-    <item name="fa_lightbulb_o" type="fontawesome">&#xf0eb;</item>
-    <item name="fa_line_chart" type="fontawesome">&#xf201;</item>
-    <item name="fa_link" type="fontawesome">&#xf0c1;</item>
-    <item name="fa_linkedin" type="fontawesome">&#xf0e1;</item>
-    <item name="fa_linkedin_square" type="fontawesome">&#xf08c;</item>
-    <item name="fa_linux" type="fontawesome">&#xf17c;</item>
-    <item name="fa_list" type="fontawesome">&#xf03a;</item>
-    <item name="fa_list_alt" type="fontawesome">&#xf022;</item>
-    <item name="fa_list_ol" type="fontawesome">&#xf0cb;</item>
-    <item name="fa_list_ul" type="fontawesome">&#xf0ca;</item>
-    <item name="fa_location_arrow" type="fontawesome">&#xf124;</item>
-    <item name="fa_lock" type="fontawesome">&#xf023;</item>
-    <item name="fa_long_arrow_down" type="fontawesome">&#xf175;</item>
-    <item name="fa_long_arrow_left" type="fontawesome">&#xf177;</item>
-    <item name="fa_long_arrow_right" type="fontawesome">&#xf178;</item>
-    <item name="fa_long_arrow_up" type="fontawesome">&#xf176;</item>
-    <item name="fa_magic" type="fontawesome">&#xf0d0;</item>
-    <item name="fa_magnet" type="fontawesome">&#xf076;</item>
-    <item name="fa_mail_forward" type="fontawesome">&#xf064;</item>
-    <item name="fa_mail_reply" type="fontawesome">&#xf112;</item>
-    <item name="fa_mail_reply_all" type="fontawesome">&#xf122;</item>
-    <item name="fa_male" type="fontawesome">&#xf183;</item>
-    <item name="fa_map_marker" type="fontawesome">&#xf041;</item>
-    <item name="fa_mars" type="fontawesome">&#xf222;</item>
-    <item name="fa_mars_double" type="fontawesome">&#xf227;</item>
-    <item name="fa_mars_stroke" type="fontawesome">&#xf229;</item>
-    <item name="fa_mars_stroke_h" type="fontawesome">&#xf22b;</item>
-    <item name="fa_mars_stroke_v" type="fontawesome">&#xf22a;</item>
-    <item name="fa_maxcdn" type="fontawesome">&#xf136;</item>
-    <item name="fa_meanpath" type="fontawesome">&#xf20c;</item>
-    <item name="fa_medium" type="fontawesome">&#xf23a;</item>
-    <item name="fa_medkit" type="fontawesome">&#xf0fa;</item>
-    <item name="fa_meh_o" type="fontawesome">&#xf11a;</item>
-    <item name="fa_mercury" type="fontawesome">&#xf223;</item>
-    <item name="fa_microphone" type="fontawesome">&#xf130;</item>
-    <item name="fa_microphone_slash" type="fontawesome">&#xf131;</item>
-    <item name="fa_minus" type="fontawesome">&#xf068;</item>
-    <item name="fa_minus_circle" type="fontawesome">&#xf056;</item>
-    <item name="fa_minus_square" type="fontawesome">&#xf146;</item>
-    <item name="fa_minus_square_o" type="fontawesome">&#xf147;</item>
-    <item name="fa_mobile" type="fontawesome">&#xf10b;</item>
-    <item name="fa_mobile_phone" type="fontawesome">&#xf10b;</item>
-    <item name="fa_money" type="fontawesome">&#xf0d6;</item>
-    <item name="fa_moon_o" type="fontawesome">&#xf186;</item>
-    <item name="fa_mortar_board" type="fontawesome">&#xf19d;</item>
-    <item name="fa_motorcycle" type="fontawesome">&#xf21c;</item>
-    <item name="fa_music" type="fontawesome">&#xf001;</item>
-    <item name="fa_navicon" type="fontawesome">&#xf0c9;</item>
-    <item name="fa_neuter" type="fontawesome">&#xf22c;</item>
-    <item name="fa_newspaper_o" type="fontawesome">&#xf1ea;</item>
-    <item name="fa_openid" type="fontawesome">&#xf19b;</item>
-    <item name="fa_outdent" type="fontawesome">&#xf03b;</item>
-    <item name="fa_pagelines" type="fontawesome">&#xf18c;</item>
-    <item name="fa_paint_brush" type="fontawesome">&#xf1fc;</item>
-    <item name="fa_paper_plane" type="fontawesome">&#xf1d8;</item>
-    <item name="fa_paper_plane_o" type="fontawesome">&#xf1d9;</item>
-    <item name="fa_paperclip" type="fontawesome">&#xf0c6;</item>
-    <item name="fa_paragraph" type="fontawesome">&#xf1dd;</item>
-    <item name="fa_paste" type="fontawesome">&#xf0ea;</item>
-    <item name="fa_pause" type="fontawesome">&#xf04c;</item>
-    <item name="fa_paw" type="fontawesome">&#xf1b0;</item>
-    <item name="fa_paypal" type="fontawesome">&#xf1ed;</item>
-    <item name="fa_pencil" type="fontawesome">&#xf040;</item>
-    <item name="fa_pencil_square" type="fontawesome">&#xf14b;</item>
-    <item name="fa_pencil_square_o" type="fontawesome">&#xf044;</item>
-    <item name="fa_phone" type="fontawesome">&#xf095;</item>
-    <item name="fa_phone_square" type="fontawesome">&#xf098;</item>
-    <item name="fa_photo" type="fontawesome">&#xf03e;</item>
-    <item name="fa_picture_o" type="fontawesome">&#xf03e;</item>
-    <item name="fa_pie_chart" type="fontawesome">&#xf200;</item>
-    <item name="fa_pied_piper" type="fontawesome">&#xf1a7;</item>
-    <item name="fa_pied_piper_alt" type="fontawesome">&#xf1a8;</item>
-    <item name="fa_pinterest" type="fontawesome">&#xf0d2;</item>
-    <item name="fa_pinterest_p" type="fontawesome">&#xf231;</item>
-    <item name="fa_pinterest_square" type="fontawesome">&#xf0d3;</item>
-    <item name="fa_plane" type="fontawesome">&#xf072;</item>
-    <item name="fa_play" type="fontawesome">&#xf04b;</item>
-    <item name="fa_play_circle" type="fontawesome">&#xf144;</item>
-    <item name="fa_play_circle_o" type="fontawesome">&#xf01d;</item>
-    <item name="fa_plug" type="fontawesome">&#xf1e6;</item>
-    <item name="fa_plus" type="fontawesome">&#xf067;</item>
-    <item name="fa_plus_circle" type="fontawesome">&#xf055;</item>
-    <item name="fa_plus_square" type="fontawesome">&#xf0fe;</item>
-    <item name="fa_plus_square_o" type="fontawesome">&#xf196;</item>
-    <item name="fa_power_off" type="fontawesome">&#xf011;</item>
-    <item name="fa_print" type="fontawesome">&#xf02f;</item>
-    <item name="fa_puzzle_piece" type="fontawesome">&#xf12e;</item>
-    <item name="fa_qq" type="fontawesome">&#xf1d6;</item>
-    <item name="fa_qrcode" type="fontawesome">&#xf029;</item>
-    <item name="fa_question" type="fontawesome">&#xf128;</item>
-    <item name="fa_question_circle" type="fontawesome">&#xf059;</item>
-    <item name="fa_quote_left" type="fontawesome">&#xf10d;</item>
-    <item name="fa_quote_right" type="fontawesome">&#xf10e;</item>
-    <item name="fa_ra" type="fontawesome">&#xf1d0;</item>
-    <item name="fa_random" type="fontawesome">&#xf074;</item>
-    <item name="fa_rebel" type="fontawesome">&#xf1d0;</item>
-    <item name="fa_recycle" type="fontawesome">&#xf1b8;</item>
-    <item name="fa_reddit" type="fontawesome">&#xf1a1;</item>
-    <item name="fa_reddit_square" type="fontawesome">&#xf1a2;</item>
-    <item name="fa_refresh" type="fontawesome">&#xf021;</item>
-    <item name="fa_remove" type="fontawesome">&#xf00d;</item>
-    <item name="fa_renren" type="fontawesome">&#xf18b;</item>
-    <item name="fa_reorder" type="fontawesome">&#xf0c9;</item>
-    <item name="fa_repeat" type="fontawesome">&#xf01e;</item>
-    <item name="fa_reply" type="fontawesome">&#xf112;</item>
-    <item name="fa_reply_all" type="fontawesome">&#xf122;</item>
-    <item name="fa_retweet" type="fontawesome">&#xf079;</item>
-    <item name="fa_rmb" type="fontawesome">&#xf157;</item>
-    <item name="fa_road" type="fontawesome">&#xf018;</item>
-    <item name="fa_rocket" type="fontawesome">&#xf135;</item>
-    <item name="fa_rotate_left" type="fontawesome">&#xf0e2;</item>
-    <item name="fa_rotate_right" type="fontawesome">&#xf01e;</item>
-    <item name="fa_rouble" type="fontawesome">&#xf158;</item>
-    <item name="fa_rss" type="fontawesome">&#xf09e;</item>
-    <item name="fa_rss_square" type="fontawesome">&#xf143;</item>
-    <item name="fa_rub" type="fontawesome">&#xf158;</item>
-    <item name="fa_ruble" type="fontawesome">&#xf158;</item>
-    <item name="fa_rupee" type="fontawesome">&#xf156;</item>
-    <item name="fa_save" type="fontawesome">&#xf0c7;</item>
-    <item name="fa_scissors" type="fontawesome">&#xf0c4;</item>
-    <item name="fa_search" type="fontawesome">&#xf002;</item>
-    <item name="fa_search_minus" type="fontawesome">&#xf010;</item>
-    <item name="fa_search_plus" type="fontawesome">&#xf00e;</item>
-    <item name="fa_sellsy" type="fontawesome">&#xf213;</item>
-    <item name="fa_send" type="fontawesome">&#xf1d8;</item>
-    <item name="fa_send_o" type="fontawesome">&#xf1d9;</item>
-    <item name="fa_server" type="fontawesome">&#xf233;</item>
-    <item name="fa_share" type="fontawesome">&#xf064;</item>
-    <item name="fa_share_alt" type="fontawesome">&#xf1e0;</item>
-    <item name="fa_share_alt_square" type="fontawesome">&#xf1e1;</item>
-    <item name="fa_share_square" type="fontawesome">&#xf14d;</item>
-    <item name="fa_share_square_o" type="fontawesome">&#xf045;</item>
-    <item name="fa_shekel" type="fontawesome">&#xf20b;</item>
-    <item name="fa_sheqel" type="fontawesome">&#xf20b;</item>
-    <item name="fa_shield" type="fontawesome">&#xf132;</item>
-    <item name="fa_ship" type="fontawesome">&#xf21a;</item>
-    <item name="fa_shirtsinbulk" type="fontawesome">&#xf214;</item>
-    <item name="fa_shopping_cart" type="fontawesome">&#xf07a;</item>
-    <item name="fa_sign_in" type="fontawesome">&#xf090;</item>
-    <item name="fa_sign_out" type="fontawesome">&#xf08b;</item>
-    <item name="fa_signal" type="fontawesome">&#xf012;</item>
-    <item name="fa_simplybuilt" type="fontawesome">&#xf215;</item>
-    <item name="fa_sitemap" type="fontawesome">&#xf0e8;</item>
-    <item name="fa_skyatlas" type="fontawesome">&#xf216;</item>
-    <item name="fa_skype" type="fontawesome">&#xf17e;</item>
-    <item name="fa_slack" type="fontawesome">&#xf198;</item>
-    <item name="fa_sliders" type="fontawesome">&#xf1de;</item>
-    <item name="fa_slideshare" type="fontawesome">&#xf1e7;</item>
-    <item name="fa_smile_o" type="fontawesome">&#xf118;</item>
-    <item name="fa_soccer_ball_o" type="fontawesome">&#xf1e3;</item>
-    <item name="fa_sort" type="fontawesome">&#xf0dc;</item>
-    <item name="fa_sort_alpha_asc" type="fontawesome">&#xf15d;</item>
-    <item name="fa_sort_alpha_desc" type="fontawesome">&#xf15e;</item>
-    <item name="fa_sort_amount_asc" type="fontawesome">&#xf160;</item>
-    <item name="fa_sort_amount_desc" type="fontawesome">&#xf161;</item>
-    <item name="fa_sort_asc" type="fontawesome">&#xf0de;</item>
-    <item name="fa_sort_desc" type="fontawesome">&#xf0dd;</item>
-    <item name="fa_sort_down" type="fontawesome">&#xf0dd;</item>
-    <item name="fa_sort_numeric_asc" type="fontawesome">&#xf162;</item>
-    <item name="fa_sort_numeric_desc" type="fontawesome">&#xf163;</item>
-    <item name="fa_sort_up" type="fontawesome">&#xf0de;</item>
-    <item name="fa_soundcloud" type="fontawesome">&#xf1be;</item>
-    <item name="fa_space_shuttle" type="fontawesome">&#xf197;</item>
-    <item name="fa_spinner" type="fontawesome">&#xf110;</item>
-    <item name="fa_spoon" type="fontawesome">&#xf1b1;</item>
-    <item name="fa_spotify" type="fontawesome">&#xf1bc;</item>
-    <item name="fa_square" type="fontawesome">&#xf0c8;</item>
-    <item name="fa_square_o" type="fontawesome">&#xf096;</item>
-    <item name="fa_stack_exchange" type="fontawesome">&#xf18d;</item>
-    <item name="fa_stack_overflow" type="fontawesome">&#xf16c;</item>
-    <item name="fa_star" type="fontawesome">&#xf005;</item>
-    <item name="fa_star_half" type="fontawesome">&#xf089;</item>
-    <item name="fa_star_half_empty" type="fontawesome">&#xf123;</item>
-    <item name="fa_star_half_full" type="fontawesome">&#xf123;</item>
-    <item name="fa_star_half_o" type="fontawesome">&#xf123;</item>
-    <item name="fa_star_o" type="fontawesome">&#xf006;</item>
-    <item name="fa_steam" type="fontawesome">&#xf1b6;</item>
-    <item name="fa_steam_square" type="fontawesome">&#xf1b7;</item>
-    <item name="fa_step_backward" type="fontawesome">&#xf048;</item>
-    <item name="fa_step_forward" type="fontawesome">&#xf051;</item>
-    <item name="fa_stethoscope" type="fontawesome">&#xf0f1;</item>
-    <item name="fa_stop" type="fontawesome">&#xf04d;</item>
-    <item name="fa_street_view" type="fontawesome">&#xf21d;</item>
-    <item name="fa_strikethrough" type="fontawesome">&#xf0cc;</item>
-    <item name="fa_stumbleupon" type="fontawesome">&#xf1a4;</item>
-    <item name="fa_stumbleupon_circle" type="fontawesome">&#xf1a3;</item>
-    <item name="fa_subscript" type="fontawesome">&#xf12c;</item>
-    <item name="fa_subway" type="fontawesome">&#xf239;</item>
-    <item name="fa_suitcase" type="fontawesome">&#xf0f2;</item>
-    <item name="fa_sun_o" type="fontawesome">&#xf185;</item>
-    <item name="fa_superscript" type="fontawesome">&#xf12b;</item>
-    <item name="fa_support" type="fontawesome">&#xf1cd;</item>
-    <item name="fa_table" type="fontawesome">&#xf0ce;</item>
-    <item name="fa_tablet" type="fontawesome">&#xf10a;</item>
-    <item name="fa_tachometer" type="fontawesome">&#xf0e4;</item>
-    <item name="fa_tag" type="fontawesome">&#xf02b;</item>
-    <item name="fa_tags" type="fontawesome">&#xf02c;</item>
-    <item name="fa_tasks" type="fontawesome">&#xf0ae;</item>
-    <item name="fa_taxi" type="fontawesome">&#xf1ba;</item>
-    <item name="fa_tencent_weibo" type="fontawesome">&#xf1d5;</item>
-    <item name="fa_terminal" type="fontawesome">&#xf120;</item>
-    <item name="fa_text_height" type="fontawesome">&#xf034;</item>
-    <item name="fa_text_width" type="fontawesome">&#xf035;</item>
-    <item name="fa_th" type="fontawesome">&#xf00a;</item>
-    <item name="fa_th_large" type="fontawesome">&#xf009;</item>
-    <item name="fa_th_list" type="fontawesome">&#xf00b;</item>
-    <item name="fa_thumb_tack" type="fontawesome">&#xf08d;</item>
-    <item name="fa_thumbs_down" type="fontawesome">&#xf165;</item>
-    <item name="fa_thumbs_o_down" type="fontawesome">&#xf088;</item>
-    <item name="fa_thumbs_o_up" type="fontawesome">&#xf087;</item>
-    <item name="fa_thumbs_up" type="fontawesome">&#xf164;</item>
-    <item name="fa_ticket" type="fontawesome">&#xf145;</item>
-    <item name="fa_times" type="fontawesome">&#xf00d;</item>
-    <item name="fa_times_circle" type="fontawesome">&#xf057;</item>
-    <item name="fa_times_circle_o" type="fontawesome">&#xf05c;</item>
-    <item name="fa_tint" type="fontawesome">&#xf043;</item>
-    <item name="fa_toggle_down" type="fontawesome">&#xf150;</item>
-    <item name="fa_toggle_left" type="fontawesome">&#xf191;</item>
-    <item name="fa_toggle_off" type="fontawesome">&#xf204;</item>
-    <item name="fa_toggle_on" type="fontawesome">&#xf205;</item>
-    <item name="fa_toggle_right" type="fontawesome">&#xf152;</item>
-    <item name="fa_toggle_up" type="fontawesome">&#xf151;</item>
-    <item name="fa_train" type="fontawesome">&#xf238;</item>
-    <item name="fa_transgender" type="fontawesome">&#xf224;</item>
-    <item name="fa_transgender_alt" type="fontawesome">&#xf225;</item>
-    <item name="fa_trash" type="fontawesome">&#xf1f8;</item>
-    <item name="fa_trash_o" type="fontawesome">&#xf014;</item>
-    <item name="fa_tree" type="fontawesome">&#xf1bb;</item>
-    <item name="fa_trello" type="fontawesome">&#xf181;</item>
-    <item name="fa_trophy" type="fontawesome">&#xf091;</item>
-    <item name="fa_truck" type="fontawesome">&#xf0d1;</item>
-    <item name="fa_try" type="fontawesome">&#xf195;</item>
-    <item name="fa_tty" type="fontawesome">&#xf1e4;</item>
-    <item name="fa_tumblr" type="fontawesome">&#xf173;</item>
-    <item name="fa_tumblr_square" type="fontawesome">&#xf174;</item>
-    <item name="fa_turkish_lira" type="fontawesome">&#xf195;</item>
-    <item name="fa_twitch" type="fontawesome">&#xf1e8;</item>
-    <item name="fa_twitter" type="fontawesome">&#xf099;</item>
-    <item name="fa_twitter_square" type="fontawesome">&#xf081;</item>
-    <item name="fa_umbrella" type="fontawesome">&#xf0e9;</item>
-    <item name="fa_underline" type="fontawesome">&#xf0cd;</item>
-    <item name="fa_undo" type="fontawesome">&#xf0e2;</item>
-    <item name="fa_university" type="fontawesome">&#xf19c;</item>
-    <item name="fa_unlink" type="fontawesome">&#xf127;</item>
-    <item name="fa_unlock" type="fontawesome">&#xf09c;</item>
-    <item name="fa_unlock_alt" type="fontawesome">&#xf13e;</item>
-    <item name="fa_unsorted" type="fontawesome">&#xf0dc;</item>
-    <item name="fa_upload" type="fontawesome">&#xf093;</item>
-    <item name="fa_usd" type="fontawesome">&#xf155;</item>
-    <item name="fa_user" type="fontawesome">&#xf007;</item>
-    <item name="fa_user_md" type="fontawesome">&#xf0f0;</item>
-    <item name="fa_user_plus" type="fontawesome">&#xf234;</item>
-    <item name="fa_user_secret" type="fontawesome">&#xf21b;</item>
-    <item name="fa_user_times" type="fontawesome">&#xf235;</item>
-    <item name="fa_users" type="fontawesome">&#xf0c0;</item>
-    <item name="fa_venus" type="fontawesome">&#xf221;</item>
-    <item name="fa_venus_double" type="fontawesome">&#xf226;</item>
-    <item name="fa_venus_mars" type="fontawesome">&#xf228;</item>
-    <item name="fa_viacoin" type="fontawesome">&#xf237;</item>
-    <item name="fa_video_camera" type="fontawesome">&#xf03d;</item>
-    <item name="fa_vimeo_square" type="fontawesome">&#xf194;</item>
-    <item name="fa_vine" type="fontawesome">&#xf1ca;</item>
-    <item name="fa_vk" type="fontawesome">&#xf189;</item>
-    <item name="fa_volume_down" type="fontawesome">&#xf027;</item>
-    <item name="fa_volume_off" type="fontawesome">&#xf026;</item>
-    <item name="fa_volume_up" type="fontawesome">&#xf028;</item>
-    <item name="fa_warning" type="fontawesome">&#xf071;</item>
-    <item name="fa_wechat" type="fontawesome">&#xf1d7;</item>
-    <item name="fa_weibo" type="fontawesome">&#xf18a;</item>
-    <item name="fa_weixin" type="fontawesome">&#xf1d7;</item>
-    <item name="fa_whatsapp" type="fontawesome">&#xf232;</item>
-    <item name="fa_wheelchair" type="fontawesome">&#xf193;</item>
-    <item name="fa_wifi" type="fontawesome">&#xf1eb;</item>
-    <item name="fa_windows" type="fontawesome">&#xf17a;</item>
-    <item name="fa_won" type="fontawesome">&#xf159;</item>
-    <item name="fa_wordpress" type="fontawesome">&#xf19a;</item>
-    <item name="fa_wrench" type="fontawesome">&#xf0ad;</item>
-    <item name="fa_xing" type="fontawesome">&#xf168;</item>
-    <item name="fa_xing_square" type="fontawesome">&#xf169;</item>
-    <item name="fa_yahoo" type="fontawesome">&#xf19e;</item>
-    <item name="fa_yelp" type="fontawesome">&#xf1e9;</item>
-    <item name="fa_yen" type="fontawesome">&#xf157;</item>
-    <item name="fa_youtube" type="fontawesome">&#xf167;</item>
-    <item name="fa_youtube_play" type="fontawesome">&#xf16a;</item>
-    <item name="fa_youtube_square" type="fontawesome">&#xf166;</item>
+    <string name="fa_adjust">&#xf042;</string>
+    <string name="fa_adn">&#xf170;</string>
+    <string name="fa_align_center">&#xf037;</string>
+    <string name="fa_align_justify">&#xf039;</string>
+    <string name="fa_align_left">&#xf036;</string>
+    <string name="fa_align_right">&#xf038;</string>
+    <string name="fa_ambulance">&#xf0f9;</string>
+    <string name="fa_anchor">&#xf13d;</string>
+    <string name="fa_android">&#xf17b;</string>
+    <string name="fa_angellist">&#xf209;</string>
+    <string name="fa_angle_double_down">&#xf103;</string>
+    <string name="fa_angle_double_left">&#xf100;</string>
+    <string name="fa_angle_double_right">&#xf101;</string>
+    <string name="fa_angle_double_up">&#xf102;</string>
+    <string name="fa_angle_down">&#xf107;</string>
+    <string name="fa_angle_left">&#xf104;</string>
+    <string name="fa_angle_right">&#xf105;</string>
+    <string name="fa_angle_up">&#xf106;</string>
+    <string name="fa_apple">&#xf179;</string>
+    <string name="fa_archive">&#xf187;</string>
+    <string name="fa_area_chart">&#xf1fe;</string>
+    <string name="fa_arrow_circle_down">&#xf0ab;</string>
+    <string name="fa_arrow_circle_left">&#xf0a8;</string>
+    <string name="fa_arrow_circle_o_down">&#xf01a;</string>
+    <string name="fa_arrow_circle_o_left">&#xf190;</string>
+    <string name="fa_arrow_circle_o_right">&#xf18e;</string>
+    <string name="fa_arrow_circle_o_up">&#xf01b;</string>
+    <string name="fa_arrow_circle_right">&#xf0a9;</string>
+    <string name="fa_arrow_circle_up">&#xf0aa;</string>
+    <string name="fa_arrow_down">&#xf063;</string>
+    <string name="fa_arrow_left">&#xf060;</string>
+    <string name="fa_arrow_right">&#xf061;</string>
+    <string name="fa_arrow_up">&#xf062;</string>
+    <string name="fa_arrows">&#xf047;</string>
+    <string name="fa_arrows_alt">&#xf0b2;</string>
+    <string name="fa_arrows_h">&#xf07e;</string>
+    <string name="fa_arrows_v">&#xf07d;</string>
+    <string name="fa_asterisk">&#xf069;</string>
+    <string name="fa_at">&#xf1fa;</string>
+    <string name="fa_automobile">&#xf1b9;</string>
+    <string name="fa_backward">&#xf04a;</string>
+    <string name="fa_ban">&#xf05e;</string>
+    <string name="fa_bank">&#xf19c;</string>
+    <string name="fa_bar_chart">&#xf080;</string>
+    <string name="fa_bar_chart_o">&#xf080;</string>
+    <string name="fa_barcode">&#xf02a;</string>
+    <string name="fa_bars">&#xf0c9;</string>
+    <string name="fa_bed">&#xf236;</string>
+    <string name="fa_beer">&#xf0fc;</string>
+    <string name="fa_behance">&#xf1b4;</string>
+    <string name="fa_behance_square">&#xf1b5;</string>
+    <string name="fa_bell">&#xf0f3;</string>
+    <string name="fa_bell_o">&#xf0a2;</string>
+    <string name="fa_bell_slash">&#xf1f6;</string>
+    <string name="fa_bell_slash_o">&#xf1f7;</string>
+    <string name="fa_bicycle">&#xf206;</string>
+    <string name="fa_binoculars">&#xf1e5;</string>
+    <string name="fa_birthday_cake">&#xf1fd;</string>
+    <string name="fa_bitbucket">&#xf171;</string>
+    <string name="fa_bitbucket_square">&#xf172;</string>
+    <string name="fa_bitcoin">&#xf15a;</string>
+    <string name="fa_bold">&#xf032;</string>
+    <string name="fa_bolt">&#xf0e7;</string>
+    <string name="fa_bomb">&#xf1e2;</string>
+    <string name="fa_book">&#xf02d;</string>
+    <string name="fa_bookmark">&#xf02e;</string>
+    <string name="fa_bookmark_o">&#xf097;</string>
+    <string name="fa_briefcase">&#xf0b1;</string>
+    <string name="fa_btc">&#xf15a;</string>
+    <string name="fa_bug">&#xf188;</string>
+    <string name="fa_building">&#xf1ad;</string>
+    <string name="fa_building_o">&#xf0f7;</string>
+    <string name="fa_bullhorn">&#xf0a1;</string>
+    <string name="fa_bullseye">&#xf140;</string>
+    <string name="fa_bus">&#xf207;</string>
+    <string name="fa_buysellads">&#xf20d;</string>
+    <string name="fa_cab">&#xf1ba;</string>
+    <string name="fa_calculator">&#xf1ec;</string>
+    <string name="fa_calendar">&#xf073;</string>
+    <string name="fa_calendar_o">&#xf133;</string>
+    <string name="fa_camera">&#xf030;</string>
+    <string name="fa_camera_retro">&#xf083;</string>
+    <string name="fa_car">&#xf1b9;</string>
+    <string name="fa_caret_down">&#xf0d7;</string>
+    <string name="fa_caret_left">&#xf0d9;</string>
+    <string name="fa_caret_right">&#xf0da;</string>
+    <string name="fa_caret_square_o_down">&#xf150;</string>
+    <string name="fa_caret_square_o_left">&#xf191;</string>
+    <string name="fa_caret_square_o_right">&#xf152;</string>
+    <string name="fa_caret_square_o_up">&#xf151;</string>
+    <string name="fa_caret_up">&#xf0d8;</string>
+    <string name="fa_cart_arrow_down">&#xf218;</string>
+    <string name="fa_cart_plus">&#xf217;</string>
+    <string name="fa_cc">&#xf20a;</string>
+    <string name="fa_cc_amex">&#xf1f3;</string>
+    <string name="fa_cc_discover">&#xf1f2;</string>
+    <string name="fa_cc_mastercard">&#xf1f1;</string>
+    <string name="fa_cc_paypal">&#xf1f4;</string>
+    <string name="fa_cc_stripe">&#xf1f5;</string>
+    <string name="fa_cc_visa">&#xf1f0;</string>
+    <string name="fa_certificate">&#xf0a3;</string>
+    <string name="fa_chain">&#xf0c1;</string>
+    <string name="fa_chain_broken">&#xf127;</string>
+    <string name="fa_check">&#xf00c;</string>
+    <string name="fa_check_circle">&#xf058;</string>
+    <string name="fa_check_circle_o">&#xf05d;</string>
+    <string name="fa_check_square">&#xf14a;</string>
+    <string name="fa_check_square_o">&#xf046;</string>
+    <string name="fa_chevron_circle_down">&#xf13a;</string>
+    <string name="fa_chevron_circle_left">&#xf137;</string>
+    <string name="fa_chevron_circle_right">&#xf138;</string>
+    <string name="fa_chevron_circle_up">&#xf139;</string>
+    <string name="fa_chevron_down">&#xf078;</string>
+    <string name="fa_chevron_left">&#xf053;</string>
+    <string name="fa_chevron_right">&#xf054;</string>
+    <string name="fa_chevron_up">&#xf077;</string>
+    <string name="fa_child">&#xf1ae;</string>
+    <string name="fa_circle">&#xf111;</string>
+    <string name="fa_circle_o">&#xf10c;</string>
+    <string name="fa_circle_o_notch">&#xf1ce;</string>
+    <string name="fa_circle_thin">&#xf1db;</string>
+    <string name="fa_clipboard">&#xf0ea;</string>
+    <string name="fa_clock_o">&#xf017;</string>
+    <string name="fa_close">&#xf00d;</string>
+    <string name="fa_cloud">&#xf0c2;</string>
+    <string name="fa_cloud_download">&#xf0ed;</string>
+    <string name="fa_cloud_upload">&#xf0ee;</string>
+    <string name="fa_cny">&#xf157;</string>
+    <string name="fa_code">&#xf121;</string>
+    <string name="fa_code_fork">&#xf126;</string>
+    <string name="fa_codepen">&#xf1cb;</string>
+    <string name="fa_coffee">&#xf0f4;</string>
+    <string name="fa_cog">&#xf013;</string>
+    <string name="fa_cogs">&#xf085;</string>
+    <string name="fa_columns">&#xf0db;</string>
+    <string name="fa_comment">&#xf075;</string>
+    <string name="fa_comment_o">&#xf0e5;</string>
+    <string name="fa_comments">&#xf086;</string>
+    <string name="fa_comments_o">&#xf0e6;</string>
+    <string name="fa_compass">&#xf14e;</string>
+    <string name="fa_compress">&#xf066;</string>
+    <string name="fa_connectdevelop">&#xf20e;</string>
+    <string name="fa_copy">&#xf0c5;</string>
+    <string name="fa_copyright">&#xf1f9;</string>
+    <string name="fa_credit_card">&#xf09d;</string>
+    <string name="fa_crop">&#xf125;</string>
+    <string name="fa_crosshairs">&#xf05b;</string>
+    <string name="fa_css3">&#xf13c;</string>
+    <string name="fa_cube">&#xf1b2;</string>
+    <string name="fa_cubes">&#xf1b3;</string>
+    <string name="fa_cut">&#xf0c4;</string>
+    <string name="fa_cutlery">&#xf0f5;</string>
+    <string name="fa_dashboard">&#xf0e4;</string>
+    <string name="fa_dashcube">&#xf210;</string>
+    <string name="fa_database">&#xf1c0;</string>
+    <string name="fa_dedent">&#xf03b;</string>
+    <string name="fa_delicious">&#xf1a5;</string>
+    <string name="fa_desktop">&#xf108;</string>
+    <string name="fa_deviantart">&#xf1bd;</string>
+    <string name="fa_diamond">&#xf219;</string>
+    <string name="fa_digg">&#xf1a6;</string>
+    <string name="fa_dollar">&#xf155;</string>
+    <string name="fa_dot_circle_o">&#xf192;</string>
+    <string name="fa_download">&#xf019;</string>
+    <string name="fa_dribbble">&#xf17d;</string>
+    <string name="fa_dropbox">&#xf16b;</string>
+    <string name="fa_drupal">&#xf1a9;</string>
+    <string name="fa_edit">&#xf044;</string>
+    <string name="fa_eject">&#xf052;</string>
+    <string name="fa_ellipsis_h">&#xf141;</string>
+    <string name="fa_ellipsis_v">&#xf142;</string>
+    <string name="fa_empire">&#xf1d1;</string>
+    <string name="fa_envelope">&#xf0e0;</string>
+    <string name="fa_envelope_o">&#xf003;</string>
+    <string name="fa_envelope_square">&#xf199;</string>
+    <string name="fa_eraser">&#xf12d;</string>
+    <string name="fa_eur">&#xf153;</string>
+    <string name="fa_euro">&#xf153;</string>
+    <string name="fa_exchange">&#xf0ec;</string>
+    <string name="fa_exclamation">&#xf12a;</string>
+    <string name="fa_exclamation_circle">&#xf06a;</string>
+    <string name="fa_exclamation_triangle">&#xf071;</string>
+    <string name="fa_expand">&#xf065;</string>
+    <string name="fa_external_link">&#xf08e;</string>
+    <string name="fa_external_link_square">&#xf14c;</string>
+    <string name="fa_eye">&#xf06e;</string>
+    <string name="fa_eye_slash">&#xf070;</string>
+    <string name="fa_eyedropper">&#xf1fb;</string>
+    <string name="fa_facebook">&#xf09a;</string>
+    <string name="fa_facebook_f">&#xf09a;</string>
+    <string name="fa_facebook_official">&#xf230;</string>
+    <string name="fa_facebook_square">&#xf082;</string>
+    <string name="fa_fast_backward">&#xf049;</string>
+    <string name="fa_fast_forward">&#xf050;</string>
+    <string name="fa_fax">&#xf1ac;</string>
+    <string name="fa_female">&#xf182;</string>
+    <string name="fa_fighter_jet">&#xf0fb;</string>
+    <string name="fa_file">&#xf15b;</string>
+    <string name="fa_file_archive_o">&#xf1c6;</string>
+    <string name="fa_file_audio_o">&#xf1c7;</string>
+    <string name="fa_file_code_o">&#xf1c9;</string>
+    <string name="fa_file_excel_o">&#xf1c3;</string>
+    <string name="fa_file_image_o">&#xf1c5;</string>
+    <string name="fa_file_movie_o">&#xf1c8;</string>
+    <string name="fa_file_o">&#xf016;</string>
+    <string name="fa_file_pdf_o">&#xf1c1;</string>
+    <string name="fa_file_photo_o">&#xf1c5;</string>
+    <string name="fa_file_picture_o">&#xf1c5;</string>
+    <string name="fa_file_powerpoint_o">&#xf1c4;</string>
+    <string name="fa_file_sound_o">&#xf1c7;</string>
+    <string name="fa_file_text">&#xf15c;</string>
+    <string name="fa_file_text_o">&#xf0f6;</string>
+    <string name="fa_file_video_o">&#xf1c8;</string>
+    <string name="fa_file_word_o">&#xf1c2;</string>
+    <string name="fa_file_zip_o">&#xf1c6;</string>
+    <string name="fa_files_o">&#xf0c5;</string>
+    <string name="fa_film">&#xf008;</string>
+    <string name="fa_filter">&#xf0b0;</string>
+    <string name="fa_fire">&#xf06d;</string>
+    <string name="fa_fire_extinguisher">&#xf134;</string>
+    <string name="fa_flag">&#xf024;</string>
+    <string name="fa_flag_checkered">&#xf11e;</string>
+    <string name="fa_flag_o">&#xf11d;</string>
+    <string name="fa_flash">&#xf0e7;</string>
+    <string name="fa_flask">&#xf0c3;</string>
+    <string name="fa_flickr">&#xf16e;</string>
+    <string name="fa_floppy_o">&#xf0c7;</string>
+    <string name="fa_folder">&#xf07b;</string>
+    <string name="fa_folder_o">&#xf114;</string>
+    <string name="fa_folder_open">&#xf07c;</string>
+    <string name="fa_folder_open_o">&#xf115;</string>
+    <string name="fa_font">&#xf031;</string>
+    <string name="fa_forumbee">&#xf211;</string>
+    <string name="fa_forward">&#xf04e;</string>
+    <string name="fa_foursquare">&#xf180;</string>
+    <string name="fa_frown_o">&#xf119;</string>
+    <string name="fa_futbol_o">&#xf1e3;</string>
+    <string name="fa_gamepad">&#xf11b;</string>
+    <string name="fa_gavel">&#xf0e3;</string>
+    <string name="fa_gbp">&#xf154;</string>
+    <string name="fa_ge">&#xf1d1;</string>
+    <string name="fa_gear">&#xf013;</string>
+    <string name="fa_gears">&#xf085;</string>
+    <string name="fa_genderless">&#xf1db;</string>
+    <string name="fa_gift">&#xf06b;</string>
+    <string name="fa_git">&#xf1d3;</string>
+    <string name="fa_git_square">&#xf1d2;</string>
+    <string name="fa_github">&#xf09b;</string>
+    <string name="fa_github_alt">&#xf113;</string>
+    <string name="fa_github_square">&#xf092;</string>
+    <string name="fa_gittip">&#xf184;</string>
+    <string name="fa_glass">&#xf000;</string>
+    <string name="fa_globe">&#xf0ac;</string>
+    <string name="fa_google">&#xf1a0;</string>
+    <string name="fa_google_plus">&#xf0d5;</string>
+    <string name="fa_google_plus_square">&#xf0d4;</string>
+    <string name="fa_google_wallet">&#xf1ee;</string>
+    <string name="fa_graduation_cap">&#xf19d;</string>
+    <string name="fa_gratipay">&#xf184;</string>
+    <string name="fa_group">&#xf0c0;</string>
+    <string name="fa_h_square">&#xf0fd;</string>
+    <string name="fa_hacker_news">&#xf1d4;</string>
+    <string name="fa_hand_o_down">&#xf0a7;</string>
+    <string name="fa_hand_o_left">&#xf0a5;</string>
+    <string name="fa_hand_o_right">&#xf0a4;</string>
+    <string name="fa_hand_o_up">&#xf0a6;</string>
+    <string name="fa_hdd_o">&#xf0a0;</string>
+    <string name="fa_header">&#xf1dc;</string>
+    <string name="fa_headphones">&#xf025;</string>
+    <string name="fa_heart">&#xf004;</string>
+    <string name="fa_heart_o">&#xf08a;</string>
+    <string name="fa_heartbeat">&#xf21e;</string>
+    <string name="fa_history">&#xf1da;</string>
+    <string name="fa_home">&#xf015;</string>
+    <string name="fa_hospital_o">&#xf0f8;</string>
+    <string name="fa_hotel">&#xf236;</string>
+    <string name="fa_html5">&#xf13b;</string>
+    <string name="fa_ils">&#xf20b;</string>
+    <string name="fa_image">&#xf03e;</string>
+    <string name="fa_inbox">&#xf01c;</string>
+    <string name="fa_indent">&#xf03c;</string>
+    <string name="fa_info">&#xf129;</string>
+    <string name="fa_info_circle">&#xf05a;</string>
+    <string name="fa_inr">&#xf156;</string>
+    <string name="fa_instagram">&#xf16d;</string>
+    <string name="fa_institution">&#xf19c;</string>
+    <string name="fa_ioxhost">&#xf208;</string>
+    <string name="fa_italic">&#xf033;</string>
+    <string name="fa_joomla">&#xf1aa;</string>
+    <string name="fa_jpy">&#xf157;</string>
+    <string name="fa_jsfiddle">&#xf1cc;</string>
+    <string name="fa_key">&#xf084;</string>
+    <string name="fa_keyboard_o">&#xf11c;</string>
+    <string name="fa_krw">&#xf159;</string>
+    <string name="fa_language">&#xf1ab;</string>
+    <string name="fa_laptop">&#xf109;</string>
+    <string name="fa_lastfm">&#xf202;</string>
+    <string name="fa_lastfm_square">&#xf203;</string>
+    <string name="fa_leaf">&#xf06c;</string>
+    <string name="fa_leanpub">&#xf212;</string>
+    <string name="fa_legal">&#xf0e3;</string>
+    <string name="fa_lemon_o">&#xf094;</string>
+    <string name="fa_level_down">&#xf149;</string>
+    <string name="fa_level_up">&#xf148;</string>
+    <string name="fa_life_bouy">&#xf1cd;</string>
+    <string name="fa_life_buoy">&#xf1cd;</string>
+    <string name="fa_life_ring">&#xf1cd;</string>
+    <string name="fa_life_saver">&#xf1cd;</string>
+    <string name="fa_lightbulb_o">&#xf0eb;</string>
+    <string name="fa_line_chart">&#xf201;</string>
+    <string name="fa_link">&#xf0c1;</string>
+    <string name="fa_linkedin">&#xf0e1;</string>
+    <string name="fa_linkedin_square">&#xf08c;</string>
+    <string name="fa_linux">&#xf17c;</string>
+    <string name="fa_list">&#xf03a;</string>
+    <string name="fa_list_alt">&#xf022;</string>
+    <string name="fa_list_ol">&#xf0cb;</string>
+    <string name="fa_list_ul">&#xf0ca;</string>
+    <string name="fa_location_arrow">&#xf124;</string>
+    <string name="fa_lock">&#xf023;</string>
+    <string name="fa_long_arrow_down">&#xf175;</string>
+    <string name="fa_long_arrow_left">&#xf177;</string>
+    <string name="fa_long_arrow_right">&#xf178;</string>
+    <string name="fa_long_arrow_up">&#xf176;</string>
+    <string name="fa_magic">&#xf0d0;</string>
+    <string name="fa_magnet">&#xf076;</string>
+    <string name="fa_mail_forward">&#xf064;</string>
+    <string name="fa_mail_reply">&#xf112;</string>
+    <string name="fa_mail_reply_all">&#xf122;</string>
+    <string name="fa_male">&#xf183;</string>
+    <string name="fa_map_marker">&#xf041;</string>
+    <string name="fa_mars">&#xf222;</string>
+    <string name="fa_mars_double">&#xf227;</string>
+    <string name="fa_mars_stroke">&#xf229;</string>
+    <string name="fa_mars_stroke_h">&#xf22b;</string>
+    <string name="fa_mars_stroke_v">&#xf22a;</string>
+    <string name="fa_maxcdn">&#xf136;</string>
+    <string name="fa_meanpath">&#xf20c;</string>
+    <string name="fa_medium">&#xf23a;</string>
+    <string name="fa_medkit">&#xf0fa;</string>
+    <string name="fa_meh_o">&#xf11a;</string>
+    <string name="fa_mercury">&#xf223;</string>
+    <string name="fa_microphone">&#xf130;</string>
+    <string name="fa_microphone_slash">&#xf131;</string>
+    <string name="fa_minus">&#xf068;</string>
+    <string name="fa_minus_circle">&#xf056;</string>
+    <string name="fa_minus_square">&#xf146;</string>
+    <string name="fa_minus_square_o">&#xf147;</string>
+    <string name="fa_mobile">&#xf10b;</string>
+    <string name="fa_mobile_phone">&#xf10b;</string>
+    <string name="fa_money">&#xf0d6;</string>
+    <string name="fa_moon_o">&#xf186;</string>
+    <string name="fa_mortar_board">&#xf19d;</string>
+    <string name="fa_motorcycle">&#xf21c;</string>
+    <string name="fa_music">&#xf001;</string>
+    <string name="fa_navicon">&#xf0c9;</string>
+    <string name="fa_neuter">&#xf22c;</string>
+    <string name="fa_newspaper_o">&#xf1ea;</string>
+    <string name="fa_openid">&#xf19b;</string>
+    <string name="fa_outdent">&#xf03b;</string>
+    <string name="fa_pagelines">&#xf18c;</string>
+    <string name="fa_paint_brush">&#xf1fc;</string>
+    <string name="fa_paper_plane">&#xf1d8;</string>
+    <string name="fa_paper_plane_o">&#xf1d9;</string>
+    <string name="fa_paperclip">&#xf0c6;</string>
+    <string name="fa_paragraph">&#xf1dd;</string>
+    <string name="fa_paste">&#xf0ea;</string>
+    <string name="fa_pause">&#xf04c;</string>
+    <string name="fa_paw">&#xf1b0;</string>
+    <string name="fa_paypal">&#xf1ed;</string>
+    <string name="fa_pencil">&#xf040;</string>
+    <string name="fa_pencil_square">&#xf14b;</string>
+    <string name="fa_pencil_square_o">&#xf044;</string>
+    <string name="fa_phone">&#xf095;</string>
+    <string name="fa_phone_square">&#xf098;</string>
+    <string name="fa_photo">&#xf03e;</string>
+    <string name="fa_picture_o">&#xf03e;</string>
+    <string name="fa_pie_chart">&#xf200;</string>
+    <string name="fa_pied_piper">&#xf1a7;</string>
+    <string name="fa_pied_piper_alt">&#xf1a8;</string>
+    <string name="fa_pinterest">&#xf0d2;</string>
+    <string name="fa_pinterest_p">&#xf231;</string>
+    <string name="fa_pinterest_square">&#xf0d3;</string>
+    <string name="fa_plane">&#xf072;</string>
+    <string name="fa_play">&#xf04b;</string>
+    <string name="fa_play_circle">&#xf144;</string>
+    <string name="fa_play_circle_o">&#xf01d;</string>
+    <string name="fa_plug">&#xf1e6;</string>
+    <string name="fa_plus">&#xf067;</string>
+    <string name="fa_plus_circle">&#xf055;</string>
+    <string name="fa_plus_square">&#xf0fe;</string>
+    <string name="fa_plus_square_o">&#xf196;</string>
+    <string name="fa_power_off">&#xf011;</string>
+    <string name="fa_print">&#xf02f;</string>
+    <string name="fa_puzzle_piece">&#xf12e;</string>
+    <string name="fa_qq">&#xf1d6;</string>
+    <string name="fa_qrcode">&#xf029;</string>
+    <string name="fa_question">&#xf128;</string>
+    <string name="fa_question_circle">&#xf059;</string>
+    <string name="fa_quote_left">&#xf10d;</string>
+    <string name="fa_quote_right">&#xf10e;</string>
+    <string name="fa_ra">&#xf1d0;</string>
+    <string name="fa_random">&#xf074;</string>
+    <string name="fa_rebel">&#xf1d0;</string>
+    <string name="fa_recycle">&#xf1b8;</string>
+    <string name="fa_reddit">&#xf1a1;</string>
+    <string name="fa_reddit_square">&#xf1a2;</string>
+    <string name="fa_refresh">&#xf021;</string>
+    <string name="fa_remove">&#xf00d;</string>
+    <string name="fa_renren">&#xf18b;</string>
+    <string name="fa_reorder">&#xf0c9;</string>
+    <string name="fa_repeat">&#xf01e;</string>
+    <string name="fa_reply">&#xf112;</string>
+    <string name="fa_reply_all">&#xf122;</string>
+    <string name="fa_retweet">&#xf079;</string>
+    <string name="fa_rmb">&#xf157;</string>
+    <string name="fa_road">&#xf018;</string>
+    <string name="fa_rocket">&#xf135;</string>
+    <string name="fa_rotate_left">&#xf0e2;</string>
+    <string name="fa_rotate_right">&#xf01e;</string>
+    <string name="fa_rouble">&#xf158;</string>
+    <string name="fa_rss">&#xf09e;</string>
+    <string name="fa_rss_square">&#xf143;</string>
+    <string name="fa_rub">&#xf158;</string>
+    <string name="fa_ruble">&#xf158;</string>
+    <string name="fa_rupee">&#xf156;</string>
+    <string name="fa_save">&#xf0c7;</string>
+    <string name="fa_scissors">&#xf0c4;</string>
+    <string name="fa_search">&#xf002;</string>
+    <string name="fa_search_minus">&#xf010;</string>
+    <string name="fa_search_plus">&#xf00e;</string>
+    <string name="fa_sellsy">&#xf213;</string>
+    <string name="fa_send">&#xf1d8;</string>
+    <string name="fa_send_o">&#xf1d9;</string>
+    <string name="fa_server">&#xf233;</string>
+    <string name="fa_share">&#xf064;</string>
+    <string name="fa_share_alt">&#xf1e0;</string>
+    <string name="fa_share_alt_square">&#xf1e1;</string>
+    <string name="fa_share_square">&#xf14d;</string>
+    <string name="fa_share_square_o">&#xf045;</string>
+    <string name="fa_shekel">&#xf20b;</string>
+    <string name="fa_sheqel">&#xf20b;</string>
+    <string name="fa_shield">&#xf132;</string>
+    <string name="fa_ship">&#xf21a;</string>
+    <string name="fa_shirtsinbulk">&#xf214;</string>
+    <string name="fa_shopping_cart">&#xf07a;</string>
+    <string name="fa_sign_in">&#xf090;</string>
+    <string name="fa_sign_out">&#xf08b;</string>
+    <string name="fa_signal">&#xf012;</string>
+    <string name="fa_simplybuilt">&#xf215;</string>
+    <string name="fa_sitemap">&#xf0e8;</string>
+    <string name="fa_skyatlas">&#xf216;</string>
+    <string name="fa_skype">&#xf17e;</string>
+    <string name="fa_slack">&#xf198;</string>
+    <string name="fa_sliders">&#xf1de;</string>
+    <string name="fa_slideshare">&#xf1e7;</string>
+    <string name="fa_smile_o">&#xf118;</string>
+    <string name="fa_soccer_ball_o">&#xf1e3;</string>
+    <string name="fa_sort">&#xf0dc;</string>
+    <string name="fa_sort_alpha_asc">&#xf15d;</string>
+    <string name="fa_sort_alpha_desc">&#xf15e;</string>
+    <string name="fa_sort_amount_asc">&#xf160;</string>
+    <string name="fa_sort_amount_desc">&#xf161;</string>
+    <string name="fa_sort_asc">&#xf0de;</string>
+    <string name="fa_sort_desc">&#xf0dd;</string>
+    <string name="fa_sort_down">&#xf0dd;</string>
+    <string name="fa_sort_numeric_asc">&#xf162;</string>
+    <string name="fa_sort_numeric_desc">&#xf163;</string>
+    <string name="fa_sort_up">&#xf0de;</string>
+    <string name="fa_soundcloud">&#xf1be;</string>
+    <string name="fa_space_shuttle">&#xf197;</string>
+    <string name="fa_spinner">&#xf110;</string>
+    <string name="fa_spoon">&#xf1b1;</string>
+    <string name="fa_spotify">&#xf1bc;</string>
+    <string name="fa_square">&#xf0c8;</string>
+    <string name="fa_square_o">&#xf096;</string>
+    <string name="fa_stack_exchange">&#xf18d;</string>
+    <string name="fa_stack_overflow">&#xf16c;</string>
+    <string name="fa_star">&#xf005;</string>
+    <string name="fa_star_half">&#xf089;</string>
+    <string name="fa_star_half_empty">&#xf123;</string>
+    <string name="fa_star_half_full">&#xf123;</string>
+    <string name="fa_star_half_o">&#xf123;</string>
+    <string name="fa_star_o">&#xf006;</string>
+    <string name="fa_steam">&#xf1b6;</string>
+    <string name="fa_steam_square">&#xf1b7;</string>
+    <string name="fa_step_backward">&#xf048;</string>
+    <string name="fa_step_forward">&#xf051;</string>
+    <string name="fa_stethoscope">&#xf0f1;</string>
+    <string name="fa_stop">&#xf04d;</string>
+    <string name="fa_street_view">&#xf21d;</string>
+    <string name="fa_strikethrough">&#xf0cc;</string>
+    <string name="fa_stumbleupon">&#xf1a4;</string>
+    <string name="fa_stumbleupon_circle">&#xf1a3;</string>
+    <string name="fa_subscript">&#xf12c;</string>
+    <string name="fa_subway">&#xf239;</string>
+    <string name="fa_suitcase">&#xf0f2;</string>
+    <string name="fa_sun_o">&#xf185;</string>
+    <string name="fa_superscript">&#xf12b;</string>
+    <string name="fa_support">&#xf1cd;</string>
+    <string name="fa_table">&#xf0ce;</string>
+    <string name="fa_tablet">&#xf10a;</string>
+    <string name="fa_tachometer">&#xf0e4;</string>
+    <string name="fa_tag">&#xf02b;</string>
+    <string name="fa_tags">&#xf02c;</string>
+    <string name="fa_tasks">&#xf0ae;</string>
+    <string name="fa_taxi">&#xf1ba;</string>
+    <string name="fa_tencent_weibo">&#xf1d5;</string>
+    <string name="fa_terminal">&#xf120;</string>
+    <string name="fa_text_height">&#xf034;</string>
+    <string name="fa_text_width">&#xf035;</string>
+    <string name="fa_th">&#xf00a;</string>
+    <string name="fa_th_large">&#xf009;</string>
+    <string name="fa_th_list">&#xf00b;</string>
+    <string name="fa_thumb_tack">&#xf08d;</string>
+    <string name="fa_thumbs_down">&#xf165;</string>
+    <string name="fa_thumbs_o_down">&#xf088;</string>
+    <string name="fa_thumbs_o_up">&#xf087;</string>
+    <string name="fa_thumbs_up">&#xf164;</string>
+    <string name="fa_ticket">&#xf145;</string>
+    <string name="fa_times">&#xf00d;</string>
+    <string name="fa_times_circle">&#xf057;</string>
+    <string name="fa_times_circle_o">&#xf05c;</string>
+    <string name="fa_tint">&#xf043;</string>
+    <string name="fa_toggle_down">&#xf150;</string>
+    <string name="fa_toggle_left">&#xf191;</string>
+    <string name="fa_toggle_off">&#xf204;</string>
+    <string name="fa_toggle_on">&#xf205;</string>
+    <string name="fa_toggle_right">&#xf152;</string>
+    <string name="fa_toggle_up">&#xf151;</string>
+    <string name="fa_train">&#xf238;</string>
+    <string name="fa_transgender">&#xf224;</string>
+    <string name="fa_transgender_alt">&#xf225;</string>
+    <string name="fa_trash">&#xf1f8;</string>
+    <string name="fa_trash_o">&#xf014;</string>
+    <string name="fa_tree">&#xf1bb;</string>
+    <string name="fa_trello">&#xf181;</string>
+    <string name="fa_trophy">&#xf091;</string>
+    <string name="fa_truck">&#xf0d1;</string>
+    <string name="fa_try">&#xf195;</string>
+    <string name="fa_tty">&#xf1e4;</string>
+    <string name="fa_tumblr">&#xf173;</string>
+    <string name="fa_tumblr_square">&#xf174;</string>
+    <string name="fa_turkish_lira">&#xf195;</string>
+    <string name="fa_twitch">&#xf1e8;</string>
+    <string name="fa_twitter">&#xf099;</string>
+    <string name="fa_twitter_square">&#xf081;</string>
+    <string name="fa_umbrella">&#xf0e9;</string>
+    <string name="fa_underline">&#xf0cd;</string>
+    <string name="fa_undo">&#xf0e2;</string>
+    <string name="fa_university">&#xf19c;</string>
+    <string name="fa_unlink">&#xf127;</string>
+    <string name="fa_unlock">&#xf09c;</string>
+    <string name="fa_unlock_alt">&#xf13e;</string>
+    <string name="fa_unsorted">&#xf0dc;</string>
+    <string name="fa_upload">&#xf093;</string>
+    <string name="fa_usd">&#xf155;</string>
+    <string name="fa_user">&#xf007;</string>
+    <string name="fa_user_md">&#xf0f0;</string>
+    <string name="fa_user_plus">&#xf234;</string>
+    <string name="fa_user_secret">&#xf21b;</string>
+    <string name="fa_user_times">&#xf235;</string>
+    <string name="fa_users">&#xf0c0;</string>
+    <string name="fa_venus">&#xf221;</string>
+    <string name="fa_venus_double">&#xf226;</string>
+    <string name="fa_venus_mars">&#xf228;</string>
+    <string name="fa_viacoin">&#xf237;</string>
+    <string name="fa_video_camera">&#xf03d;</string>
+    <string name="fa_vimeo_square">&#xf194;</string>
+    <string name="fa_vine">&#xf1ca;</string>
+    <string name="fa_vk">&#xf189;</string>
+    <string name="fa_volume_down">&#xf027;</string>
+    <string name="fa_volume_off">&#xf026;</string>
+    <string name="fa_volume_up">&#xf028;</string>
+    <string name="fa_warning">&#xf071;</string>
+    <string name="fa_wechat">&#xf1d7;</string>
+    <string name="fa_weibo">&#xf18a;</string>
+    <string name="fa_weixin">&#xf1d7;</string>
+    <string name="fa_whatsapp">&#xf232;</string>
+    <string name="fa_wheelchair">&#xf193;</string>
+    <string name="fa_wifi">&#xf1eb;</string>
+    <string name="fa_windows">&#xf17a;</string>
+    <string name="fa_won">&#xf159;</string>
+    <string name="fa_wordpress">&#xf19a;</string>
+    <string name="fa_wrench">&#xf0ad;</string>
+    <string name="fa_xing">&#xf168;</string>
+    <string name="fa_xing_square">&#xf169;</string>
+    <string name="fa_yahoo">&#xf19e;</string>
+    <string name="fa_yelp">&#xf1e9;</string>
+    <string name="fa_yen">&#xf157;</string>
+    <string name="fa_youtube">&#xf167;</string>
+    <string name="fa_youtube_play">&#xf16a;</string>
+    <string name="fa_youtube_square">&#xf166;</string>
 
 </resources>

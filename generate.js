@@ -33,7 +33,7 @@ icons.sort(function(a, b) {
 
 icons.forEach(function(i) {
   var name = i.id.replace(/-/gi, '_');
-  output += '    <item name="fa_' + name + '" type="fontawesome">&#x' + i.unicode + ';</item>\n';
+  output += '    <string name="fa_' + name + '">&#x' + i.unicode + ';</string>\n';
 });
 
 output += '\n</resources>';

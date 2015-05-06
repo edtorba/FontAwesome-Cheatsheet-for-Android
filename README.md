@@ -5,7 +5,7 @@ The complete Font Awesome 4.3.0 icon reference for Android.
 
 **How to use:**
 - Upload `fontawesome.xml` to `res/values` folder.
-- Set text on any of your element: `<button android:id="@+id/FOO" ... android:text="@fontawesome/fa_glass" ... />`
+- Set text on any of your element: `<button android:id="@+id/FOO" ... android:text="@string/fa_glass" ... />`
 - Load `.ttf` font and set typeface
 
 **How to set typeface:**
