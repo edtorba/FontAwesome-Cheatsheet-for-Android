@@ -1,598 +1,1464 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="fa_adjust">&#xf042;</string>
-    <string name="fa_adn">&#xf170;</string>
-    <string name="fa_align_center">&#xf037;</string>
-    <string name="fa_align_justify">&#xf039;</string>
-    <string name="fa_align_left">&#xf036;</string>
-    <string name="fa_align_right">&#xf038;</string>
-    <string name="fa_ambulance">&#xf0f9;</string>
-    <string name="fa_anchor">&#xf13d;</string>
-    <string name="fa_android">&#xf17b;</string>
-    <string name="fa_angellist">&#xf209;</string>
-    <string name="fa_angle_double_down">&#xf103;</string>
-    <string name="fa_angle_double_left">&#xf100;</string>
-    <string name="fa_angle_double_right">&#xf101;</string>
-    <string name="fa_angle_double_up">&#xf102;</string>
-    <string name="fa_angle_down">&#xf107;</string>
-    <string name="fa_angle_left">&#xf104;</string>
-    <string name="fa_angle_right">&#xf105;</string>
-    <string name="fa_angle_up">&#xf106;</string>
-    <string name="fa_apple">&#xf179;</string>
-    <string name="fa_archive">&#xf187;</string>
-    <string name="fa_area_chart">&#xf1fe;</string>
-    <string name="fa_arrow_circle_down">&#xf0ab;</string>
-    <string name="fa_arrow_circle_left">&#xf0a8;</string>
-    <string name="fa_arrow_circle_o_down">&#xf01a;</string>
-    <string name="fa_arrow_circle_o_left">&#xf190;</string>
-    <string name="fa_arrow_circle_o_right">&#xf18e;</string>
-    <string name="fa_arrow_circle_o_up">&#xf01b;</string>
-    <string name="fa_arrow_circle_right">&#xf0a9;</string>
-    <string name="fa_arrow_circle_up">&#xf0aa;</string>
-    <string name="fa_arrow_down">&#xf063;</string>
-    <string name="fa_arrow_left">&#xf060;</string>
-    <string name="fa_arrow_right">&#xf061;</string>
-    <string name="fa_arrow_up">&#xf062;</string>
-    <string name="fa_arrows">&#xf047;</string>
-    <string name="fa_arrows_alt">&#xf0b2;</string>
-    <string name="fa_arrows_h">&#xf07e;</string>
-    <string name="fa_arrows_v">&#xf07d;</string>
-    <string name="fa_asterisk">&#xf069;</string>
-    <string name="fa_at">&#xf1fa;</string>
-    <string name="fa_automobile">&#xf1b9;</string>
-    <string name="fa_backward">&#xf04a;</string>
-    <string name="fa_ban">&#xf05e;</string>
-    <string name="fa_bank">&#xf19c;</string>
-    <string name="fa_bar_chart">&#xf080;</string>
-    <string name="fa_bar_chart_o">&#xf080;</string>
-    <string name="fa_barcode">&#xf02a;</string>
-    <string name="fa_bars">&#xf0c9;</string>
-    <string name="fa_bed">&#xf236;</string>
-    <string name="fa_beer">&#xf0fc;</string>
-    <string name="fa_behance">&#xf1b4;</string>
-    <string name="fa_behance_square">&#xf1b5;</string>
-    <string name="fa_bell">&#xf0f3;</string>
-    <string name="fa_bell_o">&#xf0a2;</string>
-    <string name="fa_bell_slash">&#xf1f6;</string>
-    <string name="fa_bell_slash_o">&#xf1f7;</string>
-    <string name="fa_bicycle">&#xf206;</string>
-    <string name="fa_binoculars">&#xf1e5;</string>
-    <string name="fa_birthday_cake">&#xf1fd;</string>
-    <string name="fa_bitbucket">&#xf171;</string>
-    <string name="fa_bitbucket_square">&#xf172;</string>
-    <string name="fa_bitcoin">&#xf15a;</string>
-    <string name="fa_bold">&#xf032;</string>
-    <string name="fa_bolt">&#xf0e7;</string>
-    <string name="fa_bomb">&#xf1e2;</string>
-    <string name="fa_book">&#xf02d;</string>
-    <string name="fa_bookmark">&#xf02e;</string>
-    <string name="fa_bookmark_o">&#xf097;</string>
-    <string name="fa_briefcase">&#xf0b1;</string>
-    <string name="fa_btc">&#xf15a;</string>
-    <string name="fa_bug">&#xf188;</string>
-    <string name="fa_building">&#xf1ad;</string>
-    <string name="fa_building_o">&#xf0f7;</string>
-    <string name="fa_bullhorn">&#xf0a1;</string>
-    <string name="fa_bullseye">&#xf140;</string>
-    <string name="fa_bus">&#xf207;</string>
-    <string name="fa_buysellads">&#xf20d;</string>
-    <string name="fa_cab">&#xf1ba;</string>
-    <string name="fa_calculator">&#xf1ec;</string>
-    <string name="fa_calendar">&#xf073;</string>
-    <string name="fa_calendar_o">&#xf133;</string>
-    <string name="fa_camera">&#xf030;</string>
-    <string name="fa_camera_retro">&#xf083;</string>
-    <string name="fa_car">&#xf1b9;</string>
-    <string name="fa_caret_down">&#xf0d7;</string>
-    <string name="fa_caret_left">&#xf0d9;</string>
-    <string name="fa_caret_right">&#xf0da;</string>
-    <string name="fa_caret_square_o_down">&#xf150;</string>
-    <string name="fa_caret_square_o_left">&#xf191;</string>
-    <string name="fa_caret_square_o_right">&#xf152;</string>
-    <string name="fa_caret_square_o_up">&#xf151;</string>
-    <string name="fa_caret_up">&#xf0d8;</string>
-    <string name="fa_cart_arrow_down">&#xf218;</string>
-    <string name="fa_cart_plus">&#xf217;</string>
-    <string name="fa_cc">&#xf20a;</string>
-    <string name="fa_cc_amex">&#xf1f3;</string>
-    <string name="fa_cc_discover">&#xf1f2;</string>
-    <string name="fa_cc_mastercard">&#xf1f1;</string>
-    <string name="fa_cc_paypal">&#xf1f4;</string>
-    <string name="fa_cc_stripe">&#xf1f5;</string>
-    <string name="fa_cc_visa">&#xf1f0;</string>
-    <string name="fa_certificate">&#xf0a3;</string>
-    <string name="fa_chain">&#xf0c1;</string>
-    <string name="fa_chain_broken">&#xf127;</string>
-    <string name="fa_check">&#xf00c;</string>
-    <string name="fa_check_circle">&#xf058;</string>
-    <string name="fa_check_circle_o">&#xf05d;</string>
-    <string name="fa_check_square">&#xf14a;</string>
-    <string name="fa_check_square_o">&#xf046;</string>
-    <string name="fa_chevron_circle_down">&#xf13a;</string>
-    <string name="fa_chevron_circle_left">&#xf137;</string>
-    <string name="fa_chevron_circle_right">&#xf138;</string>
-    <string name="fa_chevron_circle_up">&#xf139;</string>
-    <string name="fa_chevron_down">&#xf078;</string>
-    <string name="fa_chevron_left">&#xf053;</string>
-    <string name="fa_chevron_right">&#xf054;</string>
-    <string name="fa_chevron_up">&#xf077;</string>
-    <string name="fa_child">&#xf1ae;</string>
-    <string name="fa_circle">&#xf111;</string>
-    <string name="fa_circle_o">&#xf10c;</string>
-    <string name="fa_circle_o_notch">&#xf1ce;</string>
-    <string name="fa_circle_thin">&#xf1db;</string>
-    <string name="fa_clipboard">&#xf0ea;</string>
-    <string name="fa_clock_o">&#xf017;</string>
-    <string name="fa_close">&#xf00d;</string>
-    <string name="fa_cloud">&#xf0c2;</string>
-    <string name="fa_cloud_download">&#xf0ed;</string>
-    <string name="fa_cloud_upload">&#xf0ee;</string>
-    <string name="fa_cny">&#xf157;</string>
-    <string name="fa_code">&#xf121;</string>
-    <string name="fa_code_fork">&#xf126;</string>
-    <string name="fa_codepen">&#xf1cb;</string>
-    <string name="fa_coffee">&#xf0f4;</string>
-    <string name="fa_cog">&#xf013;</string>
-    <string name="fa_cogs">&#xf085;</string>
-    <string name="fa_columns">&#xf0db;</string>
-    <string name="fa_comment">&#xf075;</string>
-    <string name="fa_comment_o">&#xf0e5;</string>
-    <string name="fa_comments">&#xf086;</string>
-    <string name="fa_comments_o">&#xf0e6;</string>
-    <string name="fa_compass">&#xf14e;</string>
-    <string name="fa_compress">&#xf066;</string>
-    <string name="fa_connectdevelop">&#xf20e;</string>
-    <string name="fa_copy">&#xf0c5;</string>
-    <string name="fa_copyright">&#xf1f9;</string>
-    <string name="fa_credit_card">&#xf09d;</string>
-    <string name="fa_crop">&#xf125;</string>
-    <string name="fa_crosshairs">&#xf05b;</string>
-    <string name="fa_css3">&#xf13c;</string>
-    <string name="fa_cube">&#xf1b2;</string>
-    <string name="fa_cubes">&#xf1b3;</string>
-    <string name="fa_cut">&#xf0c4;</string>
-    <string name="fa_cutlery">&#xf0f5;</string>
-    <string name="fa_dashboard">&#xf0e4;</string>
-    <string name="fa_dashcube">&#xf210;</string>
-    <string name="fa_database">&#xf1c0;</string>
-    <string name="fa_dedent">&#xf03b;</string>
-    <string name="fa_delicious">&#xf1a5;</string>
-    <string name="fa_desktop">&#xf108;</string>
-    <string name="fa_deviantart">&#xf1bd;</string>
-    <string name="fa_diamond">&#xf219;</string>
-    <string name="fa_digg">&#xf1a6;</string>
-    <string name="fa_dollar">&#xf155;</string>
-    <string name="fa_dot_circle_o">&#xf192;</string>
-    <string name="fa_download">&#xf019;</string>
-    <string name="fa_dribbble">&#xf17d;</string>
-    <string name="fa_dropbox">&#xf16b;</string>
-    <string name="fa_drupal">&#xf1a9;</string>
-    <string name="fa_edit">&#xf044;</string>
-    <string name="fa_eject">&#xf052;</string>
-    <string name="fa_ellipsis_h">&#xf141;</string>
-    <string name="fa_ellipsis_v">&#xf142;</string>
-    <string name="fa_empire">&#xf1d1;</string>
-    <string name="fa_envelope">&#xf0e0;</string>
-    <string name="fa_envelope_o">&#xf003;</string>
-    <string name="fa_envelope_square">&#xf199;</string>
-    <string name="fa_eraser">&#xf12d;</string>
-    <string name="fa_eur">&#xf153;</string>
-    <string name="fa_euro">&#xf153;</string>
-    <string name="fa_exchange">&#xf0ec;</string>
-    <string name="fa_exclamation">&#xf12a;</string>
-    <string name="fa_exclamation_circle">&#xf06a;</string>
-    <string name="fa_exclamation_triangle">&#xf071;</string>
-    <string name="fa_expand">&#xf065;</string>
-    <string name="fa_external_link">&#xf08e;</string>
-    <string name="fa_external_link_square">&#xf14c;</string>
-    <string name="fa_eye">&#xf06e;</string>
-    <string name="fa_eye_slash">&#xf070;</string>
-    <string name="fa_eyedropper">&#xf1fb;</string>
-    <string name="fa_facebook">&#xf09a;</string>
-    <string name="fa_facebook_f">&#xf09a;</string>
-    <string name="fa_facebook_official">&#xf230;</string>
-    <string name="fa_facebook_square">&#xf082;</string>
-    <string name="fa_fast_backward">&#xf049;</string>
-    <string name="fa_fast_forward">&#xf050;</string>
-    <string name="fa_fax">&#xf1ac;</string>
-    <string name="fa_female">&#xf182;</string>
-    <string name="fa_fighter_jet">&#xf0fb;</string>
-    <string name="fa_file">&#xf15b;</string>
-    <string name="fa_file_archive_o">&#xf1c6;</string>
-    <string name="fa_file_audio_o">&#xf1c7;</string>
-    <string name="fa_file_code_o">&#xf1c9;</string>
-    <string name="fa_file_excel_o">&#xf1c3;</string>
-    <string name="fa_file_image_o">&#xf1c5;</string>
-    <string name="fa_file_movie_o">&#xf1c8;</string>
-    <string name="fa_file_o">&#xf016;</string>
-    <string name="fa_file_pdf_o">&#xf1c1;</string>
-    <string name="fa_file_photo_o">&#xf1c5;</string>
-    <string name="fa_file_picture_o">&#xf1c5;</string>
-    <string name="fa_file_powerpoint_o">&#xf1c4;</string>
-    <string name="fa_file_sound_o">&#xf1c7;</string>
-    <string name="fa_file_text">&#xf15c;</string>
-    <string name="fa_file_text_o">&#xf0f6;</string>
-    <string name="fa_file_video_o">&#xf1c8;</string>
-    <string name="fa_file_word_o">&#xf1c2;</string>
-    <string name="fa_file_zip_o">&#xf1c6;</string>
-    <string name="fa_files_o">&#xf0c5;</string>
-    <string name="fa_film">&#xf008;</string>
-    <string name="fa_filter">&#xf0b0;</string>
-    <string name="fa_fire">&#xf06d;</string>
-    <string name="fa_fire_extinguisher">&#xf134;</string>
-    <string name="fa_flag">&#xf024;</string>
-    <string name="fa_flag_checkered">&#xf11e;</string>
-    <string name="fa_flag_o">&#xf11d;</string>
-    <string name="fa_flash">&#xf0e7;</string>
-    <string name="fa_flask">&#xf0c3;</string>
-    <string name="fa_flickr">&#xf16e;</string>
-    <string name="fa_floppy_o">&#xf0c7;</string>
-    <string name="fa_folder">&#xf07b;</string>
-    <string name="fa_folder_o">&#xf114;</string>
-    <string name="fa_folder_open">&#xf07c;</string>
-    <string name="fa_folder_open_o">&#xf115;</string>
-    <string name="fa_font">&#xf031;</string>
-    <string name="fa_forumbee">&#xf211;</string>
-    <string name="fa_forward">&#xf04e;</string>
-    <string name="fa_foursquare">&#xf180;</string>
-    <string name="fa_frown_o">&#xf119;</string>
-    <string name="fa_futbol_o">&#xf1e3;</string>
-    <string name="fa_gamepad">&#xf11b;</string>
-    <string name="fa_gavel">&#xf0e3;</string>
-    <string name="fa_gbp">&#xf154;</string>
-    <string name="fa_ge">&#xf1d1;</string>
-    <string name="fa_gear">&#xf013;</string>
-    <string name="fa_gears">&#xf085;</string>
-    <string name="fa_genderless">&#xf1db;</string>
-    <string name="fa_gift">&#xf06b;</string>
-    <string name="fa_git">&#xf1d3;</string>
-    <string name="fa_git_square">&#xf1d2;</string>
-    <string name="fa_github">&#xf09b;</string>
-    <string name="fa_github_alt">&#xf113;</string>
-    <string name="fa_github_square">&#xf092;</string>
-    <string name="fa_gittip">&#xf184;</string>
-    <string name="fa_glass">&#xf000;</string>
-    <string name="fa_globe">&#xf0ac;</string>
-    <string name="fa_google">&#xf1a0;</string>
-    <string name="fa_google_plus">&#xf0d5;</string>
-    <string name="fa_google_plus_square">&#xf0d4;</string>
-    <string name="fa_google_wallet">&#xf1ee;</string>
-    <string name="fa_graduation_cap">&#xf19d;</string>
-    <string name="fa_gratipay">&#xf184;</string>
-    <string name="fa_group">&#xf0c0;</string>
-    <string name="fa_h_square">&#xf0fd;</string>
-    <string name="fa_hacker_news">&#xf1d4;</string>
-    <string name="fa_hand_o_down">&#xf0a7;</string>
-    <string name="fa_hand_o_left">&#xf0a5;</string>
-    <string name="fa_hand_o_right">&#xf0a4;</string>
-    <string name="fa_hand_o_up">&#xf0a6;</string>
-    <string name="fa_hdd_o">&#xf0a0;</string>
-    <string name="fa_header">&#xf1dc;</string>
-    <string name="fa_headphones">&#xf025;</string>
-    <string name="fa_heart">&#xf004;</string>
-    <string name="fa_heart_o">&#xf08a;</string>
-    <string name="fa_heartbeat">&#xf21e;</string>
-    <string name="fa_history">&#xf1da;</string>
-    <string name="fa_home">&#xf015;</string>
-    <string name="fa_hospital_o">&#xf0f8;</string>
-    <string name="fa_hotel">&#xf236;</string>
-    <string name="fa_html5">&#xf13b;</string>
-    <string name="fa_ils">&#xf20b;</string>
-    <string name="fa_image">&#xf03e;</string>
-    <string name="fa_inbox">&#xf01c;</string>
-    <string name="fa_indent">&#xf03c;</string>
-    <string name="fa_info">&#xf129;</string>
-    <string name="fa_info_circle">&#xf05a;</string>
-    <string name="fa_inr">&#xf156;</string>
-    <string name="fa_instagram">&#xf16d;</string>
-    <string name="fa_institution">&#xf19c;</string>
-    <string name="fa_ioxhost">&#xf208;</string>
-    <string name="fa_italic">&#xf033;</string>
-    <string name="fa_joomla">&#xf1aa;</string>
-    <string name="fa_jpy">&#xf157;</string>
-    <string name="fa_jsfiddle">&#xf1cc;</string>
-    <string name="fa_key">&#xf084;</string>
-    <string name="fa_keyboard_o">&#xf11c;</string>
-    <string name="fa_krw">&#xf159;</string>
-    <string name="fa_language">&#xf1ab;</string>
-    <string name="fa_laptop">&#xf109;</string>
-    <string name="fa_lastfm">&#xf202;</string>
-    <string name="fa_lastfm_square">&#xf203;</string>
-    <string name="fa_leaf">&#xf06c;</string>
-    <string name="fa_leanpub">&#xf212;</string>
-    <string name="fa_legal">&#xf0e3;</string>
-    <string name="fa_lemon_o">&#xf094;</string>
-    <string name="fa_level_down">&#xf149;</string>
-    <string name="fa_level_up">&#xf148;</string>
-    <string name="fa_life_bouy">&#xf1cd;</string>
-    <string name="fa_life_buoy">&#xf1cd;</string>
-    <string name="fa_life_ring">&#xf1cd;</string>
-    <string name="fa_life_saver">&#xf1cd;</string>
-    <string name="fa_lightbulb_o">&#xf0eb;</string>
-    <string name="fa_line_chart">&#xf201;</string>
-    <string name="fa_link">&#xf0c1;</string>
-    <string name="fa_linkedin">&#xf0e1;</string>
-    <string name="fa_linkedin_square">&#xf08c;</string>
-    <string name="fa_linux">&#xf17c;</string>
-    <string name="fa_list">&#xf03a;</string>
-    <string name="fa_list_alt">&#xf022;</string>
-    <string name="fa_list_ol">&#xf0cb;</string>
-    <string name="fa_list_ul">&#xf0ca;</string>
-    <string name="fa_location_arrow">&#xf124;</string>
-    <string name="fa_lock">&#xf023;</string>
-    <string name="fa_long_arrow_down">&#xf175;</string>
-    <string name="fa_long_arrow_left">&#xf177;</string>
-    <string name="fa_long_arrow_right">&#xf178;</string>
-    <string name="fa_long_arrow_up">&#xf176;</string>
-    <string name="fa_magic">&#xf0d0;</string>
-    <string name="fa_magnet">&#xf076;</string>
-    <string name="fa_mail_forward">&#xf064;</string>
-    <string name="fa_mail_reply">&#xf112;</string>
-    <string name="fa_mail_reply_all">&#xf122;</string>
-    <string name="fa_male">&#xf183;</string>
-    <string name="fa_map_marker">&#xf041;</string>
-    <string name="fa_mars">&#xf222;</string>
-    <string name="fa_mars_double">&#xf227;</string>
-    <string name="fa_mars_stroke">&#xf229;</string>
-    <string name="fa_mars_stroke_h">&#xf22b;</string>
-    <string name="fa_mars_stroke_v">&#xf22a;</string>
-    <string name="fa_maxcdn">&#xf136;</string>
-    <string name="fa_meanpath">&#xf20c;</string>
-    <string name="fa_medium">&#xf23a;</string>
-    <string name="fa_medkit">&#xf0fa;</string>
-    <string name="fa_meh_o">&#xf11a;</string>
-    <string name="fa_mercury">&#xf223;</string>
-    <string name="fa_microphone">&#xf130;</string>
-    <string name="fa_microphone_slash">&#xf131;</string>
-    <string name="fa_minus">&#xf068;</string>
-    <string name="fa_minus_circle">&#xf056;</string>
-    <string name="fa_minus_square">&#xf146;</string>
-    <string name="fa_minus_square_o">&#xf147;</string>
-    <string name="fa_mobile">&#xf10b;</string>
-    <string name="fa_mobile_phone">&#xf10b;</string>
-    <string name="fa_money">&#xf0d6;</string>
-    <string name="fa_moon_o">&#xf186;</string>
-    <string name="fa_mortar_board">&#xf19d;</string>
-    <string name="fa_motorcycle">&#xf21c;</string>
-    <string name="fa_music">&#xf001;</string>
-    <string name="fa_navicon">&#xf0c9;</string>
-    <string name="fa_neuter">&#xf22c;</string>
-    <string name="fa_newspaper_o">&#xf1ea;</string>
-    <string name="fa_openid">&#xf19b;</string>
-    <string name="fa_outdent">&#xf03b;</string>
-    <string name="fa_pagelines">&#xf18c;</string>
-    <string name="fa_paint_brush">&#xf1fc;</string>
-    <string name="fa_paper_plane">&#xf1d8;</string>
-    <string name="fa_paper_plane_o">&#xf1d9;</string>
-    <string name="fa_paperclip">&#xf0c6;</string>
-    <string name="fa_paragraph">&#xf1dd;</string>
-    <string name="fa_paste">&#xf0ea;</string>
-    <string name="fa_pause">&#xf04c;</string>
-    <string name="fa_paw">&#xf1b0;</string>
-    <string name="fa_paypal">&#xf1ed;</string>
-    <string name="fa_pencil">&#xf040;</string>
-    <string name="fa_pencil_square">&#xf14b;</string>
-    <string name="fa_pencil_square_o">&#xf044;</string>
-    <string name="fa_phone">&#xf095;</string>
-    <string name="fa_phone_square">&#xf098;</string>
-    <string name="fa_photo">&#xf03e;</string>
-    <string name="fa_picture_o">&#xf03e;</string>
-    <string name="fa_pie_chart">&#xf200;</string>
-    <string name="fa_pied_piper">&#xf1a7;</string>
-    <string name="fa_pied_piper_alt">&#xf1a8;</string>
-    <string name="fa_pinterest">&#xf0d2;</string>
-    <string name="fa_pinterest_p">&#xf231;</string>
-    <string name="fa_pinterest_square">&#xf0d3;</string>
-    <string name="fa_plane">&#xf072;</string>
-    <string name="fa_play">&#xf04b;</string>
-    <string name="fa_play_circle">&#xf144;</string>
-    <string name="fa_play_circle_o">&#xf01d;</string>
-    <string name="fa_plug">&#xf1e6;</string>
-    <string name="fa_plus">&#xf067;</string>
-    <string name="fa_plus_circle">&#xf055;</string>
-    <string name="fa_plus_square">&#xf0fe;</string>
-    <string name="fa_plus_square_o">&#xf196;</string>
-    <string name="fa_power_off">&#xf011;</string>
-    <string name="fa_print">&#xf02f;</string>
-    <string name="fa_puzzle_piece">&#xf12e;</string>
-    <string name="fa_qq">&#xf1d6;</string>
-    <string name="fa_qrcode">&#xf029;</string>
-    <string name="fa_question">&#xf128;</string>
-    <string name="fa_question_circle">&#xf059;</string>
-    <string name="fa_quote_left">&#xf10d;</string>
-    <string name="fa_quote_right">&#xf10e;</string>
-    <string name="fa_ra">&#xf1d0;</string>
-    <string name="fa_random">&#xf074;</string>
-    <string name="fa_rebel">&#xf1d0;</string>
-    <string name="fa_recycle">&#xf1b8;</string>
-    <string name="fa_reddit">&#xf1a1;</string>
-    <string name="fa_reddit_square">&#xf1a2;</string>
-    <string name="fa_refresh">&#xf021;</string>
-    <string name="fa_remove">&#xf00d;</string>
-    <string name="fa_renren">&#xf18b;</string>
-    <string name="fa_reorder">&#xf0c9;</string>
-    <string name="fa_repeat">&#xf01e;</string>
-    <string name="fa_reply">&#xf112;</string>
-    <string name="fa_reply_all">&#xf122;</string>
-    <string name="fa_retweet">&#xf079;</string>
-    <string name="fa_rmb">&#xf157;</string>
-    <string name="fa_road">&#xf018;</string>
-    <string name="fa_rocket">&#xf135;</string>
-    <string name="fa_rotate_left">&#xf0e2;</string>
-    <string name="fa_rotate_right">&#xf01e;</string>
-    <string name="fa_rouble">&#xf158;</string>
-    <string name="fa_rss">&#xf09e;</string>
-    <string name="fa_rss_square">&#xf143;</string>
-    <string name="fa_rub">&#xf158;</string>
-    <string name="fa_ruble">&#xf158;</string>
-    <string name="fa_rupee">&#xf156;</string>
-    <string name="fa_save">&#xf0c7;</string>
-    <string name="fa_scissors">&#xf0c4;</string>
-    <string name="fa_search">&#xf002;</string>
-    <string name="fa_search_minus">&#xf010;</string>
-    <string name="fa_search_plus">&#xf00e;</string>
-    <string name="fa_sellsy">&#xf213;</string>
-    <string name="fa_send">&#xf1d8;</string>
-    <string name="fa_send_o">&#xf1d9;</string>
-    <string name="fa_server">&#xf233;</string>
-    <string name="fa_share">&#xf064;</string>
-    <string name="fa_share_alt">&#xf1e0;</string>
-    <string name="fa_share_alt_square">&#xf1e1;</string>
-    <string name="fa_share_square">&#xf14d;</string>
-    <string name="fa_share_square_o">&#xf045;</string>
-    <string name="fa_shekel">&#xf20b;</string>
-    <string name="fa_sheqel">&#xf20b;</string>
-    <string name="fa_shield">&#xf132;</string>
-    <string name="fa_ship">&#xf21a;</string>
-    <string name="fa_shirtsinbulk">&#xf214;</string>
-    <string name="fa_shopping_cart">&#xf07a;</string>
-    <string name="fa_sign_in">&#xf090;</string>
-    <string name="fa_sign_out">&#xf08b;</string>
-    <string name="fa_signal">&#xf012;</string>
-    <string name="fa_simplybuilt">&#xf215;</string>
-    <string name="fa_sitemap">&#xf0e8;</string>
-    <string name="fa_skyatlas">&#xf216;</string>
-    <string name="fa_skype">&#xf17e;</string>
-    <string name="fa_slack">&#xf198;</string>
-    <string name="fa_sliders">&#xf1de;</string>
-    <string name="fa_slideshare">&#xf1e7;</string>
-    <string name="fa_smile_o">&#xf118;</string>
-    <string name="fa_soccer_ball_o">&#xf1e3;</string>
-    <string name="fa_sort">&#xf0dc;</string>
-    <string name="fa_sort_alpha_asc">&#xf15d;</string>
-    <string name="fa_sort_alpha_desc">&#xf15e;</string>
-    <string name="fa_sort_amount_asc">&#xf160;</string>
-    <string name="fa_sort_amount_desc">&#xf161;</string>
-    <string name="fa_sort_asc">&#xf0de;</string>
-    <string name="fa_sort_desc">&#xf0dd;</string>
-    <string name="fa_sort_down">&#xf0dd;</string>
-    <string name="fa_sort_numeric_asc">&#xf162;</string>
-    <string name="fa_sort_numeric_desc">&#xf163;</string>
-    <string name="fa_sort_up">&#xf0de;</string>
-    <string name="fa_soundcloud">&#xf1be;</string>
-    <string name="fa_space_shuttle">&#xf197;</string>
-    <string name="fa_spinner">&#xf110;</string>
-    <string name="fa_spoon">&#xf1b1;</string>
-    <string name="fa_spotify">&#xf1bc;</string>
-    <string name="fa_square">&#xf0c8;</string>
-    <string name="fa_square_o">&#xf096;</string>
-    <string name="fa_stack_exchange">&#xf18d;</string>
-    <string name="fa_stack_overflow">&#xf16c;</string>
-    <string name="fa_star">&#xf005;</string>
-    <string name="fa_star_half">&#xf089;</string>
-    <string name="fa_star_half_empty">&#xf123;</string>
-    <string name="fa_star_half_full">&#xf123;</string>
-    <string name="fa_star_half_o">&#xf123;</string>
-    <string name="fa_star_o">&#xf006;</string>
-    <string name="fa_steam">&#xf1b6;</string>
-    <string name="fa_steam_square">&#xf1b7;</string>
-    <string name="fa_step_backward">&#xf048;</string>
-    <string name="fa_step_forward">&#xf051;</string>
-    <string name="fa_stethoscope">&#xf0f1;</string>
-    <string name="fa_stop">&#xf04d;</string>
-    <string name="fa_street_view">&#xf21d;</string>
-    <string name="fa_strikethrough">&#xf0cc;</string>
-    <string name="fa_stumbleupon">&#xf1a4;</string>
-    <string name="fa_stumbleupon_circle">&#xf1a3;</string>
-    <string name="fa_subscript">&#xf12c;</string>
-    <string name="fa_subway">&#xf239;</string>
-    <string name="fa_suitcase">&#xf0f2;</string>
-    <string name="fa_sun_o">&#xf185;</string>
-    <string name="fa_superscript">&#xf12b;</string>
-    <string name="fa_support">&#xf1cd;</string>
-    <string name="fa_table">&#xf0ce;</string>
-    <string name="fa_tablet">&#xf10a;</string>
-    <string name="fa_tachometer">&#xf0e4;</string>
-    <string name="fa_tag">&#xf02b;</string>
-    <string name="fa_tags">&#xf02c;</string>
-    <string name="fa_tasks">&#xf0ae;</string>
-    <string name="fa_taxi">&#xf1ba;</string>
-    <string name="fa_tencent_weibo">&#xf1d5;</string>
-    <string name="fa_terminal">&#xf120;</string>
-    <string name="fa_text_height">&#xf034;</string>
-    <string name="fa_text_width">&#xf035;</string>
-    <string name="fa_th">&#xf00a;</string>
-    <string name="fa_th_large">&#xf009;</string>
-    <string name="fa_th_list">&#xf00b;</string>
-    <string name="fa_thumb_tack">&#xf08d;</string>
-    <string name="fa_thumbs_down">&#xf165;</string>
-    <string name="fa_thumbs_o_down">&#xf088;</string>
-    <string name="fa_thumbs_o_up">&#xf087;</string>
-    <string name="fa_thumbs_up">&#xf164;</string>
-    <string name="fa_ticket">&#xf145;</string>
-    <string name="fa_times">&#xf00d;</string>
-    <string name="fa_times_circle">&#xf057;</string>
-    <string name="fa_times_circle_o">&#xf05c;</string>
-    <string name="fa_tint">&#xf043;</string>
-    <string name="fa_toggle_down">&#xf150;</string>
-    <string name="fa_toggle_left">&#xf191;</string>
-    <string name="fa_toggle_off">&#xf204;</string>
-    <string name="fa_toggle_on">&#xf205;</string>
-    <string name="fa_toggle_right">&#xf152;</string>
-    <string name="fa_toggle_up">&#xf151;</string>
-    <string name="fa_train">&#xf238;</string>
-    <string name="fa_transgender">&#xf224;</string>
-    <string name="fa_transgender_alt">&#xf225;</string>
-    <string name="fa_trash">&#xf1f8;</string>
-    <string name="fa_trash_o">&#xf014;</string>
-    <string name="fa_tree">&#xf1bb;</string>
-    <string name="fa_trello">&#xf181;</string>
-    <string name="fa_trophy">&#xf091;</string>
-    <string name="fa_truck">&#xf0d1;</string>
-    <string name="fa_try">&#xf195;</string>
-    <string name="fa_tty">&#xf1e4;</string>
-    <string name="fa_tumblr">&#xf173;</string>
-    <string name="fa_tumblr_square">&#xf174;</string>
-    <string name="fa_turkish_lira">&#xf195;</string>
-    <string name="fa_twitch">&#xf1e8;</string>
-    <string name="fa_twitter">&#xf099;</string>
-    <string name="fa_twitter_square">&#xf081;</string>
-    <string name="fa_umbrella">&#xf0e9;</string>
-    <string name="fa_underline">&#xf0cd;</string>
-    <string name="fa_undo">&#xf0e2;</string>
-    <string name="fa_university">&#xf19c;</string>
-    <string name="fa_unlink">&#xf127;</string>
-    <string name="fa_unlock">&#xf09c;</string>
-    <string name="fa_unlock_alt">&#xf13e;</string>
-    <string name="fa_unsorted">&#xf0dc;</string>
-    <string name="fa_upload">&#xf093;</string>
-    <string name="fa_usd">&#xf155;</string>
-    <string name="fa_user">&#xf007;</string>
-    <string name="fa_user_md">&#xf0f0;</string>
-    <string name="fa_user_plus">&#xf234;</string>
-    <string name="fa_user_secret">&#xf21b;</string>
-    <string name="fa_user_times">&#xf235;</string>
-    <string name="fa_users">&#xf0c0;</string>
-    <string name="fa_venus">&#xf221;</string>
-    <string name="fa_venus_double">&#xf226;</string>
-    <string name="fa_venus_mars">&#xf228;</string>
-    <string name="fa_viacoin">&#xf237;</string>
-    <string name="fa_video_camera">&#xf03d;</string>
-    <string name="fa_vimeo_square">&#xf194;</string>
-    <string name="fa_vine">&#xf1ca;</string>
-    <string name="fa_vk">&#xf189;</string>
-    <string name="fa_volume_down">&#xf027;</string>
-    <string name="fa_volume_off">&#xf026;</string>
-    <string name="fa_volume_up">&#xf028;</string>
-    <string name="fa_warning">&#xf071;</string>
-    <string name="fa_wechat">&#xf1d7;</string>
-    <string name="fa_weibo">&#xf18a;</string>
-    <string name="fa_weixin">&#xf1d7;</string>
-    <string name="fa_whatsapp">&#xf232;</string>
-    <string name="fa_wheelchair">&#xf193;</string>
-    <string name="fa_wifi">&#xf1eb;</string>
-    <string name="fa_windows">&#xf17a;</string>
-    <string name="fa_won">&#xf159;</string>
-    <string name="fa_wordpress">&#xf19a;</string>
-    <string name="fa_wrench">&#xf0ad;</string>
-    <string name="fa_xing">&#xf168;</string>
-    <string name="fa_xing_square">&#xf169;</string>
-    <string name="fa_yahoo">&#xf19e;</string>
-    <string name="fa_yelp">&#xf1e9;</string>
-    <string name="fa_yen">&#xf157;</string>
-    <string name="fa_youtube">&#xf167;</string>
-    <string name="fa_youtube_play">&#xf16a;</string>
-    <string name="fa_youtube_square">&#xf166;</string>
+    <string name="fa_500px" translatable="false">&#xf26e;</string>
+    <string name="fa_accessible_icon" translatable="false">&#xf368;</string>
+    <string name="fa_accusoft" translatable="false">&#xf369;</string>
+    <string name="fa_acquisitions_incorporated" translatable="false">&#xf6af;</string>
+    <string name="fa_ad" translatable="false">&#xf641;</string>
+    <string name="fa_address_book" translatable="false">&#xf2b9;</string>
+    <string name="fa_address_card" translatable="false">&#xf2bb;</string>
+    <string name="fa_adjust" translatable="false">&#xf042;</string>
+    <string name="fa_adn" translatable="false">&#xf170;</string>
+    <string name="fa_adversal" translatable="false">&#xf36a;</string>
+    <string name="fa_affiliatetheme" translatable="false">&#xf36b;</string>
+    <string name="fa_air_freshener" translatable="false">&#xf5d0;</string>
+    <string name="fa_airbnb" translatable="false">&#xf834;</string>
+    <string name="fa_algolia" translatable="false">&#xf36c;</string>
+    <string name="fa_align_center" translatable="false">&#xf037;</string>
+    <string name="fa_align_justify" translatable="false">&#xf039;</string>
+    <string name="fa_align_left" translatable="false">&#xf036;</string>
+    <string name="fa_align_right" translatable="false">&#xf038;</string>
+    <string name="fa_alipay" translatable="false">&#xf642;</string>
+    <string name="fa_allergies" translatable="false">&#xf461;</string>
+    <string name="fa_amazon" translatable="false">&#xf270;</string>
+    <string name="fa_amazon_pay" translatable="false">&#xf42c;</string>
+    <string name="fa_ambulance" translatable="false">&#xf0f9;</string>
+    <string name="fa_american_sign_language_interpreting" translatable="false">&#xf2a3;</string>
+    <string name="fa_amilia" translatable="false">&#xf36d;</string>
+    <string name="fa_anchor" translatable="false">&#xf13d;</string>
+    <string name="fa_android" translatable="false">&#xf17b;</string>
+    <string name="fa_angellist" translatable="false">&#xf209;</string>
+    <string name="fa_angle_double_down" translatable="false">&#xf103;</string>
+    <string name="fa_angle_double_left" translatable="false">&#xf100;</string>
+    <string name="fa_angle_double_right" translatable="false">&#xf101;</string>
+    <string name="fa_angle_double_up" translatable="false">&#xf102;</string>
+    <string name="fa_angle_down" translatable="false">&#xf107;</string>
+    <string name="fa_angle_left" translatable="false">&#xf104;</string>
+    <string name="fa_angle_right" translatable="false">&#xf105;</string>
+    <string name="fa_angle_up" translatable="false">&#xf106;</string>
+    <string name="fa_angry" translatable="false">&#xf556;</string>
+    <string name="fa_angrycreative" translatable="false">&#xf36e;</string>
+    <string name="fa_angular" translatable="false">&#xf420;</string>
+    <string name="fa_ankh" translatable="false">&#xf644;</string>
+    <string name="fa_app_store" translatable="false">&#xf36f;</string>
+    <string name="fa_app_store_ios" translatable="false">&#xf370;</string>
+    <string name="fa_apper" translatable="false">&#xf371;</string>
+    <string name="fa_apple" translatable="false">&#xf179;</string>
+    <string name="fa_apple_alt" translatable="false">&#xf5d1;</string>
+    <string name="fa_apple_pay" translatable="false">&#xf415;</string>
+    <string name="fa_archive" translatable="false">&#xf187;</string>
+    <string name="fa_archway" translatable="false">&#xf557;</string>
+    <string name="fa_arrow_alt_circle_down" translatable="false">&#xf358;</string>
+    <string name="fa_arrow_alt_circle_left" translatable="false">&#xf359;</string>
+    <string name="fa_arrow_alt_circle_right" translatable="false">&#xf35a;</string>
+    <string name="fa_arrow_alt_circle_up" translatable="false">&#xf35b;</string>
+    <string name="fa_arrow_circle_down" translatable="false">&#xf0ab;</string>
+    <string name="fa_arrow_circle_left" translatable="false">&#xf0a8;</string>
+    <string name="fa_arrow_circle_right" translatable="false">&#xf0a9;</string>
+    <string name="fa_arrow_circle_up" translatable="false">&#xf0aa;</string>
+    <string name="fa_arrow_down" translatable="false">&#xf063;</string>
+    <string name="fa_arrow_left" translatable="false">&#xf060;</string>
+    <string name="fa_arrow_right" translatable="false">&#xf061;</string>
+    <string name="fa_arrow_up" translatable="false">&#xf062;</string>
+    <string name="fa_arrows_alt" translatable="false">&#xf0b2;</string>
+    <string name="fa_arrows_alt_h" translatable="false">&#xf337;</string>
+    <string name="fa_arrows_alt_v" translatable="false">&#xf338;</string>
+    <string name="fa_artstation" translatable="false">&#xf77a;</string>
+    <string name="fa_assistive_listening_systems" translatable="false">&#xf2a2;</string>
+    <string name="fa_asterisk" translatable="false">&#xf069;</string>
+    <string name="fa_asymmetrik" translatable="false">&#xf372;</string>
+    <string name="fa_at" translatable="false">&#xf1fa;</string>
+    <string name="fa_atlas" translatable="false">&#xf558;</string>
+    <string name="fa_atlassian" translatable="false">&#xf77b;</string>
+    <string name="fa_atom" translatable="false">&#xf5d2;</string>
+    <string name="fa_audible" translatable="false">&#xf373;</string>
+    <string name="fa_audio_description" translatable="false">&#xf29e;</string>
+    <string name="fa_autoprefixer" translatable="false">&#xf41c;</string>
+    <string name="fa_avianex" translatable="false">&#xf374;</string>
+    <string name="fa_aviato" translatable="false">&#xf421;</string>
+    <string name="fa_award" translatable="false">&#xf559;</string>
+    <string name="fa_aws" translatable="false">&#xf375;</string>
+    <string name="fa_baby" translatable="false">&#xf77c;</string>
+    <string name="fa_baby_carriage" translatable="false">&#xf77d;</string>
+    <string name="fa_backspace" translatable="false">&#xf55a;</string>
+    <string name="fa_backward" translatable="false">&#xf04a;</string>
+    <string name="fa_bacon" translatable="false">&#xf7e5;</string>
+    <string name="fa_bacteria" translatable="false">&#xe059;</string>
+    <string name="fa_bacterium" translatable="false">&#xe05a;</string>
+    <string name="fa_bahai" translatable="false">&#xf666;</string>
+    <string name="fa_balance_scale" translatable="false">&#xf24e;</string>
+    <string name="fa_balance_scale_left" translatable="false">&#xf515;</string>
+    <string name="fa_balance_scale_right" translatable="false">&#xf516;</string>
+    <string name="fa_ban" translatable="false">&#xf05e;</string>
+    <string name="fa_band_aid" translatable="false">&#xf462;</string>
+    <string name="fa_bandcamp" translatable="false">&#xf2d5;</string>
+    <string name="fa_barcode" translatable="false">&#xf02a;</string>
+    <string name="fa_bars" translatable="false">&#xf0c9;</string>
+    <string name="fa_baseball_ball" translatable="false">&#xf433;</string>
+    <string name="fa_basketball_ball" translatable="false">&#xf434;</string>
+    <string name="fa_bath" translatable="false">&#xf2cd;</string>
+    <string name="fa_battery_empty" translatable="false">&#xf244;</string>
+    <string name="fa_battery_full" translatable="false">&#xf240;</string>
+    <string name="fa_battery_half" translatable="false">&#xf242;</string>
+    <string name="fa_battery_quarter" translatable="false">&#xf243;</string>
+    <string name="fa_battery_three_quarters" translatable="false">&#xf241;</string>
+    <string name="fa_battle_net" translatable="false">&#xf835;</string>
+    <string name="fa_bed" translatable="false">&#xf236;</string>
+    <string name="fa_beer" translatable="false">&#xf0fc;</string>
+    <string name="fa_behance" translatable="false">&#xf1b4;</string>
+    <string name="fa_behance_square" translatable="false">&#xf1b5;</string>
+    <string name="fa_bell" translatable="false">&#xf0f3;</string>
+    <string name="fa_bell_slash" translatable="false">&#xf1f6;</string>
+    <string name="fa_bezier_curve" translatable="false">&#xf55b;</string>
+    <string name="fa_bible" translatable="false">&#xf647;</string>
+    <string name="fa_bicycle" translatable="false">&#xf206;</string>
+    <string name="fa_biking" translatable="false">&#xf84a;</string>
+    <string name="fa_bimobject" translatable="false">&#xf378;</string>
+    <string name="fa_binoculars" translatable="false">&#xf1e5;</string>
+    <string name="fa_biohazard" translatable="false">&#xf780;</string>
+    <string name="fa_birthday_cake" translatable="false">&#xf1fd;</string>
+    <string name="fa_bitbucket" translatable="false">&#xf171;</string>
+    <string name="fa_bitcoin" translatable="false">&#xf379;</string>
+    <string name="fa_bity" translatable="false">&#xf37a;</string>
+    <string name="fa_black_tie" translatable="false">&#xf27e;</string>
+    <string name="fa_blackberry" translatable="false">&#xf37b;</string>
+    <string name="fa_blender" translatable="false">&#xf517;</string>
+    <string name="fa_blender_phone" translatable="false">&#xf6b6;</string>
+    <string name="fa_blind" translatable="false">&#xf29d;</string>
+    <string name="fa_blog" translatable="false">&#xf781;</string>
+    <string name="fa_blogger" translatable="false">&#xf37c;</string>
+    <string name="fa_blogger_b" translatable="false">&#xf37d;</string>
+    <string name="fa_bluetooth" translatable="false">&#xf293;</string>
+    <string name="fa_bluetooth_b" translatable="false">&#xf294;</string>
+    <string name="fa_bold" translatable="false">&#xf032;</string>
+    <string name="fa_bolt" translatable="false">&#xf0e7;</string>
+    <string name="fa_bomb" translatable="false">&#xf1e2;</string>
+    <string name="fa_bone" translatable="false">&#xf5d7;</string>
+    <string name="fa_bong" translatable="false">&#xf55c;</string>
+    <string name="fa_book" translatable="false">&#xf02d;</string>
+    <string name="fa_book_dead" translatable="false">&#xf6b7;</string>
+    <string name="fa_book_medical" translatable="false">&#xf7e6;</string>
+    <string name="fa_book_open" translatable="false">&#xf518;</string>
+    <string name="fa_book_reader" translatable="false">&#xf5da;</string>
+    <string name="fa_bookmark" translatable="false">&#xf02e;</string>
+    <string name="fa_bootstrap" translatable="false">&#xf836;</string>
+    <string name="fa_border_all" translatable="false">&#xf84c;</string>
+    <string name="fa_border_none" translatable="false">&#xf850;</string>
+    <string name="fa_border_style" translatable="false">&#xf853;</string>
+    <string name="fa_bowling_ball" translatable="false">&#xf436;</string>
+    <string name="fa_box" translatable="false">&#xf466;</string>
+    <string name="fa_box_open" translatable="false">&#xf49e;</string>
+    <string name="fa_box_tissue" translatable="false">&#xe05b;</string>
+    <string name="fa_boxes" translatable="false">&#xf468;</string>
+    <string name="fa_braille" translatable="false">&#xf2a1;</string>
+    <string name="fa_brain" translatable="false">&#xf5dc;</string>
+    <string name="fa_bread_slice" translatable="false">&#xf7ec;</string>
+    <string name="fa_briefcase" translatable="false">&#xf0b1;</string>
+    <string name="fa_briefcase_medical" translatable="false">&#xf469;</string>
+    <string name="fa_broadcast_tower" translatable="false">&#xf519;</string>
+    <string name="fa_broom" translatable="false">&#xf51a;</string>
+    <string name="fa_brush" translatable="false">&#xf55d;</string>
+    <string name="fa_btc" translatable="false">&#xf15a;</string>
+    <string name="fa_buffer" translatable="false">&#xf837;</string>
+    <string name="fa_bug" translatable="false">&#xf188;</string>
+    <string name="fa_building" translatable="false">&#xf1ad;</string>
+    <string name="fa_bullhorn" translatable="false">&#xf0a1;</string>
+    <string name="fa_bullseye" translatable="false">&#xf140;</string>
+    <string name="fa_burn" translatable="false">&#xf46a;</string>
+    <string name="fa_buromobelexperte" translatable="false">&#xf37f;</string>
+    <string name="fa_bus" translatable="false">&#xf207;</string>
+    <string name="fa_bus_alt" translatable="false">&#xf55e;</string>
+    <string name="fa_business_time" translatable="false">&#xf64a;</string>
+    <string name="fa_buy_n_large" translatable="false">&#xf8a6;</string>
+    <string name="fa_buysellads" translatable="false">&#xf20d;</string>
+    <string name="fa_calculator" translatable="false">&#xf1ec;</string>
+    <string name="fa_calendar" translatable="false">&#xf133;</string>
+    <string name="fa_calendar_alt" translatable="false">&#xf073;</string>
+    <string name="fa_calendar_check" translatable="false">&#xf274;</string>
+    <string name="fa_calendar_day" translatable="false">&#xf783;</string>
+    <string name="fa_calendar_minus" translatable="false">&#xf272;</string>
+    <string name="fa_calendar_plus" translatable="false">&#xf271;</string>
+    <string name="fa_calendar_times" translatable="false">&#xf273;</string>
+    <string name="fa_calendar_week" translatable="false">&#xf784;</string>
+    <string name="fa_camera" translatable="false">&#xf030;</string>
+    <string name="fa_camera_retro" translatable="false">&#xf083;</string>
+    <string name="fa_campground" translatable="false">&#xf6bb;</string>
+    <string name="fa_canadian_maple_leaf" translatable="false">&#xf785;</string>
+    <string name="fa_candy_cane" translatable="false">&#xf786;</string>
+    <string name="fa_cannabis" translatable="false">&#xf55f;</string>
+    <string name="fa_capsules" translatable="false">&#xf46b;</string>
+    <string name="fa_car" translatable="false">&#xf1b9;</string>
+    <string name="fa_car_alt" translatable="false">&#xf5de;</string>
+    <string name="fa_car_battery" translatable="false">&#xf5df;</string>
+    <string name="fa_car_crash" translatable="false">&#xf5e1;</string>
+    <string name="fa_car_side" translatable="false">&#xf5e4;</string>
+    <string name="fa_caravan" translatable="false">&#xf8ff;</string>
+    <string name="fa_caret_down" translatable="false">&#xf0d7;</string>
+    <string name="fa_caret_left" translatable="false">&#xf0d9;</string>
+    <string name="fa_caret_right" translatable="false">&#xf0da;</string>
+    <string name="fa_caret_square_down" translatable="false">&#xf150;</string>
+    <string name="fa_caret_square_left" translatable="false">&#xf191;</string>
+    <string name="fa_caret_square_right" translatable="false">&#xf152;</string>
+    <string name="fa_caret_square_up" translatable="false">&#xf151;</string>
+    <string name="fa_caret_up" translatable="false">&#xf0d8;</string>
+    <string name="fa_carrot" translatable="false">&#xf787;</string>
+    <string name="fa_cart_arrow_down" translatable="false">&#xf218;</string>
+    <string name="fa_cart_plus" translatable="false">&#xf217;</string>
+    <string name="fa_cash_register" translatable="false">&#xf788;</string>
+    <string name="fa_cat" translatable="false">&#xf6be;</string>
+    <string name="fa_cc_amazon_pay" translatable="false">&#xf42d;</string>
+    <string name="fa_cc_amex" translatable="false">&#xf1f3;</string>
+    <string name="fa_cc_apple_pay" translatable="false">&#xf416;</string>
+    <string name="fa_cc_diners_club" translatable="false">&#xf24c;</string>
+    <string name="fa_cc_discover" translatable="false">&#xf1f2;</string>
+    <string name="fa_cc_jcb" translatable="false">&#xf24b;</string>
+    <string name="fa_cc_mastercard" translatable="false">&#xf1f1;</string>
+    <string name="fa_cc_paypal" translatable="false">&#xf1f4;</string>
+    <string name="fa_cc_stripe" translatable="false">&#xf1f5;</string>
+    <string name="fa_cc_visa" translatable="false">&#xf1f0;</string>
+    <string name="fa_centercode" translatable="false">&#xf380;</string>
+    <string name="fa_centos" translatable="false">&#xf789;</string>
+    <string name="fa_certificate" translatable="false">&#xf0a3;</string>
+    <string name="fa_chair" translatable="false">&#xf6c0;</string>
+    <string name="fa_chalkboard" translatable="false">&#xf51b;</string>
+    <string name="fa_chalkboard_teacher" translatable="false">&#xf51c;</string>
+    <string name="fa_charging_station" translatable="false">&#xf5e7;</string>
+    <string name="fa_chart_area" translatable="false">&#xf1fe;</string>
+    <string name="fa_chart_bar" translatable="false">&#xf080;</string>
+    <string name="fa_chart_line" translatable="false">&#xf201;</string>
+    <string name="fa_chart_pie" translatable="false">&#xf200;</string>
+    <string name="fa_check" translatable="false">&#xf00c;</string>
+    <string name="fa_check_circle" translatable="false">&#xf058;</string>
+    <string name="fa_check_double" translatable="false">&#xf560;</string>
+    <string name="fa_check_square" translatable="false">&#xf14a;</string>
+    <string name="fa_cheese" translatable="false">&#xf7ef;</string>
+    <string name="fa_chess" translatable="false">&#xf439;</string>
+    <string name="fa_chess_bishop" translatable="false">&#xf43a;</string>
+    <string name="fa_chess_board" translatable="false">&#xf43c;</string>
+    <string name="fa_chess_king" translatable="false">&#xf43f;</string>
+    <string name="fa_chess_knight" translatable="false">&#xf441;</string>
+    <string name="fa_chess_pawn" translatable="false">&#xf443;</string>
+    <string name="fa_chess_queen" translatable="false">&#xf445;</string>
+    <string name="fa_chess_rook" translatable="false">&#xf447;</string>
+    <string name="fa_chevron_circle_down" translatable="false">&#xf13a;</string>
+    <string name="fa_chevron_circle_left" translatable="false">&#xf137;</string>
+    <string name="fa_chevron_circle_right" translatable="false">&#xf138;</string>
+    <string name="fa_chevron_circle_up" translatable="false">&#xf139;</string>
+    <string name="fa_chevron_down" translatable="false">&#xf078;</string>
+    <string name="fa_chevron_left" translatable="false">&#xf053;</string>
+    <string name="fa_chevron_right" translatable="false">&#xf054;</string>
+    <string name="fa_chevron_up" translatable="false">&#xf077;</string>
+    <string name="fa_child" translatable="false">&#xf1ae;</string>
+    <string name="fa_chrome" translatable="false">&#xf268;</string>
+    <string name="fa_chromecast" translatable="false">&#xf838;</string>
+    <string name="fa_church" translatable="false">&#xf51d;</string>
+    <string name="fa_circle" translatable="false">&#xf111;</string>
+    <string name="fa_circle_notch" translatable="false">&#xf1ce;</string>
+    <string name="fa_city" translatable="false">&#xf64f;</string>
+    <string name="fa_clinic_medical" translatable="false">&#xf7f2;</string>
+    <string name="fa_clipboard" translatable="false">&#xf328;</string>
+    <string name="fa_clipboard_check" translatable="false">&#xf46c;</string>
+    <string name="fa_clipboard_list" translatable="false">&#xf46d;</string>
+    <string name="fa_clock" translatable="false">&#xf017;</string>
+    <string name="fa_clone" translatable="false">&#xf24d;</string>
+    <string name="fa_closed_captioning" translatable="false">&#xf20a;</string>
+    <string name="fa_cloud" translatable="false">&#xf0c2;</string>
+    <string name="fa_cloud_download_alt" translatable="false">&#xf381;</string>
+    <string name="fa_cloud_meatball" translatable="false">&#xf73b;</string>
+    <string name="fa_cloud_moon" translatable="false">&#xf6c3;</string>
+    <string name="fa_cloud_moon_rain" translatable="false">&#xf73c;</string>
+    <string name="fa_cloud_rain" translatable="false">&#xf73d;</string>
+    <string name="fa_cloud_showers_heavy" translatable="false">&#xf740;</string>
+    <string name="fa_cloud_sun" translatable="false">&#xf6c4;</string>
+    <string name="fa_cloud_sun_rain" translatable="false">&#xf743;</string>
+    <string name="fa_cloud_upload_alt" translatable="false">&#xf382;</string>
+    <string name="fa_cloudflare" translatable="false">&#xe07d;</string>
+    <string name="fa_cloudscale" translatable="false">&#xf383;</string>
+    <string name="fa_cloudsmith" translatable="false">&#xf384;</string>
+    <string name="fa_cloudversify" translatable="false">&#xf385;</string>
+    <string name="fa_cocktail" translatable="false">&#xf561;</string>
+    <string name="fa_code" translatable="false">&#xf121;</string>
+    <string name="fa_code_branch" translatable="false">&#xf126;</string>
+    <string name="fa_codepen" translatable="false">&#xf1cb;</string>
+    <string name="fa_codiepie" translatable="false">&#xf284;</string>
+    <string name="fa_coffee" translatable="false">&#xf0f4;</string>
+    <string name="fa_cog" translatable="false">&#xf013;</string>
+    <string name="fa_cogs" translatable="false">&#xf085;</string>
+    <string name="fa_coins" translatable="false">&#xf51e;</string>
+    <string name="fa_columns" translatable="false">&#xf0db;</string>
+    <string name="fa_comment" translatable="false">&#xf075;</string>
+    <string name="fa_comment_alt" translatable="false">&#xf27a;</string>
+    <string name="fa_comment_dollar" translatable="false">&#xf651;</string>
+    <string name="fa_comment_dots" translatable="false">&#xf4ad;</string>
+    <string name="fa_comment_medical" translatable="false">&#xf7f5;</string>
+    <string name="fa_comment_slash" translatable="false">&#xf4b3;</string>
+    <string name="fa_comments" translatable="false">&#xf086;</string>
+    <string name="fa_comments_dollar" translatable="false">&#xf653;</string>
+    <string name="fa_compact_disc" translatable="false">&#xf51f;</string>
+    <string name="fa_compass" translatable="false">&#xf14e;</string>
+    <string name="fa_compress" translatable="false">&#xf066;</string>
+    <string name="fa_compress_alt" translatable="false">&#xf422;</string>
+    <string name="fa_compress_arrows_alt" translatable="false">&#xf78c;</string>
+    <string name="fa_concierge_bell" translatable="false">&#xf562;</string>
+    <string name="fa_confluence" translatable="false">&#xf78d;</string>
+    <string name="fa_connectdevelop" translatable="false">&#xf20e;</string>
+    <string name="fa_contao" translatable="false">&#xf26d;</string>
+    <string name="fa_cookie" translatable="false">&#xf563;</string>
+    <string name="fa_cookie_bite" translatable="false">&#xf564;</string>
+    <string name="fa_copy" translatable="false">&#xf0c5;</string>
+    <string name="fa_copyright" translatable="false">&#xf1f9;</string>
+    <string name="fa_cotton_bureau" translatable="false">&#xf89e;</string>
+    <string name="fa_couch" translatable="false">&#xf4b8;</string>
+    <string name="fa_cpanel" translatable="false">&#xf388;</string>
+    <string name="fa_creative_commons" translatable="false">&#xf25e;</string>
+    <string name="fa_creative_commons_by" translatable="false">&#xf4e7;</string>
+    <string name="fa_creative_commons_nc" translatable="false">&#xf4e8;</string>
+    <string name="fa_creative_commons_nc_eu" translatable="false">&#xf4e9;</string>
+    <string name="fa_creative_commons_nc_jp" translatable="false">&#xf4ea;</string>
+    <string name="fa_creative_commons_nd" translatable="false">&#xf4eb;</string>
+    <string name="fa_creative_commons_pd" translatable="false">&#xf4ec;</string>
+    <string name="fa_creative_commons_pd_alt" translatable="false">&#xf4ed;</string>
+    <string name="fa_creative_commons_remix" translatable="false">&#xf4ee;</string>
+    <string name="fa_creative_commons_sa" translatable="false">&#xf4ef;</string>
+    <string name="fa_creative_commons_sampling" translatable="false">&#xf4f0;</string>
+    <string name="fa_creative_commons_sampling_plus" translatable="false">&#xf4f1;</string>
+    <string name="fa_creative_commons_share" translatable="false">&#xf4f2;</string>
+    <string name="fa_creative_commons_zero" translatable="false">&#xf4f3;</string>
+    <string name="fa_credit_card" translatable="false">&#xf09d;</string>
+    <string name="fa_critical_role" translatable="false">&#xf6c9;</string>
+    <string name="fa_crop" translatable="false">&#xf125;</string>
+    <string name="fa_crop_alt" translatable="false">&#xf565;</string>
+    <string name="fa_cross" translatable="false">&#xf654;</string>
+    <string name="fa_crosshairs" translatable="false">&#xf05b;</string>
+    <string name="fa_crow" translatable="false">&#xf520;</string>
+    <string name="fa_crown" translatable="false">&#xf521;</string>
+    <string name="fa_crutch" translatable="false">&#xf7f7;</string>
+    <string name="fa_css3" translatable="false">&#xf13c;</string>
+    <string name="fa_css3_alt" translatable="false">&#xf38b;</string>
+    <string name="fa_cube" translatable="false">&#xf1b2;</string>
+    <string name="fa_cubes" translatable="false">&#xf1b3;</string>
+    <string name="fa_cut" translatable="false">&#xf0c4;</string>
+    <string name="fa_cuttlefish" translatable="false">&#xf38c;</string>
+    <string name="fa_d_and_d" translatable="false">&#xf38d;</string>
+    <string name="fa_d_and_d_beyond" translatable="false">&#xf6ca;</string>
+    <string name="fa_dailymotion" translatable="false">&#xe052;</string>
+    <string name="fa_dashcube" translatable="false">&#xf210;</string>
+    <string name="fa_database" translatable="false">&#xf1c0;</string>
+    <string name="fa_deaf" translatable="false">&#xf2a4;</string>
+    <string name="fa_deezer" translatable="false">&#xe077;</string>
+    <string name="fa_delicious" translatable="false">&#xf1a5;</string>
+    <string name="fa_democrat" translatable="false">&#xf747;</string>
+    <string name="fa_deploydog" translatable="false">&#xf38e;</string>
+    <string name="fa_deskpro" translatable="false">&#xf38f;</string>
+    <string name="fa_desktop" translatable="false">&#xf108;</string>
+    <string name="fa_dev" translatable="false">&#xf6cc;</string>
+    <string name="fa_deviantart" translatable="false">&#xf1bd;</string>
+    <string name="fa_dharmachakra" translatable="false">&#xf655;</string>
+    <string name="fa_dhl" translatable="false">&#xf790;</string>
+    <string name="fa_diagnoses" translatable="false">&#xf470;</string>
+    <string name="fa_diaspora" translatable="false">&#xf791;</string>
+    <string name="fa_dice" translatable="false">&#xf522;</string>
+    <string name="fa_dice_d20" translatable="false">&#xf6cf;</string>
+    <string name="fa_dice_d6" translatable="false">&#xf6d1;</string>
+    <string name="fa_dice_five" translatable="false">&#xf523;</string>
+    <string name="fa_dice_four" translatable="false">&#xf524;</string>
+    <string name="fa_dice_one" translatable="false">&#xf525;</string>
+    <string name="fa_dice_six" translatable="false">&#xf526;</string>
+    <string name="fa_dice_three" translatable="false">&#xf527;</string>
+    <string name="fa_dice_two" translatable="false">&#xf528;</string>
+    <string name="fa_digg" translatable="false">&#xf1a6;</string>
+    <string name="fa_digital_ocean" translatable="false">&#xf391;</string>
+    <string name="fa_digital_tachograph" translatable="false">&#xf566;</string>
+    <string name="fa_directions" translatable="false">&#xf5eb;</string>
+    <string name="fa_discord" translatable="false">&#xf392;</string>
+    <string name="fa_discourse" translatable="false">&#xf393;</string>
+    <string name="fa_disease" translatable="false">&#xf7fa;</string>
+    <string name="fa_divide" translatable="false">&#xf529;</string>
+    <string name="fa_dizzy" translatable="false">&#xf567;</string>
+    <string name="fa_dna" translatable="false">&#xf471;</string>
+    <string name="fa_dochub" translatable="false">&#xf394;</string>
+    <string name="fa_docker" translatable="false">&#xf395;</string>
+    <string name="fa_dog" translatable="false">&#xf6d3;</string>
+    <string name="fa_dollar_sign" translatable="false">&#xf155;</string>
+    <string name="fa_dolly" translatable="false">&#xf472;</string>
+    <string name="fa_dolly_flatbed" translatable="false">&#xf474;</string>
+    <string name="fa_donate" translatable="false">&#xf4b9;</string>
+    <string name="fa_door_closed" translatable="false">&#xf52a;</string>
+    <string name="fa_door_open" translatable="false">&#xf52b;</string>
+    <string name="fa_dot_circle" translatable="false">&#xf192;</string>
+    <string name="fa_dove" translatable="false">&#xf4ba;</string>
+    <string name="fa_download" translatable="false">&#xf019;</string>
+    <string name="fa_draft2digital" translatable="false">&#xf396;</string>
+    <string name="fa_drafting_compass" translatable="false">&#xf568;</string>
+    <string name="fa_dragon" translatable="false">&#xf6d5;</string>
+    <string name="fa_draw_polygon" translatable="false">&#xf5ee;</string>
+    <string name="fa_dribbble" translatable="false">&#xf17d;</string>
+    <string name="fa_dribbble_square" translatable="false">&#xf397;</string>
+    <string name="fa_dropbox" translatable="false">&#xf16b;</string>
+    <string name="fa_drum" translatable="false">&#xf569;</string>
+    <string name="fa_drum_steelpan" translatable="false">&#xf56a;</string>
+    <string name="fa_drumstick_bite" translatable="false">&#xf6d7;</string>
+    <string name="fa_drupal" translatable="false">&#xf1a9;</string>
+    <string name="fa_dumbbell" translatable="false">&#xf44b;</string>
+    <string name="fa_dumpster" translatable="false">&#xf793;</string>
+    <string name="fa_dumpster_fire" translatable="false">&#xf794;</string>
+    <string name="fa_dungeon" translatable="false">&#xf6d9;</string>
+    <string name="fa_dyalog" translatable="false">&#xf399;</string>
+    <string name="fa_earlybirds" translatable="false">&#xf39a;</string>
+    <string name="fa_ebay" translatable="false">&#xf4f4;</string>
+    <string name="fa_edge" translatable="false">&#xf282;</string>
+    <string name="fa_edge_legacy" translatable="false">&#xe078;</string>
+    <string name="fa_edit" translatable="false">&#xf044;</string>
+    <string name="fa_egg" translatable="false">&#xf7fb;</string>
+    <string name="fa_eject" translatable="false">&#xf052;</string>
+    <string name="fa_elementor" translatable="false">&#xf430;</string>
+    <string name="fa_ellipsis_h" translatable="false">&#xf141;</string>
+    <string name="fa_ellipsis_v" translatable="false">&#xf142;</string>
+    <string name="fa_ello" translatable="false">&#xf5f1;</string>
+    <string name="fa_ember" translatable="false">&#xf423;</string>
+    <string name="fa_empire" translatable="false">&#xf1d1;</string>
+    <string name="fa_envelope" translatable="false">&#xf0e0;</string>
+    <string name="fa_envelope_open" translatable="false">&#xf2b6;</string>
+    <string name="fa_envelope_open_text" translatable="false">&#xf658;</string>
+    <string name="fa_envelope_square" translatable="false">&#xf199;</string>
+    <string name="fa_envira" translatable="false">&#xf299;</string>
+    <string name="fa_equals" translatable="false">&#xf52c;</string>
+    <string name="fa_eraser" translatable="false">&#xf12d;</string>
+    <string name="fa_erlang" translatable="false">&#xf39d;</string>
+    <string name="fa_ethereum" translatable="false">&#xf42e;</string>
+    <string name="fa_ethernet" translatable="false">&#xf796;</string>
+    <string name="fa_etsy" translatable="false">&#xf2d7;</string>
+    <string name="fa_euro_sign" translatable="false">&#xf153;</string>
+    <string name="fa_evernote" translatable="false">&#xf839;</string>
+    <string name="fa_exchange_alt" translatable="false">&#xf362;</string>
+    <string name="fa_exclamation" translatable="false">&#xf12a;</string>
+    <string name="fa_exclamation_circle" translatable="false">&#xf06a;</string>
+    <string name="fa_exclamation_triangle" translatable="false">&#xf071;</string>
+    <string name="fa_expand" translatable="false">&#xf065;</string>
+    <string name="fa_expand_alt" translatable="false">&#xf424;</string>
+    <string name="fa_expand_arrows_alt" translatable="false">&#xf31e;</string>
+    <string name="fa_expeditedssl" translatable="false">&#xf23e;</string>
+    <string name="fa_external_link_alt" translatable="false">&#xf35d;</string>
+    <string name="fa_external_link_square_alt" translatable="false">&#xf360;</string>
+    <string name="fa_eye" translatable="false">&#xf06e;</string>
+    <string name="fa_eye_dropper" translatable="false">&#xf1fb;</string>
+    <string name="fa_eye_slash" translatable="false">&#xf070;</string>
+    <string name="fa_facebook" translatable="false">&#xf09a;</string>
+    <string name="fa_facebook_f" translatable="false">&#xf39e;</string>
+    <string name="fa_facebook_messenger" translatable="false">&#xf39f;</string>
+    <string name="fa_facebook_square" translatable="false">&#xf082;</string>
+    <string name="fa_fan" translatable="false">&#xf863;</string>
+    <string name="fa_fantasy_flight_games" translatable="false">&#xf6dc;</string>
+    <string name="fa_fast_backward" translatable="false">&#xf049;</string>
+    <string name="fa_fast_forward" translatable="false">&#xf050;</string>
+    <string name="fa_faucet" translatable="false">&#xe005;</string>
+    <string name="fa_fax" translatable="false">&#xf1ac;</string>
+    <string name="fa_feather" translatable="false">&#xf52d;</string>
+    <string name="fa_feather_alt" translatable="false">&#xf56b;</string>
+    <string name="fa_fedex" translatable="false">&#xf797;</string>
+    <string name="fa_fedora" translatable="false">&#xf798;</string>
+    <string name="fa_female" translatable="false">&#xf182;</string>
+    <string name="fa_fighter_jet" translatable="false">&#xf0fb;</string>
+    <string name="fa_figma" translatable="false">&#xf799;</string>
+    <string name="fa_file" translatable="false">&#xf15b;</string>
+    <string name="fa_file_alt" translatable="false">&#xf15c;</string>
+    <string name="fa_file_archive" translatable="false">&#xf1c6;</string>
+    <string name="fa_file_audio" translatable="false">&#xf1c7;</string>
+    <string name="fa_file_code" translatable="false">&#xf1c9;</string>
+    <string name="fa_file_contract" translatable="false">&#xf56c;</string>
+    <string name="fa_file_csv" translatable="false">&#xf6dd;</string>
+    <string name="fa_file_download" translatable="false">&#xf56d;</string>
+    <string name="fa_file_excel" translatable="false">&#xf1c3;</string>
+    <string name="fa_file_export" translatable="false">&#xf56e;</string>
+    <string name="fa_file_image" translatable="false">&#xf1c5;</string>
+    <string name="fa_file_import" translatable="false">&#xf56f;</string>
+    <string name="fa_file_invoice" translatable="false">&#xf570;</string>
+    <string name="fa_file_invoice_dollar" translatable="false">&#xf571;</string>
+    <string name="fa_file_medical" translatable="false">&#xf477;</string>
+    <string name="fa_file_medical_alt" translatable="false">&#xf478;</string>
+    <string name="fa_file_pdf" translatable="false">&#xf1c1;</string>
+    <string name="fa_file_powerpoint" translatable="false">&#xf1c4;</string>
+    <string name="fa_file_prescription" translatable="false">&#xf572;</string>
+    <string name="fa_file_signature" translatable="false">&#xf573;</string>
+    <string name="fa_file_upload" translatable="false">&#xf574;</string>
+    <string name="fa_file_video" translatable="false">&#xf1c8;</string>
+    <string name="fa_file_word" translatable="false">&#xf1c2;</string>
+    <string name="fa_fill" translatable="false">&#xf575;</string>
+    <string name="fa_fill_drip" translatable="false">&#xf576;</string>
+    <string name="fa_film" translatable="false">&#xf008;</string>
+    <string name="fa_filter" translatable="false">&#xf0b0;</string>
+    <string name="fa_fingerprint" translatable="false">&#xf577;</string>
+    <string name="fa_fire" translatable="false">&#xf06d;</string>
+    <string name="fa_fire_alt" translatable="false">&#xf7e4;</string>
+    <string name="fa_fire_extinguisher" translatable="false">&#xf134;</string>
+    <string name="fa_firefox" translatable="false">&#xf269;</string>
+    <string name="fa_firefox_browser" translatable="false">&#xe007;</string>
+    <string name="fa_first_aid" translatable="false">&#xf479;</string>
+    <string name="fa_first_order" translatable="false">&#xf2b0;</string>
+    <string name="fa_first_order_alt" translatable="false">&#xf50a;</string>
+    <string name="fa_firstdraft" translatable="false">&#xf3a1;</string>
+    <string name="fa_fish" translatable="false">&#xf578;</string>
+    <string name="fa_fist_raised" translatable="false">&#xf6de;</string>
+    <string name="fa_flag" translatable="false">&#xf024;</string>
+    <string name="fa_flag_checkered" translatable="false">&#xf11e;</string>
+    <string name="fa_flag_usa" translatable="false">&#xf74d;</string>
+    <string name="fa_flask" translatable="false">&#xf0c3;</string>
+    <string name="fa_flickr" translatable="false">&#xf16e;</string>
+    <string name="fa_flipboard" translatable="false">&#xf44d;</string>
+    <string name="fa_flushed" translatable="false">&#xf579;</string>
+    <string name="fa_fly" translatable="false">&#xf417;</string>
+    <string name="fa_folder" translatable="false">&#xf07b;</string>
+    <string name="fa_folder_minus" translatable="false">&#xf65d;</string>
+    <string name="fa_folder_open" translatable="false">&#xf07c;</string>
+    <string name="fa_folder_plus" translatable="false">&#xf65e;</string>
+    <string name="fa_font" translatable="false">&#xf031;</string>
+    <string name="fa_font_awesome" translatable="false">&#xf2b4;</string>
+    <string name="fa_font_awesome_alt" translatable="false">&#xf35c;</string>
+    <string name="fa_font_awesome_flag" translatable="false">&#xf425;</string>
+    <string name="fa_font_awesome_logo_full" translatable="false">&#xf4e6;</string>
+    <string name="fa_fonticons" translatable="false">&#xf280;</string>
+    <string name="fa_fonticons_fi" translatable="false">&#xf3a2;</string>
+    <string name="fa_football_ball" translatable="false">&#xf44e;</string>
+    <string name="fa_fort_awesome" translatable="false">&#xf286;</string>
+    <string name="fa_fort_awesome_alt" translatable="false">&#xf3a3;</string>
+    <string name="fa_forumbee" translatable="false">&#xf211;</string>
+    <string name="fa_forward" translatable="false">&#xf04e;</string>
+    <string name="fa_foursquare" translatable="false">&#xf180;</string>
+    <string name="fa_free_code_camp" translatable="false">&#xf2c5;</string>
+    <string name="fa_freebsd" translatable="false">&#xf3a4;</string>
+    <string name="fa_frog" translatable="false">&#xf52e;</string>
+    <string name="fa_frown" translatable="false">&#xf119;</string>
+    <string name="fa_frown_open" translatable="false">&#xf57a;</string>
+    <string name="fa_fulcrum" translatable="false">&#xf50b;</string>
+    <string name="fa_funnel_dollar" translatable="false">&#xf662;</string>
+    <string name="fa_futbol" translatable="false">&#xf1e3;</string>
+    <string name="fa_galactic_republic" translatable="false">&#xf50c;</string>
+    <string name="fa_galactic_senate" translatable="false">&#xf50d;</string>
+    <string name="fa_gamepad" translatable="false">&#xf11b;</string>
+    <string name="fa_gas_pump" translatable="false">&#xf52f;</string>
+    <string name="fa_gavel" translatable="false">&#xf0e3;</string>
+    <string name="fa_gem" translatable="false">&#xf3a5;</string>
+    <string name="fa_genderless" translatable="false">&#xf22d;</string>
+    <string name="fa_get_pocket" translatable="false">&#xf265;</string>
+    <string name="fa_gg" translatable="false">&#xf260;</string>
+    <string name="fa_gg_circle" translatable="false">&#xf261;</string>
+    <string name="fa_ghost" translatable="false">&#xf6e2;</string>
+    <string name="fa_gift" translatable="false">&#xf06b;</string>
+    <string name="fa_gifts" translatable="false">&#xf79c;</string>
+    <string name="fa_git" translatable="false">&#xf1d3;</string>
+    <string name="fa_git_alt" translatable="false">&#xf841;</string>
+    <string name="fa_git_square" translatable="false">&#xf1d2;</string>
+    <string name="fa_github" translatable="false">&#xf09b;</string>
+    <string name="fa_github_alt" translatable="false">&#xf113;</string>
+    <string name="fa_github_square" translatable="false">&#xf092;</string>
+    <string name="fa_gitkraken" translatable="false">&#xf3a6;</string>
+    <string name="fa_gitlab" translatable="false">&#xf296;</string>
+    <string name="fa_gitter" translatable="false">&#xf426;</string>
+    <string name="fa_glass_cheers" translatable="false">&#xf79f;</string>
+    <string name="fa_glass_martini" translatable="false">&#xf000;</string>
+    <string name="fa_glass_martini_alt" translatable="false">&#xf57b;</string>
+    <string name="fa_glass_whiskey" translatable="false">&#xf7a0;</string>
+    <string name="fa_glasses" translatable="false">&#xf530;</string>
+    <string name="fa_glide" translatable="false">&#xf2a5;</string>
+    <string name="fa_glide_g" translatable="false">&#xf2a6;</string>
+    <string name="fa_globe" translatable="false">&#xf0ac;</string>
+    <string name="fa_globe_africa" translatable="false">&#xf57c;</string>
+    <string name="fa_globe_americas" translatable="false">&#xf57d;</string>
+    <string name="fa_globe_asia" translatable="false">&#xf57e;</string>
+    <string name="fa_globe_europe" translatable="false">&#xf7a2;</string>
+    <string name="fa_gofore" translatable="false">&#xf3a7;</string>
+    <string name="fa_golf_ball" translatable="false">&#xf450;</string>
+    <string name="fa_goodreads" translatable="false">&#xf3a8;</string>
+    <string name="fa_goodreads_g" translatable="false">&#xf3a9;</string>
+    <string name="fa_google" translatable="false">&#xf1a0;</string>
+    <string name="fa_google_drive" translatable="false">&#xf3aa;</string>
+    <string name="fa_google_pay" translatable="false">&#xe079;</string>
+    <string name="fa_google_play" translatable="false">&#xf3ab;</string>
+    <string name="fa_google_plus" translatable="false">&#xf2b3;</string>
+    <string name="fa_google_plus_g" translatable="false">&#xf0d5;</string>
+    <string name="fa_google_plus_square" translatable="false">&#xf0d4;</string>
+    <string name="fa_google_wallet" translatable="false">&#xf1ee;</string>
+    <string name="fa_gopuram" translatable="false">&#xf664;</string>
+    <string name="fa_graduation_cap" translatable="false">&#xf19d;</string>
+    <string name="fa_gratipay" translatable="false">&#xf184;</string>
+    <string name="fa_grav" translatable="false">&#xf2d6;</string>
+    <string name="fa_greater_than" translatable="false">&#xf531;</string>
+    <string name="fa_greater_than_equal" translatable="false">&#xf532;</string>
+    <string name="fa_grimace" translatable="false">&#xf57f;</string>
+    <string name="fa_grin" translatable="false">&#xf580;</string>
+    <string name="fa_grin_alt" translatable="false">&#xf581;</string>
+    <string name="fa_grin_beam" translatable="false">&#xf582;</string>
+    <string name="fa_grin_beam_sweat" translatable="false">&#xf583;</string>
+    <string name="fa_grin_hearts" translatable="false">&#xf584;</string>
+    <string name="fa_grin_squint" translatable="false">&#xf585;</string>
+    <string name="fa_grin_squint_tears" translatable="false">&#xf586;</string>
+    <string name="fa_grin_stars" translatable="false">&#xf587;</string>
+    <string name="fa_grin_tears" translatable="false">&#xf588;</string>
+    <string name="fa_grin_tongue" translatable="false">&#xf589;</string>
+    <string name="fa_grin_tongue_squint" translatable="false">&#xf58a;</string>
+    <string name="fa_grin_tongue_wink" translatable="false">&#xf58b;</string>
+    <string name="fa_grin_wink" translatable="false">&#xf58c;</string>
+    <string name="fa_grip_horizontal" translatable="false">&#xf58d;</string>
+    <string name="fa_grip_lines" translatable="false">&#xf7a4;</string>
+    <string name="fa_grip_lines_vertical" translatable="false">&#xf7a5;</string>
+    <string name="fa_grip_vertical" translatable="false">&#xf58e;</string>
+    <string name="fa_gripfire" translatable="false">&#xf3ac;</string>
+    <string name="fa_grunt" translatable="false">&#xf3ad;</string>
+    <string name="fa_guilded" translatable="false">&#xe07e;</string>
+    <string name="fa_guitar" translatable="false">&#xf7a6;</string>
+    <string name="fa_gulp" translatable="false">&#xf3ae;</string>
+    <string name="fa_h_square" translatable="false">&#xf0fd;</string>
+    <string name="fa_hacker_news" translatable="false">&#xf1d4;</string>
+    <string name="fa_hacker_news_square" translatable="false">&#xf3af;</string>
+    <string name="fa_hackerrank" translatable="false">&#xf5f7;</string>
+    <string name="fa_hamburger" translatable="false">&#xf805;</string>
+    <string name="fa_hammer" translatable="false">&#xf6e3;</string>
+    <string name="fa_hamsa" translatable="false">&#xf665;</string>
+    <string name="fa_hand_holding" translatable="false">&#xf4bd;</string>
+    <string name="fa_hand_holding_heart" translatable="false">&#xf4be;</string>
+    <string name="fa_hand_holding_medical" translatable="false">&#xe05c;</string>
+    <string name="fa_hand_holding_usd" translatable="false">&#xf4c0;</string>
+    <string name="fa_hand_holding_water" translatable="false">&#xf4c1;</string>
+    <string name="fa_hand_lizard" translatable="false">&#xf258;</string>
+    <string name="fa_hand_middle_finger" translatable="false">&#xf806;</string>
+    <string name="fa_hand_paper" translatable="false">&#xf256;</string>
+    <string name="fa_hand_peace" translatable="false">&#xf25b;</string>
+    <string name="fa_hand_point_down" translatable="false">&#xf0a7;</string>
+    <string name="fa_hand_point_left" translatable="false">&#xf0a5;</string>
+    <string name="fa_hand_point_right" translatable="false">&#xf0a4;</string>
+    <string name="fa_hand_point_up" translatable="false">&#xf0a6;</string>
+    <string name="fa_hand_pointer" translatable="false">&#xf25a;</string>
+    <string name="fa_hand_rock" translatable="false">&#xf255;</string>
+    <string name="fa_hand_scissors" translatable="false">&#xf257;</string>
+    <string name="fa_hand_sparkles" translatable="false">&#xe05d;</string>
+    <string name="fa_hand_spock" translatable="false">&#xf259;</string>
+    <string name="fa_hands" translatable="false">&#xf4c2;</string>
+    <string name="fa_hands_helping" translatable="false">&#xf4c4;</string>
+    <string name="fa_hands_wash" translatable="false">&#xe05e;</string>
+    <string name="fa_handshake" translatable="false">&#xf2b5;</string>
+    <string name="fa_handshake_alt_slash" translatable="false">&#xe05f;</string>
+    <string name="fa_handshake_slash" translatable="false">&#xe060;</string>
+    <string name="fa_hanukiah" translatable="false">&#xf6e6;</string>
+    <string name="fa_hard_hat" translatable="false">&#xf807;</string>
+    <string name="fa_hashtag" translatable="false">&#xf292;</string>
+    <string name="fa_hat_cowboy" translatable="false">&#xf8c0;</string>
+    <string name="fa_hat_cowboy_side" translatable="false">&#xf8c1;</string>
+    <string name="fa_hat_wizard" translatable="false">&#xf6e8;</string>
+    <string name="fa_hdd" translatable="false">&#xf0a0;</string>
+    <string name="fa_head_side_cough" translatable="false">&#xe061;</string>
+    <string name="fa_head_side_cough_slash" translatable="false">&#xe062;</string>
+    <string name="fa_head_side_mask" translatable="false">&#xe063;</string>
+    <string name="fa_head_side_virus" translatable="false">&#xe064;</string>
+    <string name="fa_heading" translatable="false">&#xf1dc;</string>
+    <string name="fa_headphones" translatable="false">&#xf025;</string>
+    <string name="fa_headphones_alt" translatable="false">&#xf58f;</string>
+    <string name="fa_headset" translatable="false">&#xf590;</string>
+    <string name="fa_heart" translatable="false">&#xf004;</string>
+    <string name="fa_heart_broken" translatable="false">&#xf7a9;</string>
+    <string name="fa_heartbeat" translatable="false">&#xf21e;</string>
+    <string name="fa_helicopter" translatable="false">&#xf533;</string>
+    <string name="fa_highlighter" translatable="false">&#xf591;</string>
+    <string name="fa_hiking" translatable="false">&#xf6ec;</string>
+    <string name="fa_hippo" translatable="false">&#xf6ed;</string>
+    <string name="fa_hips" translatable="false">&#xf452;</string>
+    <string name="fa_hire_a_helper" translatable="false">&#xf3b0;</string>
+    <string name="fa_history" translatable="false">&#xf1da;</string>
+    <string name="fa_hive" translatable="false">&#xe07f;</string>
+    <string name="fa_hockey_puck" translatable="false">&#xf453;</string>
+    <string name="fa_holly_berry" translatable="false">&#xf7aa;</string>
+    <string name="fa_home" translatable="false">&#xf015;</string>
+    <string name="fa_hooli" translatable="false">&#xf427;</string>
+    <string name="fa_hornbill" translatable="false">&#xf592;</string>
+    <string name="fa_horse" translatable="false">&#xf6f0;</string>
+    <string name="fa_horse_head" translatable="false">&#xf7ab;</string>
+    <string name="fa_hospital" translatable="false">&#xf0f8;</string>
+    <string name="fa_hospital_alt" translatable="false">&#xf47d;</string>
+    <string name="fa_hospital_symbol" translatable="false">&#xf47e;</string>
+    <string name="fa_hospital_user" translatable="false">&#xf80d;</string>
+    <string name="fa_hot_tub" translatable="false">&#xf593;</string>
+    <string name="fa_hotdog" translatable="false">&#xf80f;</string>
+    <string name="fa_hotel" translatable="false">&#xf594;</string>
+    <string name="fa_hotjar" translatable="false">&#xf3b1;</string>
+    <string name="fa_hourglass" translatable="false">&#xf254;</string>
+    <string name="fa_hourglass_end" translatable="false">&#xf253;</string>
+    <string name="fa_hourglass_half" translatable="false">&#xf252;</string>
+    <string name="fa_hourglass_start" translatable="false">&#xf251;</string>
+    <string name="fa_house_damage" translatable="false">&#xf6f1;</string>
+    <string name="fa_house_user" translatable="false">&#xe065;</string>
+    <string name="fa_houzz" translatable="false">&#xf27c;</string>
+    <string name="fa_hryvnia" translatable="false">&#xf6f2;</string>
+    <string name="fa_html5" translatable="false">&#xf13b;</string>
+    <string name="fa_hubspot" translatable="false">&#xf3b2;</string>
+    <string name="fa_i_cursor" translatable="false">&#xf246;</string>
+    <string name="fa_ice_cream" translatable="false">&#xf810;</string>
+    <string name="fa_icicles" translatable="false">&#xf7ad;</string>
+    <string name="fa_icons" translatable="false">&#xf86d;</string>
+    <string name="fa_id_badge" translatable="false">&#xf2c1;</string>
+    <string name="fa_id_card" translatable="false">&#xf2c2;</string>
+    <string name="fa_id_card_alt" translatable="false">&#xf47f;</string>
+    <string name="fa_ideal" translatable="false">&#xe013;</string>
+    <string name="fa_igloo" translatable="false">&#xf7ae;</string>
+    <string name="fa_image" translatable="false">&#xf03e;</string>
+    <string name="fa_images" translatable="false">&#xf302;</string>
+    <string name="fa_imdb" translatable="false">&#xf2d8;</string>
+    <string name="fa_inbox" translatable="false">&#xf01c;</string>
+    <string name="fa_indent" translatable="false">&#xf03c;</string>
+    <string name="fa_industry" translatable="false">&#xf275;</string>
+    <string name="fa_infinity" translatable="false">&#xf534;</string>
+    <string name="fa_info" translatable="false">&#xf129;</string>
+    <string name="fa_info_circle" translatable="false">&#xf05a;</string>
+    <string name="fa_innosoft" translatable="false">&#xe080;</string>
+    <string name="fa_instagram" translatable="false">&#xf16d;</string>
+    <string name="fa_instagram_square" translatable="false">&#xe055;</string>
+    <string name="fa_instalod" translatable="false">&#xe081;</string>
+    <string name="fa_intercom" translatable="false">&#xf7af;</string>
+    <string name="fa_internet_explorer" translatable="false">&#xf26b;</string>
+    <string name="fa_invision" translatable="false">&#xf7b0;</string>
+    <string name="fa_ioxhost" translatable="false">&#xf208;</string>
+    <string name="fa_italic" translatable="false">&#xf033;</string>
+    <string name="fa_itch_io" translatable="false">&#xf83a;</string>
+    <string name="fa_itunes" translatable="false">&#xf3b4;</string>
+    <string name="fa_itunes_note" translatable="false">&#xf3b5;</string>
+    <string name="fa_java" translatable="false">&#xf4e4;</string>
+    <string name="fa_jedi" translatable="false">&#xf669;</string>
+    <string name="fa_jedi_order" translatable="false">&#xf50e;</string>
+    <string name="fa_jenkins" translatable="false">&#xf3b6;</string>
+    <string name="fa_jira" translatable="false">&#xf7b1;</string>
+    <string name="fa_joget" translatable="false">&#xf3b7;</string>
+    <string name="fa_joint" translatable="false">&#xf595;</string>
+    <string name="fa_joomla" translatable="false">&#xf1aa;</string>
+    <string name="fa_journal_whills" translatable="false">&#xf66a;</string>
+    <string name="fa_js" translatable="false">&#xf3b8;</string>
+    <string name="fa_js_square" translatable="false">&#xf3b9;</string>
+    <string name="fa_jsfiddle" translatable="false">&#xf1cc;</string>
+    <string name="fa_kaaba" translatable="false">&#xf66b;</string>
+    <string name="fa_kaggle" translatable="false">&#xf5fa;</string>
+    <string name="fa_key" translatable="false">&#xf084;</string>
+    <string name="fa_keybase" translatable="false">&#xf4f5;</string>
+    <string name="fa_keyboard" translatable="false">&#xf11c;</string>
+    <string name="fa_keycdn" translatable="false">&#xf3ba;</string>
+    <string name="fa_khanda" translatable="false">&#xf66d;</string>
+    <string name="fa_kickstarter" translatable="false">&#xf3bb;</string>
+    <string name="fa_kickstarter_k" translatable="false">&#xf3bc;</string>
+    <string name="fa_kiss" translatable="false">&#xf596;</string>
+    <string name="fa_kiss_beam" translatable="false">&#xf597;</string>
+    <string name="fa_kiss_wink_heart" translatable="false">&#xf598;</string>
+    <string name="fa_kiwi_bird" translatable="false">&#xf535;</string>
+    <string name="fa_korvue" translatable="false">&#xf42f;</string>
+    <string name="fa_landmark" translatable="false">&#xf66f;</string>
+    <string name="fa_language" translatable="false">&#xf1ab;</string>
+    <string name="fa_laptop" translatable="false">&#xf109;</string>
+    <string name="fa_laptop_code" translatable="false">&#xf5fc;</string>
+    <string name="fa_laptop_house" translatable="false">&#xe066;</string>
+    <string name="fa_laptop_medical" translatable="false">&#xf812;</string>
+    <string name="fa_laravel" translatable="false">&#xf3bd;</string>
+    <string name="fa_lastfm" translatable="false">&#xf202;</string>
+    <string name="fa_lastfm_square" translatable="false">&#xf203;</string>
+    <string name="fa_laugh" translatable="false">&#xf599;</string>
+    <string name="fa_laugh_beam" translatable="false">&#xf59a;</string>
+    <string name="fa_laugh_squint" translatable="false">&#xf59b;</string>
+    <string name="fa_laugh_wink" translatable="false">&#xf59c;</string>
+    <string name="fa_layer_group" translatable="false">&#xf5fd;</string>
+    <string name="fa_leaf" translatable="false">&#xf06c;</string>
+    <string name="fa_leanpub" translatable="false">&#xf212;</string>
+    <string name="fa_lemon" translatable="false">&#xf094;</string>
+    <string name="fa_less" translatable="false">&#xf41d;</string>
+    <string name="fa_less_than" translatable="false">&#xf536;</string>
+    <string name="fa_less_than_equal" translatable="false">&#xf537;</string>
+    <string name="fa_level_down_alt" translatable="false">&#xf3be;</string>
+    <string name="fa_level_up_alt" translatable="false">&#xf3bf;</string>
+    <string name="fa_life_ring" translatable="false">&#xf1cd;</string>
+    <string name="fa_lightbulb" translatable="false">&#xf0eb;</string>
+    <string name="fa_line" translatable="false">&#xf3c0;</string>
+    <string name="fa_link" translatable="false">&#xf0c1;</string>
+    <string name="fa_linkedin" translatable="false">&#xf08c;</string>
+    <string name="fa_linkedin_in" translatable="false">&#xf0e1;</string>
+    <string name="fa_linode" translatable="false">&#xf2b8;</string>
+    <string name="fa_linux" translatable="false">&#xf17c;</string>
+    <string name="fa_lira_sign" translatable="false">&#xf195;</string>
+    <string name="fa_list" translatable="false">&#xf03a;</string>
+    <string name="fa_list_alt" translatable="false">&#xf022;</string>
+    <string name="fa_list_ol" translatable="false">&#xf0cb;</string>
+    <string name="fa_list_ul" translatable="false">&#xf0ca;</string>
+    <string name="fa_location_arrow" translatable="false">&#xf124;</string>
+    <string name="fa_lock" translatable="false">&#xf023;</string>
+    <string name="fa_lock_open" translatable="false">&#xf3c1;</string>
+    <string name="fa_long_arrow_alt_down" translatable="false">&#xf309;</string>
+    <string name="fa_long_arrow_alt_left" translatable="false">&#xf30a;</string>
+    <string name="fa_long_arrow_alt_right" translatable="false">&#xf30b;</string>
+    <string name="fa_long_arrow_alt_up" translatable="false">&#xf30c;</string>
+    <string name="fa_low_vision" translatable="false">&#xf2a8;</string>
+    <string name="fa_luggage_cart" translatable="false">&#xf59d;</string>
+    <string name="fa_lungs" translatable="false">&#xf604;</string>
+    <string name="fa_lungs_virus" translatable="false">&#xe067;</string>
+    <string name="fa_lyft" translatable="false">&#xf3c3;</string>
+    <string name="fa_magento" translatable="false">&#xf3c4;</string>
+    <string name="fa_magic" translatable="false">&#xf0d0;</string>
+    <string name="fa_magnet" translatable="false">&#xf076;</string>
+    <string name="fa_mail_bulk" translatable="false">&#xf674;</string>
+    <string name="fa_mailchimp" translatable="false">&#xf59e;</string>
+    <string name="fa_male" translatable="false">&#xf183;</string>
+    <string name="fa_mandalorian" translatable="false">&#xf50f;</string>
+    <string name="fa_map" translatable="false">&#xf279;</string>
+    <string name="fa_map_marked" translatable="false">&#xf59f;</string>
+    <string name="fa_map_marked_alt" translatable="false">&#xf5a0;</string>
+    <string name="fa_map_marker" translatable="false">&#xf041;</string>
+    <string name="fa_map_marker_alt" translatable="false">&#xf3c5;</string>
+    <string name="fa_map_pin" translatable="false">&#xf276;</string>
+    <string name="fa_map_signs" translatable="false">&#xf277;</string>
+    <string name="fa_markdown" translatable="false">&#xf60f;</string>
+    <string name="fa_marker" translatable="false">&#xf5a1;</string>
+    <string name="fa_mars" translatable="false">&#xf222;</string>
+    <string name="fa_mars_double" translatable="false">&#xf227;</string>
+    <string name="fa_mars_stroke" translatable="false">&#xf229;</string>
+    <string name="fa_mars_stroke_h" translatable="false">&#xf22b;</string>
+    <string name="fa_mars_stroke_v" translatable="false">&#xf22a;</string>
+    <string name="fa_mask" translatable="false">&#xf6fa;</string>
+    <string name="fa_mastodon" translatable="false">&#xf4f6;</string>
+    <string name="fa_maxcdn" translatable="false">&#xf136;</string>
+    <string name="fa_mdb" translatable="false">&#xf8ca;</string>
+    <string name="fa_medal" translatable="false">&#xf5a2;</string>
+    <string name="fa_medapps" translatable="false">&#xf3c6;</string>
+    <string name="fa_medium" translatable="false">&#xf23a;</string>
+    <string name="fa_medium_m" translatable="false">&#xf3c7;</string>
+    <string name="fa_medkit" translatable="false">&#xf0fa;</string>
+    <string name="fa_medrt" translatable="false">&#xf3c8;</string>
+    <string name="fa_meetup" translatable="false">&#xf2e0;</string>
+    <string name="fa_megaport" translatable="false">&#xf5a3;</string>
+    <string name="fa_meh" translatable="false">&#xf11a;</string>
+    <string name="fa_meh_blank" translatable="false">&#xf5a4;</string>
+    <string name="fa_meh_rolling_eyes" translatable="false">&#xf5a5;</string>
+    <string name="fa_memory" translatable="false">&#xf538;</string>
+    <string name="fa_mendeley" translatable="false">&#xf7b3;</string>
+    <string name="fa_menorah" translatable="false">&#xf676;</string>
+    <string name="fa_mercury" translatable="false">&#xf223;</string>
+    <string name="fa_meteor" translatable="false">&#xf753;</string>
+    <string name="fa_microblog" translatable="false">&#xe01a;</string>
+    <string name="fa_microchip" translatable="false">&#xf2db;</string>
+    <string name="fa_microphone" translatable="false">&#xf130;</string>
+    <string name="fa_microphone_alt" translatable="false">&#xf3c9;</string>
+    <string name="fa_microphone_alt_slash" translatable="false">&#xf539;</string>
+    <string name="fa_microphone_slash" translatable="false">&#xf131;</string>
+    <string name="fa_microscope" translatable="false">&#xf610;</string>
+    <string name="fa_microsoft" translatable="false">&#xf3ca;</string>
+    <string name="fa_minus" translatable="false">&#xf068;</string>
+    <string name="fa_minus_circle" translatable="false">&#xf056;</string>
+    <string name="fa_minus_square" translatable="false">&#xf146;</string>
+    <string name="fa_mitten" translatable="false">&#xf7b5;</string>
+    <string name="fa_mix" translatable="false">&#xf3cb;</string>
+    <string name="fa_mixcloud" translatable="false">&#xf289;</string>
+    <string name="fa_mixer" translatable="false">&#xe056;</string>
+    <string name="fa_mizuni" translatable="false">&#xf3cc;</string>
+    <string name="fa_mobile" translatable="false">&#xf10b;</string>
+    <string name="fa_mobile_alt" translatable="false">&#xf3cd;</string>
+    <string name="fa_modx" translatable="false">&#xf285;</string>
+    <string name="fa_monero" translatable="false">&#xf3d0;</string>
+    <string name="fa_money_bill" translatable="false">&#xf0d6;</string>
+    <string name="fa_money_bill_alt" translatable="false">&#xf3d1;</string>
+    <string name="fa_money_bill_wave" translatable="false">&#xf53a;</string>
+    <string name="fa_money_bill_wave_alt" translatable="false">&#xf53b;</string>
+    <string name="fa_money_check" translatable="false">&#xf53c;</string>
+    <string name="fa_money_check_alt" translatable="false">&#xf53d;</string>
+    <string name="fa_monument" translatable="false">&#xf5a6;</string>
+    <string name="fa_moon" translatable="false">&#xf186;</string>
+    <string name="fa_mortar_pestle" translatable="false">&#xf5a7;</string>
+    <string name="fa_mosque" translatable="false">&#xf678;</string>
+    <string name="fa_motorcycle" translatable="false">&#xf21c;</string>
+    <string name="fa_mountain" translatable="false">&#xf6fc;</string>
+    <string name="fa_mouse" translatable="false">&#xf8cc;</string>
+    <string name="fa_mouse_pointer" translatable="false">&#xf245;</string>
+    <string name="fa_mug_hot" translatable="false">&#xf7b6;</string>
+    <string name="fa_music" translatable="false">&#xf001;</string>
+    <string name="fa_napster" translatable="false">&#xf3d2;</string>
+    <string name="fa_neos" translatable="false">&#xf612;</string>
+    <string name="fa_network_wired" translatable="false">&#xf6ff;</string>
+    <string name="fa_neuter" translatable="false">&#xf22c;</string>
+    <string name="fa_newspaper" translatable="false">&#xf1ea;</string>
+    <string name="fa_nimblr" translatable="false">&#xf5a8;</string>
+    <string name="fa_node" translatable="false">&#xf419;</string>
+    <string name="fa_node_js" translatable="false">&#xf3d3;</string>
+    <string name="fa_not_equal" translatable="false">&#xf53e;</string>
+    <string name="fa_notes_medical" translatable="false">&#xf481;</string>
+    <string name="fa_npm" translatable="false">&#xf3d4;</string>
+    <string name="fa_ns8" translatable="false">&#xf3d5;</string>
+    <string name="fa_nutritionix" translatable="false">&#xf3d6;</string>
+    <string name="fa_object_group" translatable="false">&#xf247;</string>
+    <string name="fa_object_ungroup" translatable="false">&#xf248;</string>
+    <string name="fa_octopus_deploy" translatable="false">&#xe082;</string>
+    <string name="fa_odnoklassniki" translatable="false">&#xf263;</string>
+    <string name="fa_odnoklassniki_square" translatable="false">&#xf264;</string>
+    <string name="fa_oil_can" translatable="false">&#xf613;</string>
+    <string name="fa_old_republic" translatable="false">&#xf510;</string>
+    <string name="fa_om" translatable="false">&#xf679;</string>
+    <string name="fa_opencart" translatable="false">&#xf23d;</string>
+    <string name="fa_openid" translatable="false">&#xf19b;</string>
+    <string name="fa_opera" translatable="false">&#xf26a;</string>
+    <string name="fa_optin_monster" translatable="false">&#xf23c;</string>
+    <string name="fa_orcid" translatable="false">&#xf8d2;</string>
+    <string name="fa_osi" translatable="false">&#xf41a;</string>
+    <string name="fa_otter" translatable="false">&#xf700;</string>
+    <string name="fa_outdent" translatable="false">&#xf03b;</string>
+    <string name="fa_page4" translatable="false">&#xf3d7;</string>
+    <string name="fa_pagelines" translatable="false">&#xf18c;</string>
+    <string name="fa_pager" translatable="false">&#xf815;</string>
+    <string name="fa_paint_brush" translatable="false">&#xf1fc;</string>
+    <string name="fa_paint_roller" translatable="false">&#xf5aa;</string>
+    <string name="fa_palette" translatable="false">&#xf53f;</string>
+    <string name="fa_palfed" translatable="false">&#xf3d8;</string>
+    <string name="fa_pallet" translatable="false">&#xf482;</string>
+    <string name="fa_paper_plane" translatable="false">&#xf1d8;</string>
+    <string name="fa_paperclip" translatable="false">&#xf0c6;</string>
+    <string name="fa_parachute_box" translatable="false">&#xf4cd;</string>
+    <string name="fa_paragraph" translatable="false">&#xf1dd;</string>
+    <string name="fa_parking" translatable="false">&#xf540;</string>
+    <string name="fa_passport" translatable="false">&#xf5ab;</string>
+    <string name="fa_pastafarianism" translatable="false">&#xf67b;</string>
+    <string name="fa_paste" translatable="false">&#xf0ea;</string>
+    <string name="fa_patreon" translatable="false">&#xf3d9;</string>
+    <string name="fa_pause" translatable="false">&#xf04c;</string>
+    <string name="fa_pause_circle" translatable="false">&#xf28b;</string>
+    <string name="fa_paw" translatable="false">&#xf1b0;</string>
+    <string name="fa_paypal" translatable="false">&#xf1ed;</string>
+    <string name="fa_peace" translatable="false">&#xf67c;</string>
+    <string name="fa_pen" translatable="false">&#xf304;</string>
+    <string name="fa_pen_alt" translatable="false">&#xf305;</string>
+    <string name="fa_pen_fancy" translatable="false">&#xf5ac;</string>
+    <string name="fa_pen_nib" translatable="false">&#xf5ad;</string>
+    <string name="fa_pen_square" translatable="false">&#xf14b;</string>
+    <string name="fa_pencil_alt" translatable="false">&#xf303;</string>
+    <string name="fa_pencil_ruler" translatable="false">&#xf5ae;</string>
+    <string name="fa_penny_arcade" translatable="false">&#xf704;</string>
+    <string name="fa_people_arrows" translatable="false">&#xe068;</string>
+    <string name="fa_people_carry" translatable="false">&#xf4ce;</string>
+    <string name="fa_pepper_hot" translatable="false">&#xf816;</string>
+    <string name="fa_perbyte" translatable="false">&#xe083;</string>
+    <string name="fa_percent" translatable="false">&#xf295;</string>
+    <string name="fa_percentage" translatable="false">&#xf541;</string>
+    <string name="fa_periscope" translatable="false">&#xf3da;</string>
+    <string name="fa_person_booth" translatable="false">&#xf756;</string>
+    <string name="fa_phabricator" translatable="false">&#xf3db;</string>
+    <string name="fa_phoenix_framework" translatable="false">&#xf3dc;</string>
+    <string name="fa_phoenix_squadron" translatable="false">&#xf511;</string>
+    <string name="fa_phone" translatable="false">&#xf095;</string>
+    <string name="fa_phone_alt" translatable="false">&#xf879;</string>
+    <string name="fa_phone_slash" translatable="false">&#xf3dd;</string>
+    <string name="fa_phone_square" translatable="false">&#xf098;</string>
+    <string name="fa_phone_square_alt" translatable="false">&#xf87b;</string>
+    <string name="fa_phone_volume" translatable="false">&#xf2a0;</string>
+    <string name="fa_photo_video" translatable="false">&#xf87c;</string>
+    <string name="fa_php" translatable="false">&#xf457;</string>
+    <string name="fa_pied_piper" translatable="false">&#xf2ae;</string>
+    <string name="fa_pied_piper_alt" translatable="false">&#xf1a8;</string>
+    <string name="fa_pied_piper_hat" translatable="false">&#xf4e5;</string>
+    <string name="fa_pied_piper_pp" translatable="false">&#xf1a7;</string>
+    <string name="fa_pied_piper_square" translatable="false">&#xe01e;</string>
+    <string name="fa_piggy_bank" translatable="false">&#xf4d3;</string>
+    <string name="fa_pills" translatable="false">&#xf484;</string>
+    <string name="fa_pinterest" translatable="false">&#xf0d2;</string>
+    <string name="fa_pinterest_p" translatable="false">&#xf231;</string>
+    <string name="fa_pinterest_square" translatable="false">&#xf0d3;</string>
+    <string name="fa_pizza_slice" translatable="false">&#xf818;</string>
+    <string name="fa_place_of_worship" translatable="false">&#xf67f;</string>
+    <string name="fa_plane" translatable="false">&#xf072;</string>
+    <string name="fa_plane_arrival" translatable="false">&#xf5af;</string>
+    <string name="fa_plane_departure" translatable="false">&#xf5b0;</string>
+    <string name="fa_plane_slash" translatable="false">&#xe069;</string>
+    <string name="fa_play" translatable="false">&#xf04b;</string>
+    <string name="fa_play_circle" translatable="false">&#xf144;</string>
+    <string name="fa_playstation" translatable="false">&#xf3df;</string>
+    <string name="fa_plug" translatable="false">&#xf1e6;</string>
+    <string name="fa_plus" translatable="false">&#xf067;</string>
+    <string name="fa_plus_circle" translatable="false">&#xf055;</string>
+    <string name="fa_plus_square" translatable="false">&#xf0fe;</string>
+    <string name="fa_podcast" translatable="false">&#xf2ce;</string>
+    <string name="fa_poll" translatable="false">&#xf681;</string>
+    <string name="fa_poll_h" translatable="false">&#xf682;</string>
+    <string name="fa_poo" translatable="false">&#xf2fe;</string>
+    <string name="fa_poo_storm" translatable="false">&#xf75a;</string>
+    <string name="fa_poop" translatable="false">&#xf619;</string>
+    <string name="fa_portrait" translatable="false">&#xf3e0;</string>
+    <string name="fa_pound_sign" translatable="false">&#xf154;</string>
+    <string name="fa_power_off" translatable="false">&#xf011;</string>
+    <string name="fa_pray" translatable="false">&#xf683;</string>
+    <string name="fa_praying_hands" translatable="false">&#xf684;</string>
+    <string name="fa_prescription" translatable="false">&#xf5b1;</string>
+    <string name="fa_prescription_bottle" translatable="false">&#xf485;</string>
+    <string name="fa_prescription_bottle_alt" translatable="false">&#xf486;</string>
+    <string name="fa_print" translatable="false">&#xf02f;</string>
+    <string name="fa_procedures" translatable="false">&#xf487;</string>
+    <string name="fa_product_hunt" translatable="false">&#xf288;</string>
+    <string name="fa_project_diagram" translatable="false">&#xf542;</string>
+    <string name="fa_pump_medical" translatable="false">&#xe06a;</string>
+    <string name="fa_pump_soap" translatable="false">&#xe06b;</string>
+    <string name="fa_pushed" translatable="false">&#xf3e1;</string>
+    <string name="fa_puzzle_piece" translatable="false">&#xf12e;</string>
+    <string name="fa_python" translatable="false">&#xf3e2;</string>
+    <string name="fa_qq" translatable="false">&#xf1d6;</string>
+    <string name="fa_qrcode" translatable="false">&#xf029;</string>
+    <string name="fa_question" translatable="false">&#xf128;</string>
+    <string name="fa_question_circle" translatable="false">&#xf059;</string>
+    <string name="fa_quidditch" translatable="false">&#xf458;</string>
+    <string name="fa_quinscape" translatable="false">&#xf459;</string>
+    <string name="fa_quora" translatable="false">&#xf2c4;</string>
+    <string name="fa_quote_left" translatable="false">&#xf10d;</string>
+    <string name="fa_quote_right" translatable="false">&#xf10e;</string>
+    <string name="fa_quran" translatable="false">&#xf687;</string>
+    <string name="fa_r_project" translatable="false">&#xf4f7;</string>
+    <string name="fa_radiation" translatable="false">&#xf7b9;</string>
+    <string name="fa_radiation_alt" translatable="false">&#xf7ba;</string>
+    <string name="fa_rainbow" translatable="false">&#xf75b;</string>
+    <string name="fa_random" translatable="false">&#xf074;</string>
+    <string name="fa_raspberry_pi" translatable="false">&#xf7bb;</string>
+    <string name="fa_ravelry" translatable="false">&#xf2d9;</string>
+    <string name="fa_react" translatable="false">&#xf41b;</string>
+    <string name="fa_reacteurope" translatable="false">&#xf75d;</string>
+    <string name="fa_readme" translatable="false">&#xf4d5;</string>
+    <string name="fa_rebel" translatable="false">&#xf1d0;</string>
+    <string name="fa_receipt" translatable="false">&#xf543;</string>
+    <string name="fa_record_vinyl" translatable="false">&#xf8d9;</string>
+    <string name="fa_recycle" translatable="false">&#xf1b8;</string>
+    <string name="fa_red_river" translatable="false">&#xf3e3;</string>
+    <string name="fa_reddit" translatable="false">&#xf1a1;</string>
+    <string name="fa_reddit_alien" translatable="false">&#xf281;</string>
+    <string name="fa_reddit_square" translatable="false">&#xf1a2;</string>
+    <string name="fa_redhat" translatable="false">&#xf7bc;</string>
+    <string name="fa_redo" translatable="false">&#xf01e;</string>
+    <string name="fa_redo_alt" translatable="false">&#xf2f9;</string>
+    <string name="fa_registered" translatable="false">&#xf25d;</string>
+    <string name="fa_remove_format" translatable="false">&#xf87d;</string>
+    <string name="fa_renren" translatable="false">&#xf18b;</string>
+    <string name="fa_reply" translatable="false">&#xf3e5;</string>
+    <string name="fa_reply_all" translatable="false">&#xf122;</string>
+    <string name="fa_replyd" translatable="false">&#xf3e6;</string>
+    <string name="fa_republican" translatable="false">&#xf75e;</string>
+    <string name="fa_researchgate" translatable="false">&#xf4f8;</string>
+    <string name="fa_resolving" translatable="false">&#xf3e7;</string>
+    <string name="fa_restroom" translatable="false">&#xf7bd;</string>
+    <string name="fa_retweet" translatable="false">&#xf079;</string>
+    <string name="fa_rev" translatable="false">&#xf5b2;</string>
+    <string name="fa_ribbon" translatable="false">&#xf4d6;</string>
+    <string name="fa_ring" translatable="false">&#xf70b;</string>
+    <string name="fa_road" translatable="false">&#xf018;</string>
+    <string name="fa_robot" translatable="false">&#xf544;</string>
+    <string name="fa_rocket" translatable="false">&#xf135;</string>
+    <string name="fa_rocketchat" translatable="false">&#xf3e8;</string>
+    <string name="fa_rockrms" translatable="false">&#xf3e9;</string>
+    <string name="fa_route" translatable="false">&#xf4d7;</string>
+    <string name="fa_rss" translatable="false">&#xf09e;</string>
+    <string name="fa_rss_square" translatable="false">&#xf143;</string>
+    <string name="fa_ruble_sign" translatable="false">&#xf158;</string>
+    <string name="fa_ruler" translatable="false">&#xf545;</string>
+    <string name="fa_ruler_combined" translatable="false">&#xf546;</string>
+    <string name="fa_ruler_horizontal" translatable="false">&#xf547;</string>
+    <string name="fa_ruler_vertical" translatable="false">&#xf548;</string>
+    <string name="fa_running" translatable="false">&#xf70c;</string>
+    <string name="fa_rupee_sign" translatable="false">&#xf156;</string>
+    <string name="fa_rust" translatable="false">&#xe07a;</string>
+    <string name="fa_sad_cry" translatable="false">&#xf5b3;</string>
+    <string name="fa_sad_tear" translatable="false">&#xf5b4;</string>
+    <string name="fa_safari" translatable="false">&#xf267;</string>
+    <string name="fa_salesforce" translatable="false">&#xf83b;</string>
+    <string name="fa_sass" translatable="false">&#xf41e;</string>
+    <string name="fa_satellite" translatable="false">&#xf7bf;</string>
+    <string name="fa_satellite_dish" translatable="false">&#xf7c0;</string>
+    <string name="fa_save" translatable="false">&#xf0c7;</string>
+    <string name="fa_schlix" translatable="false">&#xf3ea;</string>
+    <string name="fa_school" translatable="false">&#xf549;</string>
+    <string name="fa_screwdriver" translatable="false">&#xf54a;</string>
+    <string name="fa_scribd" translatable="false">&#xf28a;</string>
+    <string name="fa_scroll" translatable="false">&#xf70e;</string>
+    <string name="fa_sd_card" translatable="false">&#xf7c2;</string>
+    <string name="fa_search" translatable="false">&#xf002;</string>
+    <string name="fa_search_dollar" translatable="false">&#xf688;</string>
+    <string name="fa_search_location" translatable="false">&#xf689;</string>
+    <string name="fa_search_minus" translatable="false">&#xf010;</string>
+    <string name="fa_search_plus" translatable="false">&#xf00e;</string>
+    <string name="fa_searchengin" translatable="false">&#xf3eb;</string>
+    <string name="fa_seedling" translatable="false">&#xf4d8;</string>
+    <string name="fa_sellcast" translatable="false">&#xf2da;</string>
+    <string name="fa_sellsy" translatable="false">&#xf213;</string>
+    <string name="fa_server" translatable="false">&#xf233;</string>
+    <string name="fa_servicestack" translatable="false">&#xf3ec;</string>
+    <string name="fa_shapes" translatable="false">&#xf61f;</string>
+    <string name="fa_share" translatable="false">&#xf064;</string>
+    <string name="fa_share_alt" translatable="false">&#xf1e0;</string>
+    <string name="fa_share_alt_square" translatable="false">&#xf1e1;</string>
+    <string name="fa_share_square" translatable="false">&#xf14d;</string>
+    <string name="fa_shekel_sign" translatable="false">&#xf20b;</string>
+    <string name="fa_shield_alt" translatable="false">&#xf3ed;</string>
+    <string name="fa_shield_virus" translatable="false">&#xe06c;</string>
+    <string name="fa_ship" translatable="false">&#xf21a;</string>
+    <string name="fa_shipping_fast" translatable="false">&#xf48b;</string>
+    <string name="fa_shirtsinbulk" translatable="false">&#xf214;</string>
+    <string name="fa_shoe_prints" translatable="false">&#xf54b;</string>
+    <string name="fa_shopify" translatable="false">&#xe057;</string>
+    <string name="fa_shopping_bag" translatable="false">&#xf290;</string>
+    <string name="fa_shopping_basket" translatable="false">&#xf291;</string>
+    <string name="fa_shopping_cart" translatable="false">&#xf07a;</string>
+    <string name="fa_shopware" translatable="false">&#xf5b5;</string>
+    <string name="fa_shower" translatable="false">&#xf2cc;</string>
+    <string name="fa_shuttle_van" translatable="false">&#xf5b6;</string>
+    <string name="fa_sign" translatable="false">&#xf4d9;</string>
+    <string name="fa_sign_in_alt" translatable="false">&#xf2f6;</string>
+    <string name="fa_sign_language" translatable="false">&#xf2a7;</string>
+    <string name="fa_sign_out_alt" translatable="false">&#xf2f5;</string>
+    <string name="fa_signal" translatable="false">&#xf012;</string>
+    <string name="fa_signature" translatable="false">&#xf5b7;</string>
+    <string name="fa_sim_card" translatable="false">&#xf7c4;</string>
+    <string name="fa_simplybuilt" translatable="false">&#xf215;</string>
+    <string name="fa_sink" translatable="false">&#xe06d;</string>
+    <string name="fa_sistrix" translatable="false">&#xf3ee;</string>
+    <string name="fa_sitemap" translatable="false">&#xf0e8;</string>
+    <string name="fa_sith" translatable="false">&#xf512;</string>
+    <string name="fa_skating" translatable="false">&#xf7c5;</string>
+    <string name="fa_sketch" translatable="false">&#xf7c6;</string>
+    <string name="fa_skiing" translatable="false">&#xf7c9;</string>
+    <string name="fa_skiing_nordic" translatable="false">&#xf7ca;</string>
+    <string name="fa_skull" translatable="false">&#xf54c;</string>
+    <string name="fa_skull_crossbones" translatable="false">&#xf714;</string>
+    <string name="fa_skyatlas" translatable="false">&#xf216;</string>
+    <string name="fa_skype" translatable="false">&#xf17e;</string>
+    <string name="fa_slack" translatable="false">&#xf198;</string>
+    <string name="fa_slack_hash" translatable="false">&#xf3ef;</string>
+    <string name="fa_slash" translatable="false">&#xf715;</string>
+    <string name="fa_sleigh" translatable="false">&#xf7cc;</string>
+    <string name="fa_sliders_h" translatable="false">&#xf1de;</string>
+    <string name="fa_slideshare" translatable="false">&#xf1e7;</string>
+    <string name="fa_smile" translatable="false">&#xf118;</string>
+    <string name="fa_smile_beam" translatable="false">&#xf5b8;</string>
+    <string name="fa_smile_wink" translatable="false">&#xf4da;</string>
+    <string name="fa_smog" translatable="false">&#xf75f;</string>
+    <string name="fa_smoking" translatable="false">&#xf48d;</string>
+    <string name="fa_smoking_ban" translatable="false">&#xf54d;</string>
+    <string name="fa_sms" translatable="false">&#xf7cd;</string>
+    <string name="fa_snapchat" translatable="false">&#xf2ab;</string>
+    <string name="fa_snapchat_ghost" translatable="false">&#xf2ac;</string>
+    <string name="fa_snapchat_square" translatable="false">&#xf2ad;</string>
+    <string name="fa_snowboarding" translatable="false">&#xf7ce;</string>
+    <string name="fa_snowflake" translatable="false">&#xf2dc;</string>
+    <string name="fa_snowman" translatable="false">&#xf7d0;</string>
+    <string name="fa_snowplow" translatable="false">&#xf7d2;</string>
+    <string name="fa_soap" translatable="false">&#xe06e;</string>
+    <string name="fa_socks" translatable="false">&#xf696;</string>
+    <string name="fa_solar_panel" translatable="false">&#xf5ba;</string>
+    <string name="fa_sort" translatable="false">&#xf0dc;</string>
+    <string name="fa_sort_alpha_down" translatable="false">&#xf15d;</string>
+    <string name="fa_sort_alpha_down_alt" translatable="false">&#xf881;</string>
+    <string name="fa_sort_alpha_up" translatable="false">&#xf15e;</string>
+    <string name="fa_sort_alpha_up_alt" translatable="false">&#xf882;</string>
+    <string name="fa_sort_amount_down" translatable="false">&#xf160;</string>
+    <string name="fa_sort_amount_down_alt" translatable="false">&#xf884;</string>
+    <string name="fa_sort_amount_up" translatable="false">&#xf161;</string>
+    <string name="fa_sort_amount_up_alt" translatable="false">&#xf885;</string>
+    <string name="fa_sort_down" translatable="false">&#xf0dd;</string>
+    <string name="fa_sort_numeric_down" translatable="false">&#xf162;</string>
+    <string name="fa_sort_numeric_down_alt" translatable="false">&#xf886;</string>
+    <string name="fa_sort_numeric_up" translatable="false">&#xf163;</string>
+    <string name="fa_sort_numeric_up_alt" translatable="false">&#xf887;</string>
+    <string name="fa_sort_up" translatable="false">&#xf0de;</string>
+    <string name="fa_soundcloud" translatable="false">&#xf1be;</string>
+    <string name="fa_sourcetree" translatable="false">&#xf7d3;</string>
+    <string name="fa_spa" translatable="false">&#xf5bb;</string>
+    <string name="fa_space_shuttle" translatable="false">&#xf197;</string>
+    <string name="fa_speakap" translatable="false">&#xf3f3;</string>
+    <string name="fa_speaker_deck" translatable="false">&#xf83c;</string>
+    <string name="fa_spell_check" translatable="false">&#xf891;</string>
+    <string name="fa_spider" translatable="false">&#xf717;</string>
+    <string name="fa_spinner" translatable="false">&#xf110;</string>
+    <string name="fa_splotch" translatable="false">&#xf5bc;</string>
+    <string name="fa_spotify" translatable="false">&#xf1bc;</string>
+    <string name="fa_spray_can" translatable="false">&#xf5bd;</string>
+    <string name="fa_square" translatable="false">&#xf0c8;</string>
+    <string name="fa_square_full" translatable="false">&#xf45c;</string>
+    <string name="fa_square_root_alt" translatable="false">&#xf698;</string>
+    <string name="fa_squarespace" translatable="false">&#xf5be;</string>
+    <string name="fa_stack_exchange" translatable="false">&#xf18d;</string>
+    <string name="fa_stack_overflow" translatable="false">&#xf16c;</string>
+    <string name="fa_stackpath" translatable="false">&#xf842;</string>
+    <string name="fa_stamp" translatable="false">&#xf5bf;</string>
+    <string name="fa_star" translatable="false">&#xf005;</string>
+    <string name="fa_star_and_crescent" translatable="false">&#xf699;</string>
+    <string name="fa_star_half" translatable="false">&#xf089;</string>
+    <string name="fa_star_half_alt" translatable="false">&#xf5c0;</string>
+    <string name="fa_star_of_david" translatable="false">&#xf69a;</string>
+    <string name="fa_star_of_life" translatable="false">&#xf621;</string>
+    <string name="fa_staylinked" translatable="false">&#xf3f5;</string>
+    <string name="fa_steam" translatable="false">&#xf1b6;</string>
+    <string name="fa_steam_square" translatable="false">&#xf1b7;</string>
+    <string name="fa_steam_symbol" translatable="false">&#xf3f6;</string>
+    <string name="fa_step_backward" translatable="false">&#xf048;</string>
+    <string name="fa_step_forward" translatable="false">&#xf051;</string>
+    <string name="fa_stethoscope" translatable="false">&#xf0f1;</string>
+    <string name="fa_sticker_mule" translatable="false">&#xf3f7;</string>
+    <string name="fa_sticky_note" translatable="false">&#xf249;</string>
+    <string name="fa_stop" translatable="false">&#xf04d;</string>
+    <string name="fa_stop_circle" translatable="false">&#xf28d;</string>
+    <string name="fa_stopwatch" translatable="false">&#xf2f2;</string>
+    <string name="fa_stopwatch_20" translatable="false">&#xe06f;</string>
+    <string name="fa_store" translatable="false">&#xf54e;</string>
+    <string name="fa_store_alt" translatable="false">&#xf54f;</string>
+    <string name="fa_store_alt_slash" translatable="false">&#xe070;</string>
+    <string name="fa_store_slash" translatable="false">&#xe071;</string>
+    <string name="fa_strava" translatable="false">&#xf428;</string>
+    <string name="fa_stream" translatable="false">&#xf550;</string>
+    <string name="fa_street_view" translatable="false">&#xf21d;</string>
+    <string name="fa_strikethrough" translatable="false">&#xf0cc;</string>
+    <string name="fa_stripe" translatable="false">&#xf429;</string>
+    <string name="fa_stripe_s" translatable="false">&#xf42a;</string>
+    <string name="fa_stroopwafel" translatable="false">&#xf551;</string>
+    <string name="fa_studiovinari" translatable="false">&#xf3f8;</string>
+    <string name="fa_stumbleupon" translatable="false">&#xf1a4;</string>
+    <string name="fa_stumbleupon_circle" translatable="false">&#xf1a3;</string>
+    <string name="fa_subscript" translatable="false">&#xf12c;</string>
+    <string name="fa_subway" translatable="false">&#xf239;</string>
+    <string name="fa_suitcase" translatable="false">&#xf0f2;</string>
+    <string name="fa_suitcase_rolling" translatable="false">&#xf5c1;</string>
+    <string name="fa_sun" translatable="false">&#xf185;</string>
+    <string name="fa_superpowers" translatable="false">&#xf2dd;</string>
+    <string name="fa_superscript" translatable="false">&#xf12b;</string>
+    <string name="fa_supple" translatable="false">&#xf3f9;</string>
+    <string name="fa_surprise" translatable="false">&#xf5c2;</string>
+    <string name="fa_suse" translatable="false">&#xf7d6;</string>
+    <string name="fa_swatchbook" translatable="false">&#xf5c3;</string>
+    <string name="fa_swift" translatable="false">&#xf8e1;</string>
+    <string name="fa_swimmer" translatable="false">&#xf5c4;</string>
+    <string name="fa_swimming_pool" translatable="false">&#xf5c5;</string>
+    <string name="fa_symfony" translatable="false">&#xf83d;</string>
+    <string name="fa_synagogue" translatable="false">&#xf69b;</string>
+    <string name="fa_sync" translatable="false">&#xf021;</string>
+    <string name="fa_sync_alt" translatable="false">&#xf2f1;</string>
+    <string name="fa_syringe" translatable="false">&#xf48e;</string>
+    <string name="fa_table" translatable="false">&#xf0ce;</string>
+    <string name="fa_table_tennis" translatable="false">&#xf45d;</string>
+    <string name="fa_tablet" translatable="false">&#xf10a;</string>
+    <string name="fa_tablet_alt" translatable="false">&#xf3fa;</string>
+    <string name="fa_tablets" translatable="false">&#xf490;</string>
+    <string name="fa_tachometer_alt" translatable="false">&#xf3fd;</string>
+    <string name="fa_tag" translatable="false">&#xf02b;</string>
+    <string name="fa_tags" translatable="false">&#xf02c;</string>
+    <string name="fa_tape" translatable="false">&#xf4db;</string>
+    <string name="fa_tasks" translatable="false">&#xf0ae;</string>
+    <string name="fa_taxi" translatable="false">&#xf1ba;</string>
+    <string name="fa_teamspeak" translatable="false">&#xf4f9;</string>
+    <string name="fa_teeth" translatable="false">&#xf62e;</string>
+    <string name="fa_teeth_open" translatable="false">&#xf62f;</string>
+    <string name="fa_telegram" translatable="false">&#xf2c6;</string>
+    <string name="fa_telegram_plane" translatable="false">&#xf3fe;</string>
+    <string name="fa_temperature_high" translatable="false">&#xf769;</string>
+    <string name="fa_temperature_low" translatable="false">&#xf76b;</string>
+    <string name="fa_tencent_weibo" translatable="false">&#xf1d5;</string>
+    <string name="fa_tenge" translatable="false">&#xf7d7;</string>
+    <string name="fa_terminal" translatable="false">&#xf120;</string>
+    <string name="fa_text_height" translatable="false">&#xf034;</string>
+    <string name="fa_text_width" translatable="false">&#xf035;</string>
+    <string name="fa_th" translatable="false">&#xf00a;</string>
+    <string name="fa_th_large" translatable="false">&#xf009;</string>
+    <string name="fa_th_list" translatable="false">&#xf00b;</string>
+    <string name="fa_the_red_yeti" translatable="false">&#xf69d;</string>
+    <string name="fa_theater_masks" translatable="false">&#xf630;</string>
+    <string name="fa_themeco" translatable="false">&#xf5c6;</string>
+    <string name="fa_themeisle" translatable="false">&#xf2b2;</string>
+    <string name="fa_thermometer" translatable="false">&#xf491;</string>
+    <string name="fa_thermometer_empty" translatable="false">&#xf2cb;</string>
+    <string name="fa_thermometer_full" translatable="false">&#xf2c7;</string>
+    <string name="fa_thermometer_half" translatable="false">&#xf2c9;</string>
+    <string name="fa_thermometer_quarter" translatable="false">&#xf2ca;</string>
+    <string name="fa_thermometer_three_quarters" translatable="false">&#xf2c8;</string>
+    <string name="fa_think_peaks" translatable="false">&#xf731;</string>
+    <string name="fa_thumbs_down" translatable="false">&#xf165;</string>
+    <string name="fa_thumbs_up" translatable="false">&#xf164;</string>
+    <string name="fa_thumbtack" translatable="false">&#xf08d;</string>
+    <string name="fa_ticket_alt" translatable="false">&#xf3ff;</string>
+    <string name="fa_tiktok" translatable="false">&#xe07b;</string>
+    <string name="fa_times" translatable="false">&#xf00d;</string>
+    <string name="fa_times_circle" translatable="false">&#xf057;</string>
+    <string name="fa_tint" translatable="false">&#xf043;</string>
+    <string name="fa_tint_slash" translatable="false">&#xf5c7;</string>
+    <string name="fa_tired" translatable="false">&#xf5c8;</string>
+    <string name="fa_toggle_off" translatable="false">&#xf204;</string>
+    <string name="fa_toggle_on" translatable="false">&#xf205;</string>
+    <string name="fa_toilet" translatable="false">&#xf7d8;</string>
+    <string name="fa_toilet_paper" translatable="false">&#xf71e;</string>
+    <string name="fa_toilet_paper_slash" translatable="false">&#xe072;</string>
+    <string name="fa_toolbox" translatable="false">&#xf552;</string>
+    <string name="fa_tools" translatable="false">&#xf7d9;</string>
+    <string name="fa_tooth" translatable="false">&#xf5c9;</string>
+    <string name="fa_torah" translatable="false">&#xf6a0;</string>
+    <string name="fa_torii_gate" translatable="false">&#xf6a1;</string>
+    <string name="fa_tractor" translatable="false">&#xf722;</string>
+    <string name="fa_trade_federation" translatable="false">&#xf513;</string>
+    <string name="fa_trademark" translatable="false">&#xf25c;</string>
+    <string name="fa_traffic_light" translatable="false">&#xf637;</string>
+    <string name="fa_trailer" translatable="false">&#xe041;</string>
+    <string name="fa_train" translatable="false">&#xf238;</string>
+    <string name="fa_tram" translatable="false">&#xf7da;</string>
+    <string name="fa_transgender" translatable="false">&#xf224;</string>
+    <string name="fa_transgender_alt" translatable="false">&#xf225;</string>
+    <string name="fa_trash" translatable="false">&#xf1f8;</string>
+    <string name="fa_trash_alt" translatable="false">&#xf2ed;</string>
+    <string name="fa_trash_restore" translatable="false">&#xf829;</string>
+    <string name="fa_trash_restore_alt" translatable="false">&#xf82a;</string>
+    <string name="fa_tree" translatable="false">&#xf1bb;</string>
+    <string name="fa_trello" translatable="false">&#xf181;</string>
+    <string name="fa_tripadvisor" translatable="false">&#xf262;</string>
+    <string name="fa_trophy" translatable="false">&#xf091;</string>
+    <string name="fa_truck" translatable="false">&#xf0d1;</string>
+    <string name="fa_truck_loading" translatable="false">&#xf4de;</string>
+    <string name="fa_truck_monster" translatable="false">&#xf63b;</string>
+    <string name="fa_truck_moving" translatable="false">&#xf4df;</string>
+    <string name="fa_truck_pickup" translatable="false">&#xf63c;</string>
+    <string name="fa_tshirt" translatable="false">&#xf553;</string>
+    <string name="fa_tty" translatable="false">&#xf1e4;</string>
+    <string name="fa_tumblr" translatable="false">&#xf173;</string>
+    <string name="fa_tumblr_square" translatable="false">&#xf174;</string>
+    <string name="fa_tv" translatable="false">&#xf26c;</string>
+    <string name="fa_twitch" translatable="false">&#xf1e8;</string>
+    <string name="fa_twitter" translatable="false">&#xf099;</string>
+    <string name="fa_twitter_square" translatable="false">&#xf081;</string>
+    <string name="fa_typo3" translatable="false">&#xf42b;</string>
+    <string name="fa_uber" translatable="false">&#xf402;</string>
+    <string name="fa_ubuntu" translatable="false">&#xf7df;</string>
+    <string name="fa_uikit" translatable="false">&#xf403;</string>
+    <string name="fa_umbraco" translatable="false">&#xf8e8;</string>
+    <string name="fa_umbrella" translatable="false">&#xf0e9;</string>
+    <string name="fa_umbrella_beach" translatable="false">&#xf5ca;</string>
+    <string name="fa_uncharted" translatable="false">&#xe084;</string>
+    <string name="fa_underline" translatable="false">&#xf0cd;</string>
+    <string name="fa_undo" translatable="false">&#xf0e2;</string>
+    <string name="fa_undo_alt" translatable="false">&#xf2ea;</string>
+    <string name="fa_uniregistry" translatable="false">&#xf404;</string>
+    <string name="fa_unity" translatable="false">&#xe049;</string>
+    <string name="fa_universal_access" translatable="false">&#xf29a;</string>
+    <string name="fa_university" translatable="false">&#xf19c;</string>
+    <string name="fa_unlink" translatable="false">&#xf127;</string>
+    <string name="fa_unlock" translatable="false">&#xf09c;</string>
+    <string name="fa_unlock_alt" translatable="false">&#xf13e;</string>
+    <string name="fa_unsplash" translatable="false">&#xe07c;</string>
+    <string name="fa_untappd" translatable="false">&#xf405;</string>
+    <string name="fa_upload" translatable="false">&#xf093;</string>
+    <string name="fa_ups" translatable="false">&#xf7e0;</string>
+    <string name="fa_usb" translatable="false">&#xf287;</string>
+    <string name="fa_user" translatable="false">&#xf007;</string>
+    <string name="fa_user_alt" translatable="false">&#xf406;</string>
+    <string name="fa_user_alt_slash" translatable="false">&#xf4fa;</string>
+    <string name="fa_user_astronaut" translatable="false">&#xf4fb;</string>
+    <string name="fa_user_check" translatable="false">&#xf4fc;</string>
+    <string name="fa_user_circle" translatable="false">&#xf2bd;</string>
+    <string name="fa_user_clock" translatable="false">&#xf4fd;</string>
+    <string name="fa_user_cog" translatable="false">&#xf4fe;</string>
+    <string name="fa_user_edit" translatable="false">&#xf4ff;</string>
+    <string name="fa_user_friends" translatable="false">&#xf500;</string>
+    <string name="fa_user_graduate" translatable="false">&#xf501;</string>
+    <string name="fa_user_injured" translatable="false">&#xf728;</string>
+    <string name="fa_user_lock" translatable="false">&#xf502;</string>
+    <string name="fa_user_md" translatable="false">&#xf0f0;</string>
+    <string name="fa_user_minus" translatable="false">&#xf503;</string>
+    <string name="fa_user_ninja" translatable="false">&#xf504;</string>
+    <string name="fa_user_nurse" translatable="false">&#xf82f;</string>
+    <string name="fa_user_plus" translatable="false">&#xf234;</string>
+    <string name="fa_user_secret" translatable="false">&#xf21b;</string>
+    <string name="fa_user_shield" translatable="false">&#xf505;</string>
+    <string name="fa_user_slash" translatable="false">&#xf506;</string>
+    <string name="fa_user_tag" translatable="false">&#xf507;</string>
+    <string name="fa_user_tie" translatable="false">&#xf508;</string>
+    <string name="fa_user_times" translatable="false">&#xf235;</string>
+    <string name="fa_users" translatable="false">&#xf0c0;</string>
+    <string name="fa_users_cog" translatable="false">&#xf509;</string>
+    <string name="fa_users_slash" translatable="false">&#xe073;</string>
+    <string name="fa_usps" translatable="false">&#xf7e1;</string>
+    <string name="fa_ussunnah" translatable="false">&#xf407;</string>
+    <string name="fa_utensil_spoon" translatable="false">&#xf2e5;</string>
+    <string name="fa_utensils" translatable="false">&#xf2e7;</string>
+    <string name="fa_vaadin" translatable="false">&#xf408;</string>
+    <string name="fa_vector_square" translatable="false">&#xf5cb;</string>
+    <string name="fa_venus" translatable="false">&#xf221;</string>
+    <string name="fa_venus_double" translatable="false">&#xf226;</string>
+    <string name="fa_venus_mars" translatable="false">&#xf228;</string>
+    <string name="fa_vest" translatable="false">&#xe085;</string>
+    <string name="fa_vest_patches" translatable="false">&#xe086;</string>
+    <string name="fa_viacoin" translatable="false">&#xf237;</string>
+    <string name="fa_viadeo" translatable="false">&#xf2a9;</string>
+    <string name="fa_viadeo_square" translatable="false">&#xf2aa;</string>
+    <string name="fa_vial" translatable="false">&#xf492;</string>
+    <string name="fa_vials" translatable="false">&#xf493;</string>
+    <string name="fa_viber" translatable="false">&#xf409;</string>
+    <string name="fa_video" translatable="false">&#xf03d;</string>
+    <string name="fa_video_slash" translatable="false">&#xf4e2;</string>
+    <string name="fa_vihara" translatable="false">&#xf6a7;</string>
+    <string name="fa_vimeo" translatable="false">&#xf40a;</string>
+    <string name="fa_vimeo_square" translatable="false">&#xf194;</string>
+    <string name="fa_vimeo_v" translatable="false">&#xf27d;</string>
+    <string name="fa_vine" translatable="false">&#xf1ca;</string>
+    <string name="fa_virus" translatable="false">&#xe074;</string>
+    <string name="fa_virus_slash" translatable="false">&#xe075;</string>
+    <string name="fa_viruses" translatable="false">&#xe076;</string>
+    <string name="fa_vk" translatable="false">&#xf189;</string>
+    <string name="fa_vnv" translatable="false">&#xf40b;</string>
+    <string name="fa_voicemail" translatable="false">&#xf897;</string>
+    <string name="fa_volleyball_ball" translatable="false">&#xf45f;</string>
+    <string name="fa_volume_down" translatable="false">&#xf027;</string>
+    <string name="fa_volume_mute" translatable="false">&#xf6a9;</string>
+    <string name="fa_volume_off" translatable="false">&#xf026;</string>
+    <string name="fa_volume_up" translatable="false">&#xf028;</string>
+    <string name="fa_vote_yea" translatable="false">&#xf772;</string>
+    <string name="fa_vr_cardboard" translatable="false">&#xf729;</string>
+    <string name="fa_vuejs" translatable="false">&#xf41f;</string>
+    <string name="fa_walking" translatable="false">&#xf554;</string>
+    <string name="fa_wallet" translatable="false">&#xf555;</string>
+    <string name="fa_warehouse" translatable="false">&#xf494;</string>
+    <string name="fa_watchman_monitoring" translatable="false">&#xe087;</string>
+    <string name="fa_water" translatable="false">&#xf773;</string>
+    <string name="fa_wave_square" translatable="false">&#xf83e;</string>
+    <string name="fa_waze" translatable="false">&#xf83f;</string>
+    <string name="fa_weebly" translatable="false">&#xf5cc;</string>
+    <string name="fa_weibo" translatable="false">&#xf18a;</string>
+    <string name="fa_weight" translatable="false">&#xf496;</string>
+    <string name="fa_weight_hanging" translatable="false">&#xf5cd;</string>
+    <string name="fa_weixin" translatable="false">&#xf1d7;</string>
+    <string name="fa_whatsapp" translatable="false">&#xf232;</string>
+    <string name="fa_whatsapp_square" translatable="false">&#xf40c;</string>
+    <string name="fa_wheelchair" translatable="false">&#xf193;</string>
+    <string name="fa_whmcs" translatable="false">&#xf40d;</string>
+    <string name="fa_wifi" translatable="false">&#xf1eb;</string>
+    <string name="fa_wikipedia_w" translatable="false">&#xf266;</string>
+    <string name="fa_wind" translatable="false">&#xf72e;</string>
+    <string name="fa_window_close" translatable="false">&#xf410;</string>
+    <string name="fa_window_maximize" translatable="false">&#xf2d0;</string>
+    <string name="fa_window_minimize" translatable="false">&#xf2d1;</string>
+    <string name="fa_window_restore" translatable="false">&#xf2d2;</string>
+    <string name="fa_windows" translatable="false">&#xf17a;</string>
+    <string name="fa_wine_bottle" translatable="false">&#xf72f;</string>
+    <string name="fa_wine_glass" translatable="false">&#xf4e3;</string>
+    <string name="fa_wine_glass_alt" translatable="false">&#xf5ce;</string>
+    <string name="fa_wix" translatable="false">&#xf5cf;</string>
+    <string name="fa_wizards_of_the_coast" translatable="false">&#xf730;</string>
+    <string name="fa_wodu" translatable="false">&#xe088;</string>
+    <string name="fa_wolf_pack_battalion" translatable="false">&#xf514;</string>
+    <string name="fa_won_sign" translatable="false">&#xf159;</string>
+    <string name="fa_wordpress" translatable="false">&#xf19a;</string>
+    <string name="fa_wordpress_simple" translatable="false">&#xf411;</string>
+    <string name="fa_wpbeginner" translatable="false">&#xf297;</string>
+    <string name="fa_wpexplorer" translatable="false">&#xf2de;</string>
+    <string name="fa_wpforms" translatable="false">&#xf298;</string>
+    <string name="fa_wpressr" translatable="false">&#xf3e4;</string>
+    <string name="fa_wrench" translatable="false">&#xf0ad;</string>
+    <string name="fa_x_ray" translatable="false">&#xf497;</string>
+    <string name="fa_xbox" translatable="false">&#xf412;</string>
+    <string name="fa_xing" translatable="false">&#xf168;</string>
+    <string name="fa_xing_square" translatable="false">&#xf169;</string>
+    <string name="fa_y_combinator" translatable="false">&#xf23b;</string>
+    <string name="fa_yahoo" translatable="false">&#xf19e;</string>
+    <string name="fa_yammer" translatable="false">&#xf840;</string>
+    <string name="fa_yandex" translatable="false">&#xf413;</string>
+    <string name="fa_yandex_international" translatable="false">&#xf414;</string>
+    <string name="fa_yarn" translatable="false">&#xf7e3;</string>
+    <string name="fa_yelp" translatable="false">&#xf1e9;</string>
+    <string name="fa_yen_sign" translatable="false">&#xf157;</string>
+    <string name="fa_yin_yang" translatable="false">&#xf6ad;</string>
+    <string name="fa_yoast" translatable="false">&#xf2b1;</string>
+    <string name="fa_youtube" translatable="false">&#xf167;</string>
+    <string name="fa_youtube_square" translatable="false">&#xf431;</string>
+    <string name="fa_zhihu" translatable="false">&#xf63f;</string>
 
 </resources>
