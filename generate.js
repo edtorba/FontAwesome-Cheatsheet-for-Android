@@ -1,16 +1,22 @@
 var fs = require('fs');
 var yaml = require('js-yaml');
+var _ = require('lodash');
 
-// get icons.yml from https://github.com/FortAwesome/Font-Awesome/tree/master/src
-var iconFile = fs.readFileSync('icons.yml', 'utf8')
-var coreIcons = yaml.safeLoad(iconFile).icons; // the official icon list
 var icons = []; // our custom icon list so we can include (and sort) aliases
+
+try {
+  var iconFile = fs.readFileSync('icons.yml', 'utf8')
+  var coreIcons = yaml.safeLoad(iconFile);
+} catch (e) {
+  console.log(e);
+}
+
 
 var output = '<?xml version="1.0" encoding="utf-8"?>\n<resources>\n\n';
 
 // generate our custom list
-coreIcons.forEach(function(i) {
-  icons.push({id: i.id, unicode: i.unicode});
+_.forEach(coreIcons, function(i) {
+  icons.push({id: _.findKey(coreIcons, i), unicode: i.unicode});
 
   if (i.aliases) {
     i.aliases.forEach(function(alias) {
@@ -33,7 +39,7 @@ icons.sort(function(a, b) {
 
 icons.forEach(function(i) {
   var name = i.id.replace(/-/gi, '_');
-  output += '    <string name="fa_' + name + '">&#x' + i.unicode + ';</string>\n';
+  output += '    <string name="fa_' + name + '" translatable="false">&#x' + i.unicode + ';</string>\n';
 });
 
 output += '\n</resources>';
